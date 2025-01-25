@@ -1,0 +1,62 @@
+name: Index Images in README
+
+on:
+  push:
+    branches:
+      - main # Or whichever branch you want to trigger on
+    paths:
+      # Trigger only if image files are added/modified
+      - 'vision/pc/**.png'
+      - 'vision/pc/**.jpg'
+      - 'vision/pc/**.jpeg'
+      - 'vision/pc/**.gif'
+      - 'vision/pc/**.bmp'
+      - 'vision/pc/**.webp'
+      # Or trigger if the script itself changes
+      - '.github/workflows/image_indexer.yml'
+      - 'index_images.py'
+  workflow_dispatch: # Allows manual triggering
+
+permissions:
+  contents: write # Allow workflow to write back to the repo
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.5.0
+        with:
+          python-version: '3.13' # Choose a suitable Python version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install Pillow google-generativeai
+
+      - name: Run image indexing script
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python index_images.py # Adjust path if needed
+
+      - name: Commit and push README.md
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to README.md to commit."
+          else
+            git commit -m "Automated README update with image index"
+            # Add retry logic for the push command
+            for i in 1 2 3; do
+              git push && break # Break loop if push succeeds
+              echo "Push failed. Retrying in 5 seconds... (Attempt $i)"
+              sleep 5
+            done || echo "Failed to push after multiple retries." # Message if all retries fail
+          fi
+        shell: bash
