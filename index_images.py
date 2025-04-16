@@ -9,19 +9,19 @@ import io
 
 # --- Configuration ---
 # Configure the Google AI API key (Ideally load from GitHub Secrets)
-# Example: genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
-# Make sure to set the GOOGLE_API_KEY secret in your GitHub repo settings
+# Example: genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+# Make sure to set the GEMINI_API_KEY secret in your GitHub repo settings
 try:
-    genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     print("Google AI API Key configured.")
 except KeyError:
-    print("Error: GOOGLE_API_KEY environment variable not set.")
-    print("Please configure the GOOGLE_API_KEY secret in your GitHub repository settings.")
+    print("Error: GEMINI_API_KEY environment variable not set.")
+    print("Please configure the GEMINI_API_KEY secret in your GitHub repository settings.")
     exit(1) # Exit if the key is not configured
 
 # Configure the generative model
 # Use a model that supports image input, like 'gemini-pro-vision' or the latest vision model
-model = genai.GenerativeModel('gemini-pro-vision') # Or use 'gemini-1.5-flash', 'gemini-1.5-pro' etc.
+model = genai.GenerativeModel('gemini-2.0-flash') # Or use 'gemini-1.5-flash', 'gemini-1.5-pro' etc.
 print(f"Using Generative Model: {model.model_name}")
 
 # Directory to search for images (root of the repo in a GitHub Action)
