@@ -335,7 +335,7 @@ print(f"  - Errors/Skipped: {error_count}")
 print("\nGenerating README.md...")
 try:
     with open(readme_file, 'w', encoding='utf-8') as f:
-        f.write("# Image Index\n\n")
+        f.write("# Vision Image Index\n\n")
         f.write(f"This README automatically indexes images found in the repository. Last updated: {time.strftime('%Y-%m-%d %H:%M:%S %Z')}\n\n")
         f.write("| Image | Filename | Description | Tags | Metadata | Hash |\n")
         f.write("|---|---|---|---|---|---|\n")
