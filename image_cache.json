@@ -1,0 +1,194 @@
+{
+    "42f5fe8919ee61d083596b20164b16923604476b19610c6e9c3d76888b087718": {
+        "tags": "inflation, growth, economics, sectors, stagflation, running hot, disinflation, investment, s&p1500",
+        "description": "The image is a macro environment grid showing the position of different S&P 1500 industry groups and style factors based on economic growth and inflation."
+    },
+    "cee21fdfc6198a1d6ecfbebecd52b0ca28280364db3b86fbbd38f277f8faf04f": {
+        "tags": "internet, registration, information, trollface, text, ascii, network, address, northkorea",
+        "description": "A screenshot shows internet registration details including addresses, with a trollface ASCII art embedded in the remarks section."
+    },
+    "03810413414d4340fd21a3ada5215bc94e77d4a3ae723fad0bb9b546b198345b": {
+        "tags": "graph, ai, models, reality, probability, impact, progression, chart",
+        "description": "The image is a graph showing the relationship between event probability and event impact for reality and AI models, illustrating how reality's impact decreases as probability increases, while AI models' impact increases exponentially."
+    },
+    "b4539d6e4c977c779189e5534463b3eb650a871a050ee425bc0ace1335571071": {
+        "tags": "cybersecurity, malware, threat, intelligence, analysis, reports, groups, attack, campaign, relations",
+        "description": "The image illustrates the relationships between Moonstone Sleet and other cyber threat subgroups through a diagram outlining related incidents, malware, and activities, referencing reports and campaigns."
+    },
+    "b9b35da01d78bde4bc74e9200e92f4cd3cb213c5a98eb5e283713928ed59d7a0": {
+        "tags": "cartoon, ox, mascot, logo, orange, horns, roundox, cute",
+        "description": "A cartoon depiction of an ox head with horns appears above the word \"roundOx\" on an orange background."
+    },
+    "993d34caa618a019de7e854f39beaded5d581283814a1724567e6824601b64f0": {
+        "tags": "diagram, workflow, ai, model, deepseek, training, sft, distillation, reasoning, rorl",
+        "description": "The image depicts a flowchart illustrating the training pipeline and model distillation process for DeepSeek-V3 and related models."
+    },
+    "bc3ec0f710889bf6398786a0026ce71a9fc3e542e0ac400493bc1775b4802dce": {
+        "tags": "stock, chart, market, finance, dow, jones, index, analysis",
+        "description": "The image depicts a stock market chart, specifically the Dow Jones Global Index, spanning from 2009 to 2025, with annotations indicating significant market events like the \"Christmas Eve Crash\" and \"Pandemic.\""
+    },
+    "d72cae2967be0b7ebb886c69c221864edea70528a00573ba9b467bcceade637b": {
+        "tags": "spire, server, agent, wl, network, certificate, overview, diagram",
+        "description": "The image illustrates the SPIRE overview architecture, showing the communication between the spire server, spire agents, and workloads."
+    },
+    "6d2330e9499474c6f13a9029de5475f66dcd8cfb9fa4c2f26ac2d1cb4a53afed": {
+        "tags": "meme, organization, structure, flowchart, external, emc, communication, analysis, engineer, cells",
+        "description": "The image shows a flowchart titled \"Proposed Structure\" for an \"External Meme Center (EMC),\" detailing different departments and cells involved in meme engineering, analysis, communications, strategic communication, and assessment."
+    },
+    "07c99609b412ff8a41864370c44caa69d8ff936e7c65adf84416bf46efc42544": {
+        "tags": "trade, usa, china, dominance, global, map, economy, import, export",
+        "description": "The infographic illustrates the shift in global trade dominance between the U.S. and China from 2000 to 2024, depicting China's increased presence as a larger trading partner."
+    },
+    "6e24766a9ec69fafda73020ac25a80b7625802f6a665a0b5c2200e0ec36c60eb": {
+        "tags": "logo, bull, kubernetes, roundox, cartoon, mascot, animal, vector",
+        "description": "The image features a logo with a cartoon bull above the text \"ROUNDOx KUBERNETES\" on a dark blue background."
+    },
+    "66ffe00b73ba5c07102f7a9142e9bd7cbce443588b7297f1d6104e10955aeeb3": {
+        "tags": "aws, ecr, docker, sbom, oras, cli, security, artifact, image, spdx",
+        "description": "The image shows code snippets and instructions for generating and pushing an SBOM (Software Bill of Materials) to an Amazon Elastic Container Registry (ECR) using tools like AWS CLI, Docker, Syft, and Oras."
+    },
+    "e8ef1081763581d02d97b7136df0f2c096da929931ef973805f665f088a159c9": {
+        "tags": "llm, database, embedding, model, chunks, vector, query, prompt, context",
+        "description": "The image illustrates a system that allows users to chat with their documents by chunking data, creating embeddings, querying a vector database, and using a prompt template with an LLM."
+    },
+    "564a28e654dcdd983a5bdabc0632a35e3c40c5c61e19433c86c8eb63805121d3": {
+        "tags": "finance, investing, debt, margin, loan, taxes, income, portfolio",
+        "description": "A Twitter post by Max Anderson describes a financial strategy involving borrowing against assets to fund a personal budget and avoid paying taxes."
+    },
+    "03ddb3085d59938d83352e4d1f745ae2e6c12b39693b042c2c32e9eb6db6fcb4": {
+        "tags": "amazon, leadership, principles, values, business, management, strategy, growth",
+        "description": "The image displays a visual representation of Amazon's 16 Leadership Principles, each in a rounded square with different colors."
+    },
+    "a15539c43e3fdea9dc8b623892d7f03f2f438b33c2a672a6df1266fd0d0bc346": {
+        "tags": "text, isaac asimov, short story, the last question, science fiction, computer, multivac",
+        "description": "The image shows the beginning paragraphs of Isaac Asimov's short story, \"The Last Question.\""
+    },
+    "0894dd0e1adbbc183986056c3fd177fe01211f1a56bada5e0245484ed82bce65": {
+        "tags": "graph, economics, demand, supply, equilibrium, price, quantity, curve",
+        "description": "The image displays a supply and demand graph illustrating the equilibrium point where the two curves intersect, with an arrow indicating a shift in demand."
+    },
+    "bbdef3714d121effbd2571847679a3b440b65fcbf235b1676f03c16173ff6531": {
+        "tags": "node, attestation, spire, aws, server, agent, cloud, network",
+        "description": "The image illustrates a node attestation process between a spire-agent and a spire-server, using AWS as part of the attestation."
+    },
+    "072f6cd49b65a2a86223f810b4d8112d62841d6f852208eda6a8d0ee168a02d9": {
+        "tags": "popcorn brain, attention, focus, mental state, cognitive, anxiety, stress, fatigue",
+        "description": "The text defines \"popcorn brain\" as a mental state characterized by scattered thoughts, fragmented attention, and difficulty focusing, leading to increased stress, anxiety, and fatigue."
+    },
+    "819e510b644a63781ab01ba147e6598dd1912955c6b987efb8f7b4ad9589291e": {
+        "tags": "logo, ox, cartoon, kubernetes, security, mascot, roundox, services, illustration",
+        "description": "The image is a logo featuring a cartoon ox above the word \"roundOx\" with the tagline \"provides security services for kubernetes.\""
+    },
+    "c1b4bc066888c981d74b51e049fdef0d725ced94aa44b11c39f435b41fe6f71d": {
+        "tags": "posters, travel, train, art, vintage, transport, tourism, routes",
+        "description": "The image displays a collection of vintage-style travel posters advertising different Amtrak train routes in the United States."
+    },
+    "bf7bdf6b00098c2b446398dd7ad1ca69cab41803d53d3a29b4b40f387c09388e": {
+        "tags": "chart, scatterplot, technology, companies, marketcap, dilution, stocks, investment",
+        "description": "The chart displays technology company dilution compared to their market capitalization, showing an inverse relationship."
+    },
+    "c0912f15cb81c6e02cac527e6e54f6fc88c36e2be539138f81b801e1a44cc5a4": {
+        "tags": "scatterplot, revenue, growth, multiple, company, stock, market, data, analysis",
+        "description": "This scatterplot depicts the relationship between NTM revenue growth and NTM revenue multiple for various companies."
+    },
+    "c2b460464053e4cb7dd02e1dce43ed2a2ae0bafed151283004a77bf8b4bfe8bc": {
+        "tags": "stock, market, spx, chart, trading, analysis, finance, livestream, investment",
+        "description": "A man is livestreaming his analysis of the SPX stock market chart on a computer screen."
+    },
+    "75ab55eeb3fa15fa32e653234ebd5be2775ef37e22b3171772d266134aa98295": {
+        "tags": "message, telegram, github, chat, link, notification, screenshot",
+        "description": "A screenshot shows a Telegram conversation containing a link to a GitHub repository related to North Korean APT articles and analysis."
+    },
+    "e9afe47ac3558c2930bcdbffccd855a610193d080ee029ebcab3ebde9a381f90": {
+        "tags": "reddit, jobs, comments, forum, map, location, post, thread, employment",
+        "description": "A screenshot of a Reddit thread on r/jobs discussing a job search site that uses map location."
+    },
+    "9d4470e71bab2ef6c7f50e82227896027969505a66fcf4281861db827301b9b5": {
+        "tags": "market, business, economic, policy, stability, diagram, boxes, text",
+        "description": "The image shows a diagram with four boxes labeled \"Market Stability,\" \"Business Stability,\" \"Economic Stability,\" and \"Policy Stability.\""
+    },
+    "d160bfe7daaec1d8dcdb879f1ed28599a74304f360bf2e0d84edfd440bf997c8": {
+        "tags": "ai, multi-agent, architecture, research, scientist, system, flowchart, agents, design",
+        "description": "This diagram depicts the multi-agent architecture of an AI co-scientist system, showing how it processes a research goal into a detailed research overview through interaction among specialized agents and workers."
+    },
+    "7a1726c2abc9524a726fd4e075484b4da87761876792d934d31a073a73410160": {
+        "tags": "logo, bull, ox, cartoon, mascot, kubernetes, roundox, vector, animal",
+        "description": "The image features the \"roundOx\" logo with a cartoon bull head and the word \"kubernetes\" underneath."
+    },
+    "113fb76acc756ec8524a4b837556021a9b7c7a9412d5ac6a136ff27643587a4a": {
+        "tags": "finance, investment, taxes, wealth, post, socialmedia, twitch, streamer",
+        "description": "A social media post explains how the rich pay zero taxes through investments and margin loans, including a Twitch streamer's channel name."
+    },
+    "5867d599481a9bf74ae09049aed4275f01d2cc2134f9dabc1c8756047ad84c7c": {
+        "tags": "cat, ginger, feline, animal, pet, close-up, face, orange",
+        "description": "A close-up shows a ginger cat with a slightly grumpy expression."
+    },
+    "a3fd6373338e1817f0015dc6dd72a80d70eb11c3da6c3f4313d4709369130ec7": {
+        "tags": "finance, investment, hedging, strategy, put, call, market, equity, portfolio, graph",
+        "description": "The image presents a diagram illustrating how a hedged strategy overlay works, involving the buying and selling of put and call options to manage equity market exposure and provide downside protection."
+    },
+    "1e97cbc59bc8714c67f65178773ee6f7b31157ffa71ff5f13cca0fbee59f6200": {
+        "tags": "finance, options, spreads, stocks, market, trading, data, call, put, ratios",
+        "description": "The image presents a list of various stock and ETF option spreads with their corresponding details such as strike prices, expiration dates, and prices."
+    },
+    "2b89598e34226f87dc9a4a46ef0f08be5fba783d82f4415464ed4273c578e6b3": {
+        "tags": "cube, cyberspace, domain, dimensions, operational, environment, framework, cyber",
+        "description": "A three-dimensional cube diagram depicts the cyber domain with its various layers and components across physical, cognitive, and informational dimensions."
+    },
+    "4e1f22b0f8504642f569fcfa6938f3f64a24691bb3852b9e58ffe478452fdd99": {
+        "tags": "calendar, events, technology, legal, policy, companies, deadlines, conference, product",
+        "description": "The image shows a \"Global Internet Catalyst Calendar\" listing key upcoming events, policy deadlines, legal hearings, and product launches for various tech companies like Google, Meta, Amazon, and Microsoft in March, April, and May of 2025."
+    },
+    "178bb8cf2ff96722f304f2b3d2dca9ea2a352a09c4d918373b9d0ebeed865003": {
+        "tags": "tariffs, economics, trade, gdp, labor, impact, analysis, table, goods",
+        "description": "A table outlines the hypothetical economic, labor, and GDP impacts of tariffs on all goods between Mexico and Canada in 2025."
+    },
+    "f9bf71fb24267bfc21dd900d3e91af51871fe9622d7c7d74e9429c38a839243c": {
+        "tags": "market, business, economic, policy, stability, diagram, boxes, text",
+        "description": "The image displays a diagram with four boxes, each labeled with a different type of stability: market, business, economic, and policy."
+    },
+    "6e86ff62238870c2a31e8855404aaf7be89136211be6757308f27b0ce4fab337": {
+        "tags": "allergy, peanuts, food, children, pollution, anaphylaxis, health, incidence, market, treatment",
+        "description": "The image presents data on food-induced anaphylaxis, peanut allergy incidence and association with air pollution in children, alongside a U.S. peanut allergy treatment market analysis."
+    },
+    "c16e4cce49688c54beb1e4883dc35cc66a6532aeeb28c657e9106696200d9ed9": {
+        "tags": "llm, ai, diagram, workflow, architecture, agents, graph, nested, directed, system",
+        "description": "The image illustrates different LLM (Large Language Model) terms and their corresponding nested directed graph architectures, including prompt chaining, chat, RAG, map-reduce, chain-of-thought, tree-of-thought, agent, multi-agent, and supervisor."
+    },
+    "bb6edceff1dd05ae80d8dae6ae00542610c7830b87bcc937a7540c04123dba44": {
+        "tags": "workload, attestation, spire, agent, linux, kernel, server, api, socket",
+        "description": "The image illustrates a workload attestation process involving a spire-agent and a workload running on a Linux kernel within a server, communicating via an API socket."
+    },
+    "021d585fb81390a6c42d7c20e1764492256145c1a70ee27c13d5455c5ff81663": {
+        "tags": "finance, stock, analyst, bros, dutch bros, investment, ebitda, growth, valuation",
+        "description": "Morgan Stanley analysts initiated coverage on Dutch Bros Inc. (BROS) with an Overweight rating and an $82 price target, citing significant growth potential and a robust valuation."
+    },
+    "90e53f0d81cc66c62c4c7101e0a5e8b7a998955034b517908dd9022d01fb05a1": {
+        "tags": "investment, finance, budget, money, tax, portfolio, sacrifice, discipline",
+        "description": "The image shows a social media post discussing a financial strategy focused on investment, budgeting, and tax-free income generation."
+    },
+    "d4eaddd5ba213578987753f44cef4dd28302329192b57692e48a0cce233b853a": {
+        "tags": "debt, interest, rates, recession, treasury, economics, finance, spiral",
+        "description": "A screenshot of a tweet discussing the US federal debt, rising interest rates, and the possibility of a recession."
+    },
+    "76503ceb577fd5650cf8c8280ba5f9ff5a05e595555d9d3a64e46f173c7d61cd": {
+        "tags": "cityscape, futuristic, skyline, architecture, skyscrapers, urban, greenery, sunlight, clouds",
+        "description": "A futuristic cityscape shows densely packed skyscrapers interspersed with green spaces, all bathed in the glow of the setting sun."
+    },
+    "ee5483ae57a509c0eaf8eb0e385b60745b69a217cfb9fbd0bb970160b5df1175": {
+        "tags": "politics, chart, graph, values, international, cooperation, liberal, conservative, countries, russia",
+        "description": "The image shows a scatter plot illustrating the political positions of various countries' political movements based on liberal/conservative values and international cooperation."
+    },
+    "a0570cf39096bec96fffa609fd7ac5ff7bac06c6ad42927483a1777cc5f7d19e": {
+        "tags": "finance, economics, interest, rate, graph, investment, market, debt",
+        "description": "A screenshot from Twitter displays a chart showing the interest rate curve as of March 24, 2025, alongside commentary about economic policy."
+    },
+    "217755419ff004cd15cb2ce63d4bc4e78556460be225aed5fc72b6c68e44bbe7": {
+        "tags": "workload, identity, spiffe, kubernetes, docker, selectors, parent, k8s, security",
+        "description": "The image depicts a workload identity configuration, including parent ID, selectors for Kubernetes and Docker, and the SPIFFE ID."
+    },
+    "cc5738eb7ebddf272bd1ccfdd3b1da55fc29b51d29b83756862a8e37bd9a5f8f": {
+        "tags": "ai, humanity, dystopia, technology, risk, automation, ethics, future, concerns",
+        "description": "The image depicts a dam labeled \"AI\" about to burst, with cracks representing various potential AI-related threats to humanity below."
+    }
+}
