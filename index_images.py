@@ -1,14 +1,15 @@
 import os
 import glob
 import hashlib
-import base64
+# import base64 # No longer explicitly used, can be removed if desired
 from PIL import Image
 import google.generativeai as genai
 from pathlib import Path
-import io
+# import io # No longer explicitly used, can be removed if desired
 import time
 import random
 import json
+import re # Import regular expression module
 
 # --- Configuration ---
 CACHE_FILE = 'image_cache.json'
@@ -17,7 +18,6 @@ INITIAL_BACKOFF_SECS = 2  # Initial wait time in seconds for backoff
 
 # Configure the Google AI API key (Load from GitHub Secrets)
 try:
-    # Using the environment variable name provided by the user
     api_key = os.environ["GEMINI_API_KEY"]
     genai.configure(api_key=api_key)
     print("Google AI API Key configured.")
@@ -27,11 +27,8 @@ except KeyError:
     exit(1) # Exit if the key is not configured
 
 # Configure the generative model
-# Use a model that supports image input.
-# Using 'gemini-1.5-flash-latest' as 'gemini-2.0-flash' might not be valid.
-# Adjust to 'gemini-1.5-pro-latest' or other models if needed.
 try:
-    model = genai.GenerativeModel('gemini-2.0-flash')
+    model = genai.GenerativeModel('gemini-1.5-flash-latest')
     print(f"Using Generative Model: {model.model_name}")
 except Exception as e:
     print(f"Error configuring Generative Model: {e}")
@@ -47,17 +44,82 @@ readme_file = 'README.md'
 
 # --- Helper Functions ---
 
+def normalize_and_rename(file_rel_path, base_dir):
+    """
+    Normalizes a filename (lowercase, replaces spaces/special chars)
+    and renames the file on the filesystem. Handles collisions.
+    Returns the new relative path if renamed, otherwise the original relative path.
+    """
+    full_original_path = os.path.join(base_dir, file_rel_path)
+    directory, filename = os.path.split(file_rel_path)
+    base_name, extension = os.path.splitext(filename)
+
+    # Normalize: lowercase, replace spaces with underscores
+    normalized_base = base_name.lower().replace(' ', '_')
+    # Remove disallowed characters (allow letters, numbers, underscore, hyphen)
+    normalized_base = re.sub(r'[^a-z0-9_-]', '', normalized_base)
+    # Replace multiple consecutive underscores/hyphens with a single one
+    normalized_base = re.sub(r'[_]{2,}', '_', normalized_base)
+    normalized_base = re.sub(r'[-]{2,}', '-', normalized_base)
+    # Remove leading/trailing underscores/hyphens
+    normalized_base = normalized_base.strip('_-')
+
+    # Ensure base_name is not empty after normalization
+    if not normalized_base:
+        normalized_base = "image" # Default name if everything is stripped
+
+    new_filename = f"{normalized_base}{extension.lower()}" # Ensure extension is lowercase too
+    new_rel_path = os.path.join(directory, new_filename)
+    full_new_path = os.path.join(base_dir, new_rel_path)
+
+    # Proceed only if the path actually changes
+    if full_original_path == full_new_path:
+        return file_rel_path # No change needed
+
+    # --- Collision Handling ---
+    counter = 1
+    temp_new_path = full_new_path
+    temp_new_rel_path = new_rel_path
+    temp_new_filename = new_filename
+
+    # Check if the target path exists and is not the original file itself
+    while os.path.exists(temp_new_path) and temp_new_path != full_original_path:
+        print(f"  Collision detected for '{temp_new_filename}'. Trying next suffix.")
+        # Construct filename with counter
+        temp_new_filename = f"{normalized_base}_{counter}{extension.lower()}"
+        temp_new_rel_path = os.path.join(directory, temp_new_filename)
+        temp_new_path = os.path.join(base_dir, temp_new_rel_path)
+        counter += 1
+
+    # Final paths after collision check
+    final_new_path = temp_new_path
+    final_new_rel_path = temp_new_rel_path
+
+    # Only rename if the final path is different from the original
+    if full_original_path != final_new_path:
+        try:
+            os.rename(full_original_path, final_new_path)
+            print(f"  Renamed: '{file_rel_path}' -> '{final_new_rel_path}'")
+            return final_new_rel_path # Return the new relative path
+        except OSError as e:
+            print(f"  Error renaming '{file_rel_path}' to '{final_new_rel_path}': {e}")
+            return file_rel_path # Return original path on error
+    else:
+        # This case can happen if collision handling resulted back in the original path
+        # (e.g. file `image_1.jpg` exists, trying to rename `image.jpg` which normalizes to `image.jpg`,
+        # collision makes it `image_1.jpg`, which exists but is the original file path)
+        return file_rel_path # No actual rename occurred
+
+
 def load_cache(cache_file_path):
     """Loads the image processing cache from a JSON file."""
     if os.path.exists(cache_file_path):
         try:
             with open(cache_file_path, 'r', encoding='utf-8') as f:
-                # Check if file is empty
                 content = f.read()
                 if not content:
                     print(f"Cache file '{cache_file_path}' is empty. Starting with an empty cache.")
                     return {}
-                # Reset file pointer and load JSON
                 f.seek(0)
                 cache = json.load(f)
                 print(f"Loaded cache with {len(cache)} entries from {cache_file_path}")
@@ -102,9 +164,7 @@ def get_image_metadata(image_path):
     """Extracts basic metadata from an image file."""
     try:
         with Image.open(image_path) as img:
-            # Ensure image data is loaded to catch potential errors early
             img.load()
-            # Get file size safely
             try:
                 size_bytes = os.path.getsize(image_path)
                 size_kb = f"{size_bytes / 1024:.2f} KB"
@@ -121,24 +181,16 @@ def get_image_metadata(image_path):
             }
     except FileNotFoundError:
          print(f"Error: File not found when getting metadata: {image_path}")
-         # Try to get size anyway if possible, otherwise return N/A for all
-         try:
-             size_bytes = os.path.getsize(image_path)
-             size_kb = f"{size_bytes / 1024:.2f} KB"
-         except Exception:
-             size_kb = "N/A"
+         try: size_bytes = os.path.getsize(image_path); size_kb = f"{size_bytes / 1024:.2f} KB"
+         except Exception: size_kb = "N/A"
          return { "dimensions": "N/A", "format": "N/A", "mode": "N/A", "size_kb": size_kb }
     except Image.UnidentifiedImageError:
         print(f"Error: Cannot identify image file (possibly corrupt or unsupported format): {image_path}")
         return { "dimensions": "N/A", "format": "Unidentified", "mode": "N/A", "size_kb": "N/A" }
     except Exception as e:
         print(f"Error getting metadata for {image_path}: {e}")
-        # Try to get size anyway if possible
-        try:
-             size_bytes = os.path.getsize(image_path)
-             size_kb = f"{size_bytes / 1024:.2f} KB"
-        except Exception:
-             size_kb = "N/A"
+        try: size_bytes = os.path.getsize(image_path); size_kb = f"{size_bytes / 1024:.2f} KB"
+        except Exception: size_kb = "N/A"
         return { "dimensions": "N/A", "format": "N/A", "mode": "N/A", "size_kb": size_kb }
 
 
@@ -149,7 +201,6 @@ def generate_tags_and_description(image_path):
     while retries < MAX_RETRIES:
         try:
             img_pil = Image.open(image_path)
-            # Ensure image data is loaded before sending to API
             img_pil.load()
 
             prompt = """
@@ -162,45 +213,33 @@ def generate_tags_and_description(image_path):
             Description: A brief description here.
             """
 
-            # --- API Call ---
             response = model.generate_content([prompt, img_pil], stream=False)
-            response.resolve() # Ensure the response is fully generated
+            response.resolve()
 
-            # --- Parsing the response ---
             tags = "Error: Could not parse AI response"
             description = "Error: Could not parse AI response"
 
             if response.text:
                 lines = response.text.strip().split('\n')
-                parsed_tags = False
-                parsed_desc = False
+                parsed_tags = False; parsed_desc = False
                 for line in lines:
                     if line.lower().startswith("tags:"):
-                        tags = line[len("Tags:"):].strip()
-                        parsed_tags = True
+                        tags = line[len("Tags:"):].strip(); parsed_tags = True
                     elif line.lower().startswith("description:"):
-                        description = line[len("Description:"):].strip()
-                        parsed_desc = True
+                        description = line[len("Description:"):].strip(); parsed_desc = True
                 if not parsed_tags and not parsed_desc:
-                     # Handle cases where the model might not follow the format exactly
                      print(f"Warning: AI response for {image_path} did not strictly follow format. Raw response: {response.text[:200]}...")
-                     # Try a simple heuristic: assume first line is tags, second is description if available
                      if len(lines) >= 1: tags = lines[0].strip()
                      if len(lines) >= 2: description = lines[1].strip()
                      else: description = "Could not parse description from AI response."
-
-
             else:
                  print(f"Warning: No text response from AI for {image_path}.")
-                 # Check for safety blocks or other issues
                  try:
                      if response.prompt_feedback.block_reason:
                          reason = response.prompt_feedback.block_reason
                          print(f"Content blocked for {image_path}. Reason: {reason}")
                          return "Blocked", f"Content blocked by API. Reason: {reason}"
-                 except (AttributeError, ValueError):
-                     # Handle cases where feedback might not be present or structured as expected
-                      pass
+                 except (AttributeError, ValueError): pass
                  return "Error: No text from AI", "Error: No text response received from AI."
 
             print(f"Successfully generated tags/description for {image_path}")
@@ -213,23 +252,16 @@ def generate_tags_and_description(image_path):
             print(f"Error: File not found before API call: {image_path}")
             return "Error: File Not Found", "Image file was not found during processing."
         except Exception as e:
-            # Catch potential API errors (like rate limits, server errors, etc.)
-            # Ideally, catch specific exceptions from google.api_core.exceptions if known
-            # e.g., except google.api_core.exceptions.ResourceExhausted as rate_limit_error:
             retries += 1
             print(f"Error generating tags/description for {image_path}: {e}. Retry {retries}/{MAX_RETRIES}...")
-
             if retries >= MAX_RETRIES:
                 print(f"Failed to generate tags for {image_path} after {MAX_RETRIES} retries.")
                 return "Error: Max Retries", f"Failed to process with AI after multiple retries: {e}"
-
-            # Exponential backoff with jitter
             wait_time = INITIAL_BACKOFF_SECS * (2 ** (retries - 1))
-            sleep_duration = wait_time + random.uniform(0, wait_time * 0.5) # Add jitter
+            sleep_duration = wait_time + random.uniform(0, wait_time * 0.5)
             print(f"Waiting for {sleep_duration:.2f} seconds before retrying...")
             time.sleep(sleep_duration)
 
-    # Should not be reached if loop logic is correct, but as a fallback
     return "Error: Unknown Failure", "An unexpected error occurred during tag generation."
 
 
@@ -238,47 +270,60 @@ def find_image_files(directory, extensions):
     files_found = []
     print(f"Searching for images in: {os.path.abspath(directory)}")
     for ext in extensions:
-        # Use recursive glob to find files in subdirectories
         pattern = os.path.join(directory, '**', ext)
         found = glob.glob(pattern, recursive=True)
-        # Filter out files within .git directory or other unwanted paths like the cache file itself
         for f in found:
              path_obj = Path(f)
-             # Check if '.git' is in the path parts and if the file is the cache file
              if '.git' not in path_obj.parts and path_obj.name != CACHE_FILE:
-                 # Convert to relative path for cleaner output and consistency
                  relative_path = os.path.relpath(f, directory)
                  files_found.append(relative_path)
-
-    # Remove duplicates that might arise from overlapping patterns or symlinks
     files_found = sorted(list(set(files_found)))
-    print(f"Found {len(files_found)} unique image files.")
+    print(f"Found {len(files_found)} unique image candidate files initially.")
     return files_found
 
 # --- Main Script Logic ---
 
 print("Starting image indexing process...")
 
-# Load existing cache
+# 1. Find all potential image files
+initial_image_files = find_image_files(search_dir, image_extensions)
+
+# 2. Normalize filenames and rename files on disk
+print("\n--- Normalizing Filenames ---")
+normalized_image_files = []
+renamed_count = 0
+for img_rel_path in initial_image_files:
+    print(f"Normalizing: {img_rel_path}")
+    new_rel_path = normalize_and_rename(img_rel_path, search_dir)
+    if new_rel_path != img_rel_path:
+        renamed_count += 1
+    normalized_image_files.append(new_rel_path)
+print(f"--- Normalization complete. {renamed_count} files potentially renamed. ---")
+
+# Use the list of normalized paths for further processing
+image_files_to_process = sorted(list(set(normalized_image_files))) # Ensure uniqueness after potential renames
+print(f"Processing {len(image_files_to_process)} images after normalization.")
+
+
+# 3. Load existing cache
 image_cache = load_cache(CACHE_FILE)
 processed_hashes = set(image_cache.keys())
 all_image_data = [] # To store data for README generation
 
-# Find all image files in the repository
-image_files = find_image_files(search_dir, image_extensions)
-
-# --- Processing Loop ---
+# 4. Processing Loop (using normalized paths)
+print("\n--- Processing Images (Metadata, Cache Check, API Calls) ---")
 newly_processed_count = 0
 skipped_count = 0
 error_count = 0
 
-for img_rel_path in image_files:
+for img_rel_path in image_files_to_process:
     print("-" * 20)
     print(f"Processing: {img_rel_path}")
+    # Use the potentially normalized path
     full_img_path = os.path.join(search_dir, img_rel_path)
 
     if not os.path.exists(full_img_path):
-        print(f"Warning: File path resolved to '{full_img_path}' which does not exist. Skipping.")
+        print(f"Warning: File path '{full_img_path}' does not exist after normalization/check. Skipping.")
         error_count += 1
         continue
 
@@ -287,9 +332,9 @@ for img_rel_path in image_files:
     if current_hash is None:
         print(f"Could not calculate hash for {img_rel_path}. Skipping.")
         error_count += 1
-        continue # Skip if hash calculation failed
+        continue
 
-    # Get metadata (always get fresh metadata in case file changed)
+    # Get metadata (always get fresh metadata)
     metadata = get_image_metadata(full_img_path)
 
     # Check cache
@@ -301,20 +346,17 @@ for img_rel_path in image_files:
         skipped_count += 1
     else:
         print(f"Cache miss for {img_rel_path} (Hash: {current_hash[:8]}...). Generating tags via API.")
-        # Generate tags and description via API only if not in cache
         tags, description = generate_tags_and_description(full_img_path)
-        if not tags.startswith("Error:") and not description.startswith("Error:"):
-             # Add to cache only if successfully processed
+        if not tags.startswith("Error:") and not description.startswith("Error:") and tags != "Blocked":
              image_cache[current_hash] = {"tags": tags, "description": description}
-             processed_hashes.add(current_hash) # Keep track of processed hashes this run
+             processed_hashes.add(current_hash)
              newly_processed_count += 1
              print(f"Successfully processed and added to cache: {img_rel_path}")
         else:
-             print(f"Skipping caching due to processing errors for: {img_rel_path}")
+             print(f"Skipping caching due to processing errors/blocking for: {img_rel_path}")
              error_count += 1
 
-
-    # Add data for README generation (always add, using cached or new data)
+    # Add data for README generation
     all_image_data.append({
         "path": img_rel_path.replace('\\', '/'), # Ensure forward slashes
         "hash": current_hash,
@@ -325,14 +367,14 @@ for img_rel_path in image_files:
 
 print("-" * 20)
 print(f"\nProcessing Summary:")
-print(f"  - Images found: {len(image_files)}")
+print(f"  - Images found & normalized: {len(image_files_to_process)}")
 print(f"  - Newly processed (API calls): {newly_processed_count}")
 print(f"  - Skipped (used cache): {skipped_count}")
-print(f"  - Errors/Skipped: {error_count}")
+print(f"  - Errors/Skipped/Blocked: {error_count}")
 
 
-# --- Generate README.md ---
-print("\nGenerating README.md...")
+# 5. Generate README.md
+print("\n--- Generating README.md ---")
 try:
     with open(readme_file, 'w', encoding='utf-8') as f:
         f.write("# Vision Image Index\n\n")
@@ -340,32 +382,27 @@ try:
         f.write("| Image | Filename | Description | Tags | Metadata | Hash |\n")
         f.write("|---|---|---|---|---|---|\n")
 
-        # Sort data for consistent README generation
         all_image_data.sort(key=lambda x: x['path'])
 
         for data in all_image_data:
-            # Create a relative path suitable for markdown image embedding
-            # Assumes README.md is at the root. Adjust if needed.
-            # Use raw=true for GitHub to render the image directly
-            md_image_path = data['path'] + "?raw=true"
-            img_tag = f"![{os.path.basename(data['path'])}]({md_image_path})"
+            # Use the normalized path for linking and display
+            md_image_path = data['path'].replace('\\', '/') # Ensure forward slashes
+            # URL encode the path for the image source URL to handle potential lingering characters if needed
+            # Though normalization should prevent most issues. Using raw=true for GitHub rendering.
+            encoded_path = md_image_path # Basic approach, consider urllib.parse.quote if complex chars remain
+            img_tag = f"![{os.path.basename(data['path'])}]({encoded_path}?raw=true)"
 
-            # Prepare metadata string more robustly
             meta_items = [
                 f"Dims: {data['metadata'].get('dimensions', 'N/A')}",
                 f"Format: {data['metadata'].get('format', 'N/A')}",
-                # f"Mode: {data['metadata'].get('mode', 'N/A')}", # Mode might be less useful
                 f"Size: {data['metadata'].get('size_kb', 'N/A')}"
             ]
             meta_str = " <br> ".join(item for item in meta_items if 'N/A' not in item)
-            if not meta_str: meta_str = "N/A" # Handle case where all metadata failed
+            if not meta_str: meta_str = "N/A"
 
-
-            # Escape potential pipe characters in description or tags to avoid breaking table
             safe_description = data['description'].replace('|', '\\|') if data.get('description') else 'N/A'
             safe_tags = data['tags'].replace('|', '\\|') if data.get('tags') else 'N/A'
 
-            # Write table row
             f.write(f"| {img_tag} | `{data['path']}` | {safe_description} | `{safe_tags}` | {meta_str} | `{data['hash'][:12]}...` |\n")
 
     print(f"README.md generated successfully at {readme_file}")
@@ -373,17 +410,14 @@ try:
 except Exception as e:
     print(f"Error generating README.md: {e}")
 
-# --- Save Cache ---
-# Clean up cache: Remove entries for hashes that no longer correspond to found image files
-# This handles deleted images.
-# Note: This doesn't handle renamed images perfectly (they'll be treated as new).
-# A more complex system would be needed to track renames.
-hashes_in_repo = {item['hash'] for item in all_image_data if item['hash']}
+# 6. Save Cache
+print("\n--- Saving Cache ---")
+hashes_in_repo = {item['hash'] for item in all_image_data if item.get('hash')} # Use .get for safety
 hashes_to_keep = set(image_cache.keys()) & hashes_in_repo
 cleaned_cache = {h: image_cache[h] for h in hashes_to_keep}
 
 if len(cleaned_cache) < len(image_cache):
-    print(f"Removed {len(image_cache) - len(cleaned_cache)} stale entries from cache.")
+    print(f"Removed {len(image_cache) - len(cleaned_cache)} stale entries from cache (likely deleted images).")
 
 save_cache(cleaned_cache, CACHE_FILE)
 
