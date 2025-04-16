@@ -46,7 +46,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
+          # Add both the README and the cache file
+          git add README.md image_cache.json
           # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to README.md to commit."
