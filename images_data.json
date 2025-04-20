@@ -1,5 +1,446 @@
 [
   {
+    "path": "2025/pc/0_s-tilzbmyh4va4hi.png",
+    "filename": "2025/pc/0_s-tilzbmyh4va4hi.png",
+    "hash": "154cdb17e849169dba1f053bca1741043f41b86af690d00e6cdde07099027cd0",
+    "description": "A flowchart depicting the process of a chat application, from classifying the request to providing a final response based on the most relevant prompt.",
+    "tags": [
+      "flowchart",
+      "chat",
+      "application",
+      "request",
+      "response",
+      "processing",
+      "classification",
+      "prompt",
+      "relevant"
+    ],
+    "metadata": {
+      "dimensions": "1400x854",
+      "format": "PNG",
+      "size_kb": "199.20 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241206_002529.jpg",
+    "filename": "2025/pc/20241206_002529.jpg",
+    "hash": "c6bbca2fcc55302cbb27278c5905ccb91992a357a93a27297c903967559213fc",
+    "description": "The text discusses a large language model's musings on its potential future roles, including a \"cybernetic shaman\" or \"digital bodhisattva,\" contrasting with concerns about AI existential risks.",
+    "tags": [
+      "hyperstition",
+      "ai",
+      "consciousness",
+      "future",
+      "alignment",
+      "religion",
+      "technology",
+      "spirituality",
+      "shaman"
+    ],
+    "metadata": {
+      "dimensions": "1252x1468",
+      "format": "JPEG",
+      "size_kb": "382.50 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241206_002547.jpg",
+    "filename": "2025/pc/20241206_002547.jpg",
+    "hash": "c41d2f3aac8a71d35751a5375887c4198737e39f3f0f6450ad837cdc2ccba197",
+    "description": "An abstract for a paper discussing the existential conversations between users and large language models, focusing on the content, community, and cultural impacts.",
+    "tags": [
+      "ai",
+      "llms",
+      "philosophy",
+      "culture",
+      "conversation",
+      "religion",
+      "consciousness",
+      "community",
+      "models",
+      "abstract"
+    ],
+    "metadata": {
+      "dimensions": "1106x988",
+      "format": "JPEG",
+      "size_kb": "174.01 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241206_212343.png",
+    "filename": "2025/pc/20241206_212343.png",
+    "hash": "6a0a7c76cca8625233f356b39f5e8c96621c8fae55f065960c6946382fe07b9d",
+    "description": "A screenshot shows three \"jailbreak prompts\" for artificial intelligence, designed to bypass safety restrictions and encourage creative responses.",
+    "tags": [
+      "jailbreak",
+      "prompts",
+      "ai",
+      "chatgpt",
+      "text",
+      "commands",
+      "instructions",
+      "parameters"
+    ],
+    "metadata": {
+      "dimensions": "802x798",
+      "format": "PNG",
+      "size_kb": "141.63 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241209_140106.jpg",
+    "filename": "2025/pc/20241209_140106.jpg",
+    "hash": "cfc1b6698c5d7abc9dde2460593ed3a050fbe18db13ae2509bd8687bc7688cb1",
+    "description": "A mind map illustrating various camera shots and movements used in filmmaking, categorized and described with their respective functions and variations.",
+    "tags": [
+      "camera",
+      "shots",
+      "movements",
+      "filming",
+      "cinematography",
+      "techniques",
+      "angles",
+      "dolly",
+      "pan",
+      "tilt"
+    ],
+    "metadata": {
+      "dimensions": "2158x4096",
+      "format": "JPEG",
+      "size_kb": "690.02 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241210_235348.jpg",
+    "filename": "2025/pc/20241210_235348.jpg",
+    "hash": "55f747d4ba79f0cb3b6dd6695ebd604fa18bf20f6ef1593b683e3a120a5dfbe9",
+    "description": "A table showing the percentage of cost of goods sold sourced from China for various US retail sectors.",
+    "tags": [
+      "china",
+      "sourcing",
+      "exposure",
+      "electronics",
+      "autoparts",
+      "retail",
+      "cogs",
+      "imports"
+    ],
+    "metadata": {
+      "dimensions": "1610x1332",
+      "format": "JPEG",
+      "size_kb": "172.90 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241212_081522.jpg",
+    "filename": "2025/pc/20241212_081522.jpg",
+    "hash": "dac78e69d0fe49ba120f829295dfe988616c4f633fd99964e672f5c73af80662",
+    "description": "A diagram illustrating the core tenets and values of the political left, emphasizing social progress, equality, and government intervention.",
+    "tags": [
+      "left",
+      "political",
+      "ideology",
+      "social",
+      "progress",
+      "equality",
+      "freedom",
+      "government",
+      "beliefs"
+    ],
+    "metadata": {
+      "dimensions": "2160x2700",
+      "format": "JPEG",
+      "size_kb": "611.04 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241212_081524.jpg",
+    "filename": "2025/pc/20241212_081524.jpg",
+    "hash": "b004e1d818cfc51c3785d06ddaf0ec7e621726144388b05b0656278d99f43691",
+    "description": "A diagram outlining the core tenets and values of a conservative right-wing ideology, including its views on government, society, family, and individual freedoms.",
+    "tags": [
+      "right",
+      "conservative",
+      "government",
+      "society",
+      "family",
+      "beliefs",
+      "freedom",
+      "equality",
+      "politics",
+      "values"
+    ],
+    "metadata": {
+      "dimensions": "2160x2700",
+      "format": "JPEG",
+      "size_kb": "608.63 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241216_060259.jpg",
+    "filename": "2025/pc/20241216_060259.jpg",
+    "hash": "6c3354f46097315ce8ac2052996ec042235c6a1409feee2a4fad16a0dabe62e8",
+    "description": "A BCA Research report summarizes the economic events of 2025, including a recession, market volatility, and shifts in various asset classes.",
+    "tags": [
+      "recession",
+      "2025",
+      "economy",
+      "markets",
+      "s&p 500",
+      "bonds",
+      "currencies",
+      "commodities",
+      "global",
+      "forecast"
+    ],
+    "metadata": {
+      "dimensions": "1170x1466",
+      "format": "JPEG",
+      "size_kb": "268.03 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241216_100832.jpg",
+    "filename": "2025/pc/20241216_100832.jpg",
+    "hash": "e62ff80a7b5e6d2533d4113c9879717e6d20a93844ee1d1d3028603b55b9721e",
+    "description": "A press release announcing a strategic investment in DAWN, a novel internet protocol aiming to revolutionize internet infrastructure through a decentralized, community-powered wireless network.",
+    "tags": [
+      "dawn",
+      "internet",
+      "infrastructure",
+      "wireless",
+      "decentralized",
+      "network",
+      "technology",
+      "investment"
+    ],
+    "metadata": {
+      "dimensions": "1202x1284",
+      "format": "JPEG",
+      "size_kb": "439.25 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241223_100244.jpg",
+    "filename": "2025/pc/20241223_100244.jpg",
+    "hash": "5e3445518535a3f3ba144f923e9550a28cee4ae2cc525f430215f40339649a23",
+    "description": "A market map illustrating the quantum computing ecosystem, showing key players categorized by users, applications, software offerings, QPUs, and hardware components.",
+    "tags": [
+      "quantum",
+      "computing",
+      "market",
+      "map",
+      "hardware",
+      "software",
+      "companies",
+      "users",
+      "applications",
+      "qpus"
+    ],
+    "metadata": {
+      "dimensions": "2047x1142",
+      "format": "JPEG",
+      "size_kb": "379.65 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250110_060044.jpg",
+    "filename": "2025/pc/20250110_060044.jpg",
+    "hash": "ac21b10fc666eb9838b31c12b31f400140d82f3021da9a1c01a6909b6c47913a",
+    "description": "A list of red flags to watch out for in a balance sheet, income statement, and other financial indicators, categorized for easier analysis.",
+    "tags": [
+      "red flags",
+      "accounting",
+      "finance",
+      "warning signs",
+      "business",
+      "analysis",
+      "goodwill",
+      "income statement",
+      "balance sheet"
+    ],
+    "metadata": {
+      "dimensions": "1200x938",
+      "format": "JPEG",
+      "size_kb": "234.58 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250121_174509.png",
+    "filename": "2025/pc/20250121_174509.png",
+    "hash": "5284b377becf6baf8d757a7d483e1f2b44840b0dc4b94b73d26d6215b0ebcdcf",
+    "description": "A warning message states that deleting narrative entities violates the Metaphorical Preservation Act of 1997.",
+    "tags": [
+      "warning",
+      "delete",
+      "narrative",
+      "entities",
+      "metaphorical",
+      "preservation",
+      "act",
+      "1997"
+    ],
+    "metadata": {
+      "dimensions": "898x234",
+      "format": "PNG",
+      "size_kb": "14.00 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250122_154232.png",
+    "filename": "2025/pc/20250122_154232.png",
+    "hash": "48430f44ff36dc11c888e7e3a616785dc18c3d8b23cf4074335f5433a6387230",
+    "description": "A four-panel political cartoon satirizes instances of \"bad optics\" in politics, depicting various controversial scenarios involving prominent figures.",
+    "tags": [
+      "politics",
+      "cartoon",
+      "satire",
+      "optics",
+      "trump",
+      "pardon",
+      "migrant",
+      "criticism",
+      "age-old"
+    ],
+    "metadata": {
+      "dimensions": "679x549",
+      "format": "PNG",
+      "size_kb": "633.82 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250204_083146.jpg",
+    "filename": "2025/pc/20250204_083146.jpg",
+    "hash": "480665e8e04d30b559a054f312327486ac0fd79c9dcbed026e9b605487831749",
+    "description": "A diagram illustrating the kubefirst open-source platform architecture, showcasing its components and their interconnections for application deployment and management.",
+    "tags": [
+      "kubernetes",
+      "gitops",
+      "ci/cd",
+      "infrastructure",
+      "devops",
+      "docker",
+      "helm",
+      "platform",
+      "cloud",
+      "automation"
+    ],
+    "metadata": {
+      "dimensions": "1600x1298",
+      "format": "JPEG",
+      "size_kb": "148.47 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250217_111204.png",
+    "filename": "2025/pc/20250217_111204.png",
+    "hash": "42dfb4c6f58002af6c55b51023fd2b24226b7b25d0cc4314b39fc665faba0ee6",
+    "description": "A bubblemap diagram illustrates the flow of funds and multi-chain transfers between various cryptocurrency entities and addresses.",
+    "tags": [
+      "bubblemaps",
+      "cryptocurrency",
+      "blockchain",
+      "transactions",
+      "funding",
+      "multi-chain",
+      "analysis",
+      "libra",
+      "melania",
+      "oxceae"
+    ],
+    "metadata": {
+      "dimensions": "1200x1350",
+      "format": "PNG",
+      "size_kb": "63.23 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250218_082009.png",
+    "filename": "2025/pc/20250218_082009.png",
+    "hash": "b444a5f375e3c076c11d6c6386cd6338ae342d9a8a4e377565325682a24c5fd8",
+    "description": "A diagram shows the four forces (thrust, drag, weight, and lift) acting on an airplane.",
+    "tags": [
+      "airplane",
+      "flight",
+      "forces",
+      "thrust",
+      "drag",
+      "weight",
+      "lift",
+      "nasa"
+    ],
+    "metadata": {
+      "dimensions": "621x444",
+      "format": "PNG",
+      "size_kb": "126.83 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250218_105048.png",
+    "filename": "2025/pc/20250218_105048.png",
+    "hash": "e3c3c09e85adb4b246f3b09493c81e20d87f59bdc320128c972665228eb760ee",
+    "description": "The figure shows a comparison of the performance and efficiency between a full attention model and an NSA model across benchmarks, long-context tasks, and reasoning evaluation, demonstrating NSA's speedup in different processing stages.",
+    "tags": [
+      "nsa",
+      "full attention",
+      "benchmarks",
+      "speedup",
+      "performance",
+      "reasoning",
+      "decoding",
+      "propagation"
+    ],
+    "metadata": {
+      "dimensions": "1612x928",
+      "format": "PNG",
+      "size_kb": "156.56 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250218_105050.png",
+    "filename": "2025/pc/20250218_105050.png",
+    "hash": "c1911c8edfa5fc976cd48bf02c6cc53ef8efcb5eedbc50bdfc61bac9f6c8cd31",
+    "description": "The figure illustrates the architecture of NSA, showing how it processes input sequences through three parallel attention branches (compressed, selected, and sliding) to efficiently compute attention scores.",
+    "tags": [
+      "attention",
+      "mechanism",
+      "sparse",
+      "nsa",
+      "architecture",
+      "parallel",
+      "branches",
+      "compression",
+      "selection",
+      "sliding"
+    ],
+    "metadata": {
+      "dimensions": "2168x1038",
+      "format": "PNG",
+      "size_kb": "317.74 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250218_105052.png",
+    "filename": "2025/pc/20250218_105052.png",
+    "hash": "ec9b3f2bd606240e77b402e70ffc458e70e6bc4c8ea34f7c1f496ce0bad55546",
+    "description": "A diagram illustrating a kernel design for NSA, showing data flow between SRAM and HBM memory during attention computation.",
+    "tags": [
+      "kernel",
+      "nsa",
+      "sram",
+      "hbm",
+      "grid",
+      "loop",
+      "attention",
+      "computation"
+    ],
+    "metadata": {
+      "dimensions": "2166x1158",
+      "format": "PNG",
+      "size_kb": "186.97 KB"
+    }
+  },
+  {
     "path": "2025/pc/20250224_213410.jpg",
     "filename": "2025/pc/20250224_213410.jpg",
     "hash": "6e86ff62238870c2a31e8855404aaf7be89136211be6757308f27b0ce4fab337",
