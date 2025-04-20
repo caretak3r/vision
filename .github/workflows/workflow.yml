@@ -1,0 +1,92 @@
+name: Index Images and Deploy to GitHub Pages
+
+on:
+  push:
+    branches: 
+      - main
+    paths:
+      # Trigger on image file changes
+      - '2025/pc/**.png'
+      - '2025/pc/**.jpg'
+      - '2025/pc/**.jpeg'
+      - '2025/pc/**.gif'
+      - '2025/pc/**.bmp'
+      - '2025/pc/**.webp'
+      # Or trigger if these files change
+      - '.github/workflows/combined_workflow.yml'
+      - 'index_images.py'
+      - 'index.html'
+      - 'style.css'
+      - 'script.js'
+  workflow_dispatch: # Allows manual triggering
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages and repo writes
+permissions:
+  contents: write # For committing changes back to the repo
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  index-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # PART 1: INDEXING PROCESS
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.5.0
+        with:
+          python-version: '3.13'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install Pillow google-generativeai
+
+      - name: Run image indexing script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python index_images.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Add all changes (README.md, images_data.json, and image_cache.json)
+          git add .
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated update: image indexing and data generation"
+            
+            # Add retry logic for the push command
+            for i in 1 2 3; do
+              git push && break # Break loop if push succeeds
+              echo "Push failed. Retrying in 5 seconds... (Attempt $i)"
+              sleep 5
+            done || echo "Failed to push after multiple retries." # Message if all retries fail
+          fi
+        shell: bash
+
+      # PART 2: GITHUB PAGES DEPLOYMENT
+      # These steps will run after the indexing and commit are complete
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
