@@ -1,0 +1,122 @@
+[
+  {
+    "path": "2025/pc/20250224_213410.jpg",
+    "filename": "2025/pc/20250224_213410.jpg",
+    "hash": "6e86ff622388",
+    "description": "The image presents data on food-induced anaphylaxis, peanut allergy incidence and association with air pollution in children, alongside a U.S. peanut allergy treatment market analysis.",
+    "tags": ["allergy", "peanuts", "food", "children", "pollution", "anaphylaxis", "health", "incidence", "market", "treatment"],
+    "metadata": {
+      "dimensions": "889x1200",
+      "format": "JPEG",
+      "size_kb": "183.97 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250226_230548.jpg",
+    "filename": "2025/pc/20250226_230548.jpg",
+    "hash": "d160bfe7daae",
+    "description": "This diagram depicts the multi-agent architecture of an AI co-scientist system, showing how it processes a research goal into a detailed research overview through interaction among specialized agents and workers.",
+    "tags": ["ai", "multi-agent", "architecture", "research", "scientist", "system", "flowchart", "agents", "design"],
+    "metadata": {
+      "dimensions": "1984x1170",
+      "format": "JPEG",
+      "size_kb": "254.23 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250226_231634.jpg",
+    "filename": "2025/pc/20250226_231634.jpg",
+    "hash": "072f6cd49b65",
+    "description": "The text defines \"popcorn brain\" as a mental state characterized by scattered thoughts, fragmented attention, and difficulty focusing, leading to increased stress, anxiety, and fatigue.",
+    "tags": ["popcorn brain", "attention", "focus", "mental state", "cognitive", "anxiety", "stress", "fatigue"],
+    "metadata": {
+      "dimensions": "1474x554",
+      "format": "JPEG",
+      "size_kb": "135.71 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250227_213546.png",
+    "filename": "2025/pc/20250227_213546.png",
+    "hash": "cee21fdfc619",
+    "description": "A screenshot shows internet registration details including addresses, with a trollface ASCII art embedded in the remarks section.",
+    "tags": ["internet", "registration", "information", "trollface", "text", "ascii", "network", "address", "northkorea"],
+    "metadata": {
+      "dimensions": "945x806",
+      "format": "PNG",
+      "size_kb": "62.33 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250307_105643.jpg",
+    "filename": "2025/pc/20250307_105643.jpg",
+    "hash": "ee5483ae57a5",
+    "description": "The image shows a scatter plot illustrating the political positions of various countries' political movements based on liberal/conservative values and international cooperation.",
+    "tags": ["politics", "chart", "graph", "values", "international", "cooperation", "liberal", "conservative", "countries", "russia"],
+    "metadata": {
+      "dimensions": "802x1186",
+      "format": "JPEG",
+      "size_kb": "91.88 KB"
+    }
+  },
+  {
+    "path": "2025/pc/ai-extinction.jpg",
+    "filename": "2025/pc/ai-extinction.jpg",
+    "hash": "cc5738eb7ebd",
+    "description": "The image depicts a dam labeled \"AI\" about to burst, with cracks representing various potential AI-related threats to humanity below.",
+    "tags": ["ai", "humanity", "dystopia", "technology", "risk", "automation", "ethics", "future", "concerns"],
+    "metadata": {
+      "dimensions": "1212x1214",
+      "format": "JPEG",
+      "size_kb": "308.29 KB"
+    }
+  },
+  {
+    "path": "2025/pc/amazon-leadership-principles.jpg",
+    "filename": "2025/pc/amazon-leadership-principles.jpg",
+    "hash": "03ddb3085d59",
+    "description": "The image displays a visual representation of Amazon's 16 Leadership Principles, each in a rounded square with different colors.",
+    "tags": ["amazon", "leadership", "principles", "values", "business", "management", "strategy", "growth"],
+    "metadata": {
+      "dimensions": "1119x973",
+      "format": "JPEG",
+      "size_kb": "110.37 KB"
+    }
+  },
+  {
+    "path": "2025/pc/angry-cat.png",
+    "filename": "2025/pc/angry-cat.png",
+    "hash": "5867d599481a",
+    "description": "A close-up shows a ginger cat with a slightly grumpy expression.",
+    "tags": ["cat", "ginger", "feline", "animal", "pet", "close-up", "face", "orange"],
+    "metadata": {
+      "dimensions": "547x593",
+      "format": "PNG",
+      "size_kb": "488.18 KB"
+    }
+  },
+  {
+    "path": "2025/pc/reality-of-models-ai.png",
+    "filename": "2025/pc/reality-of-models-ai.png",
+    "hash": "03810413414d",
+    "description": "The image is a graph showing the relationship between event probability and event impact for reality and AI models, illustrating how reality's impact decreases as probability increases, while AI models' impact increases exponentially.",
+    "tags": ["graph", "ai", "models", "reality", "probability", "impact", "progression", "chart"],
+    "metadata": {
+      "dimensions": "881x813",
+      "format": "PNG",
+      "size_kb": "44.45 KB"
+    }
+  },
+  {
+    "path": "2025/pc/llm-terms.png",
+    "filename": "2025/pc/llm-terms.png",
+    "hash": "c16e4cce4968",
+    "description": "The image illustrates different LLM (Large Language Model) terms and their corresponding nested directed graph architectures, including prompt chaining, chat, RAG, map-reduce, chain-of-thought, tree-of-thought, agent, multi-agent, and supervisor.",
+    "tags": ["llm", "ai", "diagram", "workflow", "architecture", "agents", "graph", "nested", "directed", "system"],
+    "metadata": {
+      "dimensions": "1149x3059",
+      "format": "PNG",
+      "size_kb": "256.33 KB"
+    }
+  }
+]

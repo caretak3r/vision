@@ -373,7 +373,93 @@ print(f"  - Skipped (used cache): {skipped_count}")
 print(f"  - Errors/Skipped/Blocked: {error_count}")
 
 
-# 5. Generate README.md
+# 5. Generate JSON data for frontend
+print("\n--- Generating JSON data for frontend ---")
+images_data_file = 'images_data.json'
+try:
+    # Sort images by path
+    all_image_data.sort(key=lambda x: x['path'])
+    
+    # Prepare data in a format suitable for the frontend
+    frontend_data = []
+    
+    # Process all current images first
+    for data in all_image_data:
+        # Ensure path uses forward slashes
+        path = data['path'].replace('\\', '/')
+        
+        # Convert tags string to array
+        tags_array = []
+        if isinstance(data.get('tags'), str):
+            tags_array = [tag.strip() for tag in data['tags'].split(',') if tag.strip()]
+        
+        # Format metadata as an object
+        metadata = {
+            "dimensions": data['metadata'].get('dimensions', 'N/A'),
+            "format": data['metadata'].get('format', 'N/A'),
+            "size_kb": data['metadata'].get('size_kb', 'N/A')
+        }
+        
+        frontend_data.append({
+            "path": path,
+            "filename": path,
+            "hash": data.get('hash', 'N/A'),
+            "description": data.get('description', 'N/A'),
+            "tags": tags_array,
+            "metadata": metadata
+        })
+    
+    # A set to keep track of hashes we've already processed
+    processed_hashes = {item['hash'] for item in frontend_data}
+    
+    # Check if there are any cached images that aren't in the current repository
+    print("Checking cache for additional images...")
+    
+    for img_hash, img_data in image_cache.items():
+        # Skip if we've already processed this hash
+        if img_hash in processed_hashes:
+            continue
+            
+        tags = img_data.get('tags', '')
+        description = img_data.get('description', 'N/A')
+        
+        # Convert tags string to array
+        tags_array = []
+        if isinstance(tags, str):
+            tags_array = [tag.strip() for tag in tags.split(',') if tag.strip()]
+        
+        # Create a placeholder path for cached images that aren't currently in the repo
+        # The frontend will handle missing images gracefully
+        path = f"cached_image_{img_hash[:8]}"
+        
+        frontend_data.append({
+            "path": path, 
+            "filename": path,
+            "hash": img_hash,
+            "description": description,
+            "tags": tags_array,
+            "metadata": {
+                "dimensions": "N/A",
+                "format": "N/A",
+                "size_kb": "N/A",
+                "cached_only": True
+            },
+            "cached_only": True
+        })
+        
+        print(f"Added cached image with hash {img_hash[:8]}... to frontend data")
+    
+    # Write to JSON file
+    with open(images_data_file, 'w', encoding='utf-8') as f:
+        json.dump(frontend_data, f, indent=2)
+    
+    print(f"Frontend JSON data generated successfully at {images_data_file}")
+    print(f"Total images in frontend data: {len(frontend_data)} (including {len(frontend_data) - len(all_image_data)} from cache only)")
+    
+except Exception as e:
+    print(f"Error generating frontend JSON data: {e}")
+
+# 6. Generate README.md
 print("\n--- Generating README.md ---")
 try:
     with open(readme_file, 'w', encoding='utf-8') as f:
@@ -410,7 +496,7 @@ try:
 except Exception as e:
     print(f"Error generating README.md: {e}")
 
-# 6. Save Cache
+# 7. Save Cache
 print("\n--- Saving Cache ---")
 hashes_in_repo = {item['hash'] for item in all_image_data if item.get('hash')} # Use .get for safety
 hashes_to_keep = set(image_cache.keys()) & hashes_in_repo
@@ -422,4 +508,3 @@ if len(cleaned_cache) < len(image_cache):
 save_cache(cleaned_cache, CACHE_FILE)
 
 print("\nImage indexing complete.")
-
