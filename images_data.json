@@ -1414,6 +1414,20 @@
     }
   },
   {
+    "path": "2025/pc/kokotheclown.png",
+    "filename": "2025/pc/kokotheclown.png",
+    "hash": "419dc047b6d624880744dd68f7a951b49343996a5b588c62b49c9dd0f9e20026",
+    "description": "N/A (skipped API call)",
+    "tags": [
+      "N/A (skipped API call)"
+    ],
+    "metadata": {
+      "dimensions": "1258x1256",
+      "format": "PNG",
+      "size_kb": "1627.59 KB"
+    }
+  },
+  {
     "path": "2025/pc/llm-terms.png",
     "filename": "2025/pc/llm-terms.png",
     "hash": "277e6e0ecb93c5a6de9ebd91147b8854f492870104cb41a0e6b0ab6d41293398",
