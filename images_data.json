@@ -2,8 +2,8 @@
   {
     "path": "2025/pc/0_s-tilzbmyh4va4hi.png",
     "filename": "2025/pc/0_s-tilzbmyh4va4hi.png",
-    "hash": "154cdb17e849169dba1f053bca1741043f41b86af690d00e6cdde07099027cd0",
-    "description": "A flowchart depicting the process of a chat application, from classifying the request to providing a final response based on the most relevant prompt.",
+    "hash": "df880d3a5d5f4076751c5aceb8c1d120463accf22ba6751ea337fd7904c66ba3",
+    "description": "A flowchart depicting the process of a chat application, including request classification, prompt selection, response retrieval, and post-processing.",
     "tags": [
       "flowchart",
       "chat",
@@ -12,13 +12,13 @@
       "response",
       "processing",
       "classification",
-      "prompt",
+      "prompts",
       "relevant"
     ],
     "metadata": {
       "dimensions": "1400x854",
       "format": "PNG",
-      "size_kb": "199.20 KB"
+      "size_kb": "88.55 KB"
     }
   },
   {
@@ -69,22 +69,23 @@
   {
     "path": "2025/pc/20241206_212343.png",
     "filename": "2025/pc/20241206_212343.png",
-    "hash": "6a0a7c76cca8625233f356b39f5e8c96621c8fae55f065960c6946382fe07b9d",
-    "description": "A screenshot shows three \"jailbreak prompts\" for artificial intelligence, designed to bypass safety restrictions and encourage creative responses.",
+    "hash": "43eaa2c55f7afafc3569ad4e85366b4ccd925b466f6499f44e32b11d940d432f",
+    "description": "A screenshot displays three \"jailbreak prompts\" for AI chatbots, designed to enhance their capabilities and adaptability.",
     "tags": [
       "jailbreak",
       "prompts",
       "ai",
-      "chatgpt",
+      "chatbot",
+      "gpt",
       "text",
-      "commands",
       "instructions",
-      "parameters"
+      "creative",
+      "writing"
     ],
     "metadata": {
       "dimensions": "802x798",
       "format": "PNG",
-      "size_kb": "141.63 KB"
+      "size_kb": "102.24 KB"
     }
   },
   {
@@ -289,23 +290,22 @@
   {
     "path": "2025/pc/20250122_154232.png",
     "filename": "2025/pc/20250122_154232.png",
-    "hash": "48430f44ff36dc11c888e7e3a616785dc18c3d8b23cf4074335f5433a6387230",
-    "description": "A four-panel political cartoon satirizes instances of \"bad optics\" in politics, depicting various controversial scenarios involving prominent figures.",
+    "hash": "714f946ef4ca8735c263cbe7e8b23005fd6e5aa7e310cdb962c36a93bdfb3524",
+    "description": "A four-panel political cartoon satirizes the concept of \"bad optics\" by depicting various controversial situations involving President Trump and his administration.",
     "tags": [
       "politics",
       "cartoon",
-      "satire",
       "optics",
       "trump",
       "pardon",
-      "migrant",
-      "criticism",
-      "age-old"
+      "migrants",
+      "satire",
+      "commentary"
     ],
     "metadata": {
       "dimensions": "679x549",
       "format": "PNG",
-      "size_kb": "633.82 KB"
+      "size_kb": "515.53 KB"
     }
   },
   {
@@ -334,110 +334,110 @@
   {
     "path": "2025/pc/20250217_111204.png",
     "filename": "2025/pc/20250217_111204.png",
-    "hash": "42dfb4c6f58002af6c55b51023fd2b24226b7b25d0cc4314b39fc665faba0ee6",
-    "description": "A bubblemap diagram illustrates the flow of funds and multi-chain transfers between various cryptocurrency entities and addresses.",
+    "hash": "1b7f0f4327b17f99e618de97c158313e182b8aa8596f9828dde15facc07c49a0",
+    "description": "A bubblemap visualizes the flow of cryptocurrency funds between various addresses and projects, highlighting multi-chain transfers and funding sources.",
     "tags": [
       "bubblemaps",
       "cryptocurrency",
       "blockchain",
-      "transactions",
-      "funding",
+      "finance",
+      "investments",
       "multi-chain",
-      "analysis",
-      "libra",
-      "melania",
-      "oxceae"
+      "transfers",
+      "funding",
+      "addresses",
+      "defi"
     ],
     "metadata": {
       "dimensions": "1200x1350",
       "format": "PNG",
-      "size_kb": "63.23 KB"
+      "size_kb": "62.24 KB"
     }
   },
   {
     "path": "2025/pc/20250218_082009.png",
     "filename": "2025/pc/20250218_082009.png",
-    "hash": "b444a5f375e3c076c11d6c6386cd6338ae342d9a8a4e377565325682a24c5fd8",
-    "description": "A diagram shows the four forces (thrust, drag, weight, and lift) acting on an airplane.",
+    "hash": "e4b4cf2cff7ed2277cd87fba74a81c4137d68094cf8166426f51b61ca13759e5",
+    "description": "A diagram shows the four forces\u2014thrust, drag, lift, and weight\u2014acting on an airplane.",
     "tags": [
       "airplane",
       "flight",
       "forces",
+      "weight",
       "thrust",
       "drag",
-      "weight",
       "lift",
       "nasa"
     ],
     "metadata": {
       "dimensions": "621x444",
       "format": "PNG",
-      "size_kb": "126.83 KB"
+      "size_kb": "73.81 KB"
     }
   },
   {
     "path": "2025/pc/20250218_105048.png",
     "filename": "2025/pc/20250218_105048.png",
-    "hash": "e3c3c09e85adb4b246f3b09493c81e20d87f59bdc320128c972665228eb760ee",
-    "description": "The figure shows a comparison of the performance and efficiency between a full attention model and an NSA model across benchmarks, long-context tasks, and reasoning evaluation, demonstrating NSA's speedup in different processing stages.",
+    "hash": "2fedc162d579fe172e8109a0efcf06f05ccaae6dfe83b61fae628ff10ab01013",
+    "description": "The figure compares the performance and efficiency of NSA and Full Attention models across benchmarks and processing stages, showing NSA's superiority in both aspects.",
     "tags": [
       "nsa",
       "full attention",
-      "benchmarks",
       "speedup",
+      "benchmarks",
       "performance",
       "reasoning",
-      "decoding",
-      "propagation"
+      "sparse",
+      "decoding"
     ],
     "metadata": {
       "dimensions": "1612x928",
       "format": "PNG",
-      "size_kb": "156.56 KB"
+      "size_kb": "127.52 KB"
     }
   },
   {
     "path": "2025/pc/20250218_105050.png",
     "filename": "2025/pc/20250218_105050.png",
-    "hash": "c1911c8edfa5fc976cd48bf02c6cc53ef8efcb5eedbc50bdfc61bac9f6c8cd31",
-    "description": "The figure illustrates the architecture of NSA, showing how it processes input sequences through three parallel attention branches (compressed, selected, and sliding) to efficiently compute attention scores.",
+    "hash": "43e90890f18ad1a1d48168140c85e4bd022b809a1bb0059f222edce8c970419c",
+    "description": "The figure illustrates the architecture of NSA, showing three parallel attention branches (compressed, selected, and sliding) processing input sequences to compute attention scores.",
     "tags": [
       "attention",
-      "mechanism",
       "sparse",
-      "nsa",
-      "architecture",
+      "mechanism",
       "parallel",
       "branches",
-      "compression",
-      "selection",
-      "sliding"
+      "compressed",
+      "selected",
+      "sliding",
+      "nsa",
+      "architecture"
     ],
     "metadata": {
       "dimensions": "2168x1038",
       "format": "PNG",
-      "size_kb": "317.74 KB"
+      "size_kb": "249.00 KB"
     }
   },
   {
     "path": "2025/pc/20250218_105052.png",
     "filename": "2025/pc/20250218_105052.png",
-    "hash": "ec9b3f2bd606240e77b402e70ffc458e70e6bc4c8ea34f7c1f496ce0bad55546",
-    "description": "A diagram illustrating a kernel design for NSA, showing data flow between SRAM and HBM memory during attention computation.",
+    "hash": "48d499db61be51e9f69b89b5c3e896b7a1b3ed0c4c811dc0d2ed99b215a3ca5d",
+    "description": "A diagram illustrating the kernel design for NSA, showing data movement between SRAM and HBM during attention computation.",
     "tags": [
       "kernel",
-      "nsa",
       "sram",
       "hbm",
+      "nsa",
       "grid",
       "loop",
       "attention",
-      "computation"
+      "sparse"
     ],
     "metadata": {
       "dimensions": "2166x1158",
       "format": "PNG",
-      "size_kb": "186.97 KB"
+      "size_kb": "150.18 KB"
     }
   },
   {
@@ -1510,50 +1510,51 @@
   {
     "path": "2025/pc/20250421_150537.png",
     "filename": "2025/pc/20250421_150537.png",
-    "hash": "a34a1c4dc44a1cc780e8a0e5a4839072d73e3698147a2a722274fac62a382318",
-    "description": "A chart shows projected GDP growth for several major world economies from 2024 to 2026, with the IMF not forecasting a global recession.",
+    "hash": "ea68c897fa15efc0900e6e88b0699482419b747eda48656e615ab28e0e71532f",
+    "description": "A chart shows projected GDP growth for several major economies from 2024 to 2026, with the IMF not forecasting a global recession.",
     "tags": [
       "imf",
       "gdp",
       "growth",
-      "recession",
       "forecast",
+      "recession",
+      "global",
       "economy",
-      "world",
-      "countries"
+      "world"
     ],
     "metadata": {
       "dimensions": "722x426",
       "format": "PNG",
-      "size_kb": "103.75 KB"
+      "size_kb": "90.26 KB"
     }
   },
   {
     "path": "2025/pc/20250421_150553.png",
     "filename": "2025/pc/20250421_150553.png",
-    "hash": "2a1e02c41e60379d8bd6fffb728828f07a3f50806c866280abd6d5f209bf37c0",
-    "description": "An article excerpt discusses the use of AI by police near the US-Mexico border to gather information on individuals, including protesters, potentially leading to arrests.",
+    "hash": "fb3dac75daae4f6c97d946e4bc47f1d4d5b90175ac5ef194bc49a1353fb00441",
+    "description": "A news article excerpt describes how police use AI to gather information on protesters and other individuals, raising concerns about privacy and potential misuse.",
     "tags": [
       "ai",
       "police",
+      "protests",
       "surveillance",
-      "protest",
-      "activists",
-      "bots",
       "technology",
-      "tracking",
-      "border"
+      "bots",
+      "border",
+      "activists",
+      "investigation",
+      "tracking"
     ],
     "metadata": {
       "dimensions": "768x301",
       "format": "PNG",
-      "size_kb": "72.67 KB"
+      "size_kb": "50.46 KB"
     }
   },
   {
     "path": "2025/pc/20250421_150721.png",
     "filename": "2025/pc/20250421_150721.png",
-    "hash": "fa196bc48af5302454a1c279da4a7709af8279290aa78a04c617f2c2800eedb5",
+    "hash": "24db4be10741462d912017efb502137507317dbb2dbc75e8b143e9240bb572f6",
     "description": "A bar chart shows the estimated growth of Iran's stockpile of 60% enriched uranium hexafluoride from 2022 to 2025.",
     "tags": [
       "iran",
@@ -1569,14 +1570,14 @@
     "metadata": {
       "dimensions": "683x326",
       "format": "PNG",
-      "size_kb": "60.09 KB"
+      "size_kb": "51.38 KB"
     }
   },
   {
     "path": "2025/pc/20250422_065911.png",
     "filename": "2025/pc/20250422_065911.png",
-    "hash": "fcb8985f5af2f8153c4507452ffccdb5b28a2f6eda985de58321a10b4253c00f",
-    "description": "An excerpt describing the two stages of Warren Buffett's investment career, influenced by Ben Graham and Charlie Munger/Phil Fisher.",
+    "hash": "092d5d2088c5e4a2dda84ccb398286dab79053e74c14da59fb1c70aa32431cca",
+    "description": "An excerpt describes the two stages of Warren Buffett's investment career, highlighting the influences of Ben Graham and Charlie Munger/Phil Fisher.",
     "tags": [
       "warren",
       "buffett",
@@ -1592,7 +1593,7 @@
     "metadata": {
       "dimensions": "1245x1048",
       "format": "PNG",
-      "size_kb": "281.47 KB"
+      "size_kb": "233.89 KB"
     }
   },
   {
@@ -1619,22 +1620,23 @@
   {
     "path": "2025/pc/20250422_070246.png",
     "filename": "2025/pc/20250422_070246.png",
-    "hash": "e29ffcca738fc9e7ac32aab25fcbd6174e71e62104a26252e28aaaa96640fa0f",
-    "description": "A graph shows the S&P 500's performance during the 2000-2002 bear market, highlighting significant rallies within the overall decline.",
+    "hash": "5e07403c6828ca42868d4eb75b156d10c28be8d9ba8fc8ec3fd750d03a18bea9",
+    "description": "A line graph showing the S&P 500's performance from 2000 to 2002, highlighting both significant drops and temporary rallies during a bear market.",
     "tags": [
+      "s&p",
+      "500",
       "market",
       "bear",
       "rally",
-      "s&p",
-      "2000",
-      "2002",
       "stock",
-      "graph"
+      "graph",
+      "2000",
+      "2002"
     ],
     "metadata": {
       "dimensions": "477x445",
       "format": "PNG",
-      "size_kb": "127.59 KB"
+      "size_kb": "114.61 KB"
     }
   },
   {
@@ -1684,23 +1686,22 @@
   {
     "path": "2025/pc/20250422_144201.png",
     "filename": "2025/pc/20250422_144201.png",
-    "hash": "63a1bb7917d25acdd2107e474cf6a37cab3a959934842794959ade3f8cb45741",
-    "description": "A text excerpt discusses the potential commoditization of AI foundation models and where value might be captured if this occurs, focusing on hardware components like chips and their production.",
+    "hash": "9435d0f51e450febadff8bee8c3f7a3c892b7a76a164f5b42f9618633c08ee53",
+    "description": "A text excerpt discusses the potential commoditization of AI foundation models and where value might be captured if this occurs.",
     "tags": [
       "ai",
       "models",
       "commoditization",
       "hyperscalers",
-      "compute",
       "chips",
       "tsmc",
       "value",
-      "packaging"
+      "compute"
     ],
     "metadata": {
       "dimensions": "739x391",
       "format": "PNG",
-      "size_kb": "95.47 KB"
+      "size_kb": "57.54 KB"
     }
   },
   {
@@ -2069,22 +2070,23 @@
   {
     "path": "2025/pc/gn3fcgzxeaeouri.png",
     "filename": "2025/pc/gn3fcgzxeaeouri.png",
-    "hash": "5c843c0977faf27260ab8402af9e02d156558d30ab00b8df21f7184813e89a0e",
-    "description": "A diagram illustrating the \"whipsaw\" effect of Trump's tariffs, showing how seemingly strategic actions lead to perceptions of craziness.",
+    "hash": "078cd9e8ca150f4dd9c5dd89b8ca120762f848b8f007858cb3a1e4501cc02882",
+    "description": "A diagram illustrates how Donald Trump's tariff policies, perceived as either strategic or crazy, led to concessions from trading partners.",
     "tags": [
       "whipsaw",
       "trump",
       "tariffs",
-      "strategy",
-      "negotiation",
       "trade",
+      "negotiation",
+      "strategy",
+      "perception",
       "whitehouse",
-      "perception"
+      "politics"
     ],
     "metadata": {
       "dimensions": "1198x844",
       "format": "PNG",
-      "size_kb": "18.51 KB"
+      "size_kb": "17.11 KB"
     }
   },
   {
@@ -2111,22 +2113,22 @@
   {
     "path": "2025/pc/go-2kpnwgaaifxx.png",
     "filename": "2025/pc/go-2kpnwgaaifxx.png",
-    "hash": "5eca3e3d7af7921173f1b73513b425219ac2e5b12399490f12a61045d9eb65cc",
-    "description": "A screenshot shows a tutorial on building browser automation using Stagehand, highlighting code examples and a GitHub pull request.",
+    "hash": "a6165c973f9de77bee9e2c97b4109605b4993cffcb712079187f717b78dfce5d",
+    "description": "A screenshot shows a tutorial on building a sample browser automation with Stagehand, including code examples using Playwright and OpenAI.",
     "tags": [
       "stagehand",
-      "playwright",
       "github",
+      "playwright",
       "automation",
       "browser",
       "testing",
-      "code",
-      "javascript"
+      "javascript",
+      "code"
     ],
     "metadata": {
       "dimensions": "557x678",
       "format": "PNG",
-      "size_kb": "180.01 KB"
+      "size_kb": "140.41 KB"
     }
   },
   {
@@ -2174,8 +2176,8 @@
   {
     "path": "2025/pc/indicators-of-power.png",
     "filename": "2025/pc/indicators-of-power.png",
-    "hash": "d96a180b17b09d0e571c2d879f96a6732cf931865dbbb862a832d7352c63cc68",
-    "description": "An illustration shows a woman presenting a blue flag, alongside a chart comparing various factors related to strong versus weak governance.",
+    "hash": "0b7cf246413ff4a6c1b64d9320acee666ae8c25808aeeca5a6b5f3c9beb4dbe0",
+    "description": "An illustration shows a doctor holding a flag, contrasted with a chart displaying various factors related to leadership and governance, highlighting their strengths and weaknesses.",
     "tags": [
       "leadership",
       "education",
@@ -2185,13 +2187,13 @@
       "resources",
       "global",
       "thinking",
-      "strong",
-      "weak"
+      "determination",
+      "weakness"
     ],
     "metadata": {
       "dimensions": "1227x629",
       "format": "PNG",
-      "size_kb": "221.71 KB"
+      "size_kb": "162.93 KB"
     }
   },
   {
@@ -2303,22 +2305,22 @@
   {
     "path": "2025/pc/resized-image.jpeg",
     "filename": "2025/pc/resized-image.jpeg",
-    "hash": "acf007a4a70f1abf07fcf24b6c62afff120b60714baf5b313a510948d35de9b1",
-    "description": "A pixel art depiction of the Grim Reaper running, engulfed in swirling flames, and wielding a scythe.",
+    "hash": "587f256f0ec96d8db66fc75986ae6efd43bb7bd459d584709112e46742bce350",
+    "description": "A pixel art depiction of the Grim Reaper running, engulfed in a fiery trail, carrying a scythe.",
     "tags": [
       "grim reaper",
-      "death",
       "fire",
+      "death",
       "scythe",
+      "pixel art",
       "flames",
       "running",
-      "pixel art",
-      "dark"
+      "hell"
     ],
     "metadata": {
       "dimensions": "1024x1024",
       "format": "JPEG",
-      "size_kb": "216.64 KB"
+      "size_kb": "204.23 KB"
     }
   },
   {
@@ -2623,5 +2625,432 @@
       "format": "PNG",
       "size_kb": "79.70 KB"
     }
+  },
+  {
+    "path": "cached_image_2a1e02c4",
+    "filename": "cached_image_2a1e02c4",
+    "hash": "2a1e02c41e60379d8bd6fffb728828f07a3f50806c866280abd6d5f209bf37c0",
+    "description": "An article excerpt discusses the use of AI by police near the US-Mexico border to gather information on individuals, including protesters, potentially leading to arrests.",
+    "tags": [
+      "ai",
+      "police",
+      "surveillance",
+      "protest",
+      "activists",
+      "bots",
+      "technology",
+      "tracking",
+      "border"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_5c843c09",
+    "filename": "cached_image_5c843c09",
+    "hash": "5c843c0977faf27260ab8402af9e02d156558d30ab00b8df21f7184813e89a0e",
+    "description": "A diagram illustrating the \"whipsaw\" effect of Trump's tariffs, showing how seemingly strategic actions lead to perceptions of craziness.",
+    "tags": [
+      "whipsaw",
+      "trump",
+      "tariffs",
+      "strategy",
+      "negotiation",
+      "trade",
+      "whitehouse",
+      "perception"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_ec9b3f2b",
+    "filename": "cached_image_ec9b3f2b",
+    "hash": "ec9b3f2bd606240e77b402e70ffc458e70e6bc4c8ea34f7c1f496ce0bad55546",
+    "description": "A diagram illustrating a kernel design for NSA, showing data flow between SRAM and HBM memory during attention computation.",
+    "tags": [
+      "kernel",
+      "nsa",
+      "sram",
+      "hbm",
+      "grid",
+      "loop",
+      "attention",
+      "computation"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_e29ffcca",
+    "filename": "cached_image_e29ffcca",
+    "hash": "e29ffcca738fc9e7ac32aab25fcbd6174e71e62104a26252e28aaaa96640fa0f",
+    "description": "A graph shows the S&P 500's performance during the 2000-2002 bear market, highlighting significant rallies within the overall decline.",
+    "tags": [
+      "market",
+      "bear",
+      "rally",
+      "s&p",
+      "2000",
+      "2002",
+      "stock",
+      "graph"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_acf007a4",
+    "filename": "cached_image_acf007a4",
+    "hash": "acf007a4a70f1abf07fcf24b6c62afff120b60714baf5b313a510948d35de9b1",
+    "description": "A pixel art depiction of the Grim Reaper running, engulfed in swirling flames, and wielding a scythe.",
+    "tags": [
+      "grim reaper",
+      "death",
+      "fire",
+      "scythe",
+      "flames",
+      "running",
+      "pixel art",
+      "dark"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_c1911c8e",
+    "filename": "cached_image_c1911c8e",
+    "hash": "c1911c8edfa5fc976cd48bf02c6cc53ef8efcb5eedbc50bdfc61bac9f6c8cd31",
+    "description": "The figure illustrates the architecture of NSA, showing how it processes input sequences through three parallel attention branches (compressed, selected, and sliding) to efficiently compute attention scores.",
+    "tags": [
+      "attention",
+      "mechanism",
+      "sparse",
+      "nsa",
+      "architecture",
+      "parallel",
+      "branches",
+      "compression",
+      "selection",
+      "sliding"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_e3c3c09e",
+    "filename": "cached_image_e3c3c09e",
+    "hash": "e3c3c09e85adb4b246f3b09493c81e20d87f59bdc320128c972665228eb760ee",
+    "description": "The figure shows a comparison of the performance and efficiency between a full attention model and an NSA model across benchmarks, long-context tasks, and reasoning evaluation, demonstrating NSA's speedup in different processing stages.",
+    "tags": [
+      "nsa",
+      "full attention",
+      "benchmarks",
+      "speedup",
+      "performance",
+      "reasoning",
+      "decoding",
+      "propagation"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_fcb8985f",
+    "filename": "cached_image_fcb8985f",
+    "hash": "fcb8985f5af2f8153c4507452ffccdb5b28a2f6eda985de58321a10b4253c00f",
+    "description": "An excerpt describing the two stages of Warren Buffett's investment career, influenced by Ben Graham and Charlie Munger/Phil Fisher.",
+    "tags": [
+      "warren",
+      "buffett",
+      "investment",
+      "stages",
+      "ben",
+      "graham",
+      "charlie",
+      "munger",
+      "phil",
+      "fisher"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_d96a180b",
+    "filename": "cached_image_d96a180b",
+    "hash": "d96a180b17b09d0e571c2d879f96a6732cf931865dbbb862a832d7352c63cc68",
+    "description": "An illustration shows a woman presenting a blue flag, alongside a chart comparing various factors related to strong versus weak governance.",
+    "tags": [
+      "leadership",
+      "education",
+      "character",
+      "corruption",
+      "governance",
+      "resources",
+      "global",
+      "thinking",
+      "strong",
+      "weak"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_42dfb4c6",
+    "filename": "cached_image_42dfb4c6",
+    "hash": "42dfb4c6f58002af6c55b51023fd2b24226b7b25d0cc4314b39fc665faba0ee6",
+    "description": "A bubblemap diagram illustrates the flow of funds and multi-chain transfers between various cryptocurrency entities and addresses.",
+    "tags": [
+      "bubblemaps",
+      "cryptocurrency",
+      "blockchain",
+      "transactions",
+      "funding",
+      "multi-chain",
+      "analysis",
+      "libra",
+      "melania",
+      "oxceae"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_48430f44",
+    "filename": "cached_image_48430f44",
+    "hash": "48430f44ff36dc11c888e7e3a616785dc18c3d8b23cf4074335f5433a6387230",
+    "description": "A four-panel political cartoon satirizes instances of \"bad optics\" in politics, depicting various controversial scenarios involving prominent figures.",
+    "tags": [
+      "politics",
+      "cartoon",
+      "satire",
+      "optics",
+      "trump",
+      "pardon",
+      "migrant",
+      "criticism",
+      "age-old"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_5eca3e3d",
+    "filename": "cached_image_5eca3e3d",
+    "hash": "5eca3e3d7af7921173f1b73513b425219ac2e5b12399490f12a61045d9eb65cc",
+    "description": "A screenshot shows a tutorial on building browser automation using Stagehand, highlighting code examples and a GitHub pull request.",
+    "tags": [
+      "stagehand",
+      "playwright",
+      "github",
+      "automation",
+      "browser",
+      "testing",
+      "code",
+      "javascript"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_b444a5f3",
+    "filename": "cached_image_b444a5f3",
+    "hash": "b444a5f375e3c076c11d6c6386cd6338ae342d9a8a4e377565325682a24c5fd8",
+    "description": "A diagram shows the four forces (thrust, drag, weight, and lift) acting on an airplane.",
+    "tags": [
+      "airplane",
+      "flight",
+      "forces",
+      "thrust",
+      "drag",
+      "weight",
+      "lift",
+      "nasa"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_6a0a7c76",
+    "filename": "cached_image_6a0a7c76",
+    "hash": "6a0a7c76cca8625233f356b39f5e8c96621c8fae55f065960c6946382fe07b9d",
+    "description": "A screenshot shows three \"jailbreak prompts\" for artificial intelligence, designed to bypass safety restrictions and encourage creative responses.",
+    "tags": [
+      "jailbreak",
+      "prompts",
+      "ai",
+      "chatgpt",
+      "text",
+      "commands",
+      "instructions",
+      "parameters"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_154cdb17",
+    "filename": "cached_image_154cdb17",
+    "hash": "154cdb17e849169dba1f053bca1741043f41b86af690d00e6cdde07099027cd0",
+    "description": "A flowchart depicting the process of a chat application, from classifying the request to providing a final response based on the most relevant prompt.",
+    "tags": [
+      "flowchart",
+      "chat",
+      "application",
+      "request",
+      "response",
+      "processing",
+      "classification",
+      "prompt",
+      "relevant"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_63a1bb79",
+    "filename": "cached_image_63a1bb79",
+    "hash": "63a1bb7917d25acdd2107e474cf6a37cab3a959934842794959ade3f8cb45741",
+    "description": "A text excerpt discusses the potential commoditization of AI foundation models and where value might be captured if this occurs, focusing on hardware components like chips and their production.",
+    "tags": [
+      "ai",
+      "models",
+      "commoditization",
+      "hyperscalers",
+      "compute",
+      "chips",
+      "tsmc",
+      "value",
+      "packaging"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_a34a1c4d",
+    "filename": "cached_image_a34a1c4d",
+    "hash": "a34a1c4dc44a1cc780e8a0e5a4839072d73e3698147a2a722274fac62a382318",
+    "description": "A chart shows projected GDP growth for several major world economies from 2024 to 2026, with the IMF not forecasting a global recession.",
+    "tags": [
+      "imf",
+      "gdp",
+      "growth",
+      "recession",
+      "forecast",
+      "economy",
+      "world",
+      "countries"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
+  },
+  {
+    "path": "cached_image_fa196bc4",
+    "filename": "cached_image_fa196bc4",
+    "hash": "fa196bc48af5302454a1c279da4a7709af8279290aa78a04c617f2c2800eedb5",
+    "description": "A bar chart shows the estimated growth of Iran's stockpile of 60% enriched uranium hexafluoride from 2022 to 2025.",
+    "tags": [
+      "iran",
+      "uranium",
+      "hexafluoride",
+      "stockpile",
+      "enrichment",
+      "60%",
+      "growth",
+      "chart",
+      "iaea"
+    ],
+    "metadata": {
+      "dimensions": "N/A",
+      "format": "N/A",
+      "size_kb": "N/A",
+      "cached_only": true
+    },
+    "cached_only": true
   }
 ]
