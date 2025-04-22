@@ -129,6 +129,39 @@ h1 {
     box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
 }
 
+/* Sort Controls */
+.sort-controls {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #f1f8fe;
+    border-radius: 6px;
+    padding: 12px 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.sort-controls label {
+    margin-right: 10px;
+    font-weight: 500;
+    color: #2c3e50;
+}
+
+#sort-by {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 0.9rem;
+    max-width: 250px;
+}
+
+#sort-by:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+}
+
 /* Image Grid */
 #image-grid {
     display: grid;

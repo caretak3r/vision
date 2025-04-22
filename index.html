@@ -17,6 +17,19 @@
                 <!-- Metrics will be populated by JavaScript -->
                 <div class="metrics-loading">Calculating collection metrics...</div>
             </div>
+            <div class="sort-controls">
+                <label for="sort-by">Sort by:</label>
+                <select id="sort-by">
+                    <option value="date-desc">Date (Newest First)</option>
+                    <option value="date-asc">Date (Oldest First)</option>
+                    <option value="tags-asc">Tags (A-Z)</option>
+                    <option value="tags-desc">Tags (Z-A)</option>
+                    <option value="filename-asc">Filename (A-Z)</option>
+                    <option value="filename-desc">Filename (Z-A)</option>
+                    <option value="size-asc">Size (Smallest First)</option>
+                    <option value="size-desc">Size (Largest First)</option>
+                </select>
+            </div>
         </header>
         
         <main>

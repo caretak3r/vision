@@ -2,8 +2,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const imageGrid = document.getElementById('image-grid');
     const searchBar = document.getElementById('search-bar');
     const tooltip = document.getElementById('tooltip');
+    const sortBySelect = document.getElementById('sort-by');
     
     let allImages = [];
+    let currentDisplayedImages = [];
 
     const metricsBar = document.getElementById('metrics-bar');
 
@@ -28,6 +30,31 @@ document.addEventListener('DOMContentLoaded', function() {
             // Store the image data
             allImages = data;
             
+            // Parse dates from filenames for sorting
+            allImages.forEach(image => {
+                // Try to extract date from filename (format: YYYYMMDD_HHMMSS)
+                const dateMatch = image.filename.match(/(\d{8})_(\d{6})/);
+                if (dateMatch) {
+                    const year = dateMatch[1].substr(0, 4);
+                    const month = dateMatch[1].substr(4, 2);
+                    const day = dateMatch[1].substr(6, 2);
+                    const hour = dateMatch[2].substr(0, 2);
+                    const minute = dateMatch[2].substr(2, 2);
+                    const second = dateMatch[2].substr(4, 2);
+                    
+                    image.dateObj = new Date(`${year}-${month}-${day}T${hour}:${minute}:${second}`);
+                } else {
+                    // If no date in filename, use a default old date
+                    image.dateObj = new Date(0); // January 1, 1970
+                }
+            });
+            
+            // Sort images by newest first by default
+            sortImages(allImages, 'date-desc');
+            
+            // Store the initial state of images for reference
+            currentDisplayedImages = [...allImages];
+            
             // Calculate and display metrics
             calculateAndDisplayMetrics(allImages);
             
@@ -36,6 +63,9 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Setup search functionality
             setupSearch();
+            
+            // Setup sort functionality
+            setupSort();
         })
         .catch(error => {
             console.error('Error fetching image data:', error);
@@ -204,7 +234,12 @@ document.addEventListener('DOMContentLoaded', function() {
             const searchTerms = this.value.toLowerCase().split(' ').filter(term => term.trim() !== '');
             
             if (searchTerms.length === 0) {
-                renderImages(allImages);
+                currentDisplayedImages = [...allImages];
+                // Always default to newest first when search is cleared
+                sortImages(currentDisplayedImages, 'date-desc');
+                // Update the sort dropdown to reflect this default
+                sortBySelect.value = 'date-desc';
+                renderImages(currentDisplayedImages);
                 return;
             }
             
@@ -214,8 +249,101 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             });
             
-            renderImages(filteredImages);
+            currentDisplayedImages = [...filteredImages];
+            // Apply current sort if any
+            if (sortBySelect.value) {
+                sortImages(currentDisplayedImages, sortBySelect.value);
+            }
+            renderImages(currentDisplayedImages);
         });
+    }
+    
+    // Setup sort functionality
+    function setupSort() {
+        sortBySelect.addEventListener('change', function() {
+            // Apply the selected sort to the currently displayed images
+            const sortOption = this.value;
+            sortImages(currentDisplayedImages, sortOption);
+            renderImages(currentDisplayedImages);
+        });
+    }
+    
+    // Sort images based on the selected option
+    function sortImages(images, sortOption) {
+        switch(sortOption) {
+            case 'date-desc': // Newest first
+                images.sort((a, b) => {
+                    return b.dateObj - a.dateObj;
+                });
+                break;
+            case 'date-asc': // Oldest first
+                images.sort((a, b) => {
+                    return a.dateObj - b.dateObj;
+                });
+                break;
+            case 'tags-asc': // Tags A-Z
+                images.sort((a, b) => {
+                    const tagA = a.tags && a.tags.length > 0 ? a.tags[0].toLowerCase() : '';
+                    const tagB = b.tags && b.tags.length > 0 ? b.tags[0].toLowerCase() : '';
+                    return tagA.localeCompare(tagB);
+                });
+                break;
+            case 'tags-desc': // Tags Z-A
+                images.sort((a, b) => {
+                    const tagA = a.tags && a.tags.length > 0 ? a.tags[0].toLowerCase() : '';
+                    const tagB = b.tags && b.tags.length > 0 ? b.tags[0].toLowerCase() : '';
+                    return tagB.localeCompare(tagA);
+                });
+                break;
+            case 'filename-asc': // Filename A-Z
+                images.sort((a, b) => {
+                    return a.filename.toLowerCase().localeCompare(b.filename.toLowerCase());
+                });
+                break;
+            case 'filename-desc': // Filename Z-A
+                images.sort((a, b) => {
+                    return b.filename.toLowerCase().localeCompare(a.filename.toLowerCase());
+                });
+                break;
+            case 'size-asc': // Size (smallest first)
+                images.sort((a, b) => {
+                    const sizeA = extractFileSize(a);
+                    const sizeB = extractFileSize(b);
+                    return sizeA - sizeB;
+                });
+                break;
+            case 'size-desc': // Size (largest first)
+                images.sort((a, b) => {
+                    const sizeA = extractFileSize(a);
+                    const sizeB = extractFileSize(b);
+                    return sizeB - sizeA;
+                });
+                break;
+        }
+        
+        return images;
+    }
+    
+    // Helper function to extract file size in KB from metadata
+    function extractFileSize(image) {
+        if (!image.metadata) return 0;
+        
+        let sizeStr;
+        if (image.metadata.size_kb) {
+            sizeStr = image.metadata.size_kb;
+        } else if (image.metadata.raw && image.metadata.raw.includes('Size:')) {
+            sizeStr = image.metadata.raw.match(/Size: ([\d\.]+) KB/)?.[1] || '0';
+        }
+        
+        if (sizeStr) {
+            // Extract the number from the size string
+            const sizeMatch = sizeStr.match(/([\d\.]+)/);
+            if (sizeMatch) {
+                return parseFloat(sizeMatch[1]);
+            }
+        }
+        
+        return 0;
     }
     
     // Show tooltip with full-size image
@@ -276,35 +404,12 @@ document.addEventListener('DOMContentLoaded', function() {
         });
         const totalUniqueTags = uniqueTags.size;
         
-        // 3. Find image(s) with the most tags
-        let maxTagCount = 0;
-        let imagesWithMostTags = [];
-        
-        activeImages.forEach(image => {
-            if (Array.isArray(image.tags)) {
-                const tagCount = image.tags.length;
-                if (tagCount > maxTagCount) {
-                    maxTagCount = tagCount;
-                    imagesWithMostTags = [image.filename];
-                } else if (tagCount === maxTagCount) {
-                    imagesWithMostTags.push(image.filename);
-                }
-            }
-        });
-        
-        // Format the max tags display text
-        let maxTagsText = `${maxTagCount} tags`;
-        if (imagesWithMostTags.length > 0) {
-            const shortName = imagesWithMostTags[0].split('/').pop();
-            maxTagsText = `${maxTagCount} (${shortName})`;
-        }
-        
-        // 4. Calculate average tags per image
+        // 3. Calculate average tags per image
         const avgTags = activeImages.length > 0 
             ? (activeImages.reduce((sum, img) => sum + (Array.isArray(img.tags) ? img.tags.length : 0), 0) / activeImages.length).toFixed(1)
             : 0;
             
-        // 5. Find most common tags
+        // 4. Find most common tags
         const tagFrequency = {};
         activeImages.forEach(image => {
             if (Array.isArray(image.tags)) {
@@ -332,7 +437,7 @@ document.addEventListener('DOMContentLoaded', function() {
             ? `${mostCommonTags[0]} (${maxFrequency})`
             : 'None';
             
-        // 6. Analyze file formats
+        // 5. Analyze file formats
         const formatCounts = {};
         activeImages.forEach(image => {
             let format = 'unknown';
@@ -368,7 +473,7 @@ document.addEventListener('DOMContentLoaded', function() {
             ? `${mostCommonFormat.toUpperCase()} (${maxFormatCount})`
             : 'None';
             
-        // 7. Calculate total collection size
+        // 6. Calculate total collection size
         let totalSizeKB = 0;
         activeImages.forEach(image => {
             // Extract size from metadata
@@ -398,7 +503,7 @@ document.addEventListener('DOMContentLoaded', function() {
             formattedSize = `${totalSizeKB.toFixed(2)} KB`;
         }
         
-        // 8. Create metrics HTML
+        // 7. Create metrics HTML
         const metricsHTML = `
             <div class="metric-item">
                 <div class="metric-title">Total Images</div>
@@ -407,10 +512,6 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="metric-item">
                 <div class="metric-title">Unique Tags</div>
                 <div class="metric-value">${totalUniqueTags}</div>
-            </div>
-            <div class="metric-item">
-                <div class="metric-title">Most Tagged</div>
-                <div class="metric-value">${maxTagsText}</div>
             </div>
             <div class="metric-item">
                 <div class="metric-title">Avg Tags/Image</div>
@@ -464,10 +565,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     <div class="metric-item">
                         <div class="metric-title">Filter Tags</div>
                         <div class="metric-value">${filteredUniqueTagsCount} / ${totalUniqueTags}</div>
-                    </div>
-                    <div class="metric-item">
-                        <div class="metric-title">Most Tagged</div>
-                        <div class="metric-value">${maxTagsText}</div>
                     </div>
                     <div class="metric-item">
                         <div class="metric-title">Most Common Tag</div>
