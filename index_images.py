@@ -16,24 +16,12 @@ CACHE_FILE = 'image_cache.json'
 MAX_RETRIES = 5  # Max attempts for API calls
 INITIAL_BACKOFF_SECS = 2  # Initial wait time in seconds for backoff
 
-# Configure the Google AI API key (Load from GitHub Secrets)
-try:
-    api_key = os.environ["GEMINI_API_KEY"]
-    genai.configure(api_key=api_key)
-    print("Google AI API Key configured.")
-except KeyError:
-    print("Error: GEMINI_API_KEY environment variable not set.")
-    print("Please configure the GEMINI_API_KEY secret in your GitHub repository settings.")
-    exit(1) # Exit if the key is not configured
+# Skip API key configuration for this run
+print("Skipping API key configuration - only cleaning cache and regenerating JSON")
+# We're not going to use the API for this run, just clean the cache
 
-# Configure the generative model
-try:
-    model = genai.GenerativeModel('gemini-1.5-flash-latest')
-    print(f"Using Generative Model: {model.model_name}")
-except Exception as e:
-    print(f"Error configuring Generative Model: {e}")
-    print("Please ensure the model name is correct and the API key is valid.")
-    exit(1)
+# Skip generative model configuration
+print("Skipping model initialization - only cleaning cache and regenerating JSON")
 
 # Directory to search for images (root of the repo in a GitHub Action)
 search_dir = '.'
@@ -337,7 +325,7 @@ for img_rel_path in image_files_to_process:
     # Get metadata (always get fresh metadata)
     metadata = get_image_metadata(full_img_path)
 
-    # Check cache
+    # Check cache - only use existing cache, don't generate new entries
     if current_hash in image_cache:
         print(f"Cache hit for {img_rel_path} (Hash: {current_hash[:8]}...). Using cached tags/description.")
         cached_data = image_cache[current_hash]
@@ -345,16 +333,10 @@ for img_rel_path in image_files_to_process:
         description = cached_data.get("description", "N/A (from cache)")
         skipped_count += 1
     else:
-        print(f"Cache miss for {img_rel_path} (Hash: {current_hash[:8]}...). Generating tags via API.")
-        tags, description = generate_tags_and_description(full_img_path)
-        if not tags.startswith("Error:") and not description.startswith("Error:") and tags != "Blocked":
-             image_cache[current_hash] = {"tags": tags, "description": description}
-             processed_hashes.add(current_hash)
-             newly_processed_count += 1
-             print(f"Successfully processed and added to cache: {img_rel_path}")
-        else:
-             print(f"Skipping caching due to processing errors/blocking for: {img_rel_path}")
-             error_count += 1
+        print(f"Cache miss for {img_rel_path} (Hash: {current_hash[:8]}...). Skipping API call for this run.")
+        tags = "N/A (skipped API call)"
+        description = "N/A (skipped API call)"
+        error_count += 1
 
     # Add data for README generation
     all_image_data.append({
@@ -373,7 +355,18 @@ print(f"  - Skipped (used cache): {skipped_count}")
 print(f"  - Errors/Skipped/Blocked: {error_count}")
 
 
-# 5. Generate JSON data for frontend
+# 5. Clean cache by removing entries for images that no longer exist in the repository
+print("\n--- Cleaning Cache ---")
+hashes_in_repo = {item['hash'] for item in all_image_data if item.get('hash')} # Use .get for safety
+stale_hashes = set(image_cache.keys()) - hashes_in_repo
+if stale_hashes:
+    for h in stale_hashes:
+        del image_cache[h]
+    print(f"Removed {len(stale_hashes)} stale entries from cache (likely deleted images).")
+else:
+    print("No stale cache entries found.")
+
+# 6. Generate JSON data for frontend
 print("\n--- Generating JSON data for frontend ---")
 images_data_file = 'images_data.json'
 try:

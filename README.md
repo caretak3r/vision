@@ -1,6 +1,10 @@
 # Vision Image Index
 
+<<<<<<< HEAD
 This README automatically indexes images found in the repository. Last updated: 2025-04-22 20:55:40 UTC
+=======
+This README automatically indexes images found in the repository. Last updated: 2025-04-22 19:00:36 EDT
+>>>>>>> e0c8c11 (fix: cached image issue)
 
 | Image | Filename | Description | Tags | Metadata | Hash |
 |---|---|---|---|---|---|
