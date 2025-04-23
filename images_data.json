@@ -2201,9 +2201,16 @@
     "path": "2025/pc/kokotheclown.png",
     "filename": "2025/pc/kokotheclown.png",
     "hash": "419dc047b6d624880744dd68f7a951b49343996a5b588c62b49c9dd0f9e20026",
-    "description": "N/A (skipped API call)",
+    "description": "A sad clown and a laughing ghost are reflected in a hand-held mirror with multiple arms.",
     "tags": [
-      "N/A (skipped API call)"
+      "clown",
+      "ghost",
+      "mirror",
+      "sad",
+      "happy",
+      "surreal",
+      "art",
+      "illustration"
     ],
     "metadata": {
       "dimensions": "1258x1256",

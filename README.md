@@ -1,6 +1,6 @@
 # Vision Image Index
 
-This README automatically indexes images found in the repository. Last updated: 2025-04-22 19:51:25 EDT
+This README automatically indexes images found in the repository. Last updated: 2025-04-23 01:03:43 UTC
 
 | Image | Filename | Description | Tags | Metadata | Hash |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@ This README automatically indexes images found in the repository. Last updated: 
 | ![gpkmahlwuaaz51g.jpeg](2025/pc/gpkmahlwuaaz51g.jpeg?raw=true) | `2025/pc/gpkmahlwuaaz51g.jpeg` | A line graph displays Tesla's market share by region (US/Canada, Europe, China) from Q2 2019 to Q1 2025, showing growth in all regions. | `tesla, market, share, vehicles, regions, growth, production, time` | Dims: 1500x840 <br> Format: JPEG <br> Size: 115.19 KB | `c3c9a037edc9...` |
 | ![gpkmm6oa4aucinu.jpeg](2025/pc/gpkmm6oa4aucinu.jpeg?raw=true) | `2025/pc/gpkmm6oa4aucinu.jpeg` | A visual representation of Tesla's Q1 FY25 income statement, showing revenue streams, costs, and profit margins. | `tesla,income,statement,q1,fy25,revenue,profit,expenses` | Dims: 2744x1539 <br> Format: JPEG <br> Size: 258.40 KB | `7c0ef61cfa47...` |
 | ![indicators-of-power.png](2025/pc/indicators-of-power.png?raw=true) | `2025/pc/indicators-of-power.png` | An illustration shows a doctor holding a flag, contrasted with a chart displaying various factors related to leadership and governance, highlighting their strengths and weaknesses. | `leadership, education, character, corruption, governance, resources, global, thinking, determination,  weakness` | Dims: 1227x629 <br> Format: PNG <br> Size: 162.93 KB | `0b7cf246413f...` |
+| ![kokotheclown.png](2025/pc/kokotheclown.png?raw=true) | `2025/pc/kokotheclown.png` | A sad clown and a laughing ghost are reflected in a hand-held mirror with multiple arms. | `clown, ghost, mirror, sad, happy, surreal, art, illustration` | Dims: 1258x1256 <br> Format: PNG <br> Size: 1627.59 KB | `419dc047b6d6...` |
 | ![llm-terms.png](2025/pc/llm-terms.png?raw=true) | `2025/pc/llm-terms.png` | A diagram illustrating different LLM architectures using nested directed graphs with shared stores. | `llm, graph, architecture, chain, nested, directed, store, agent, multi-agent` | Dims: 1149x3059 <br> Format: PNG <br> Size: 109.19 KB | `277e6e0ecb93...` |
 | ![node-attestation.png](2025/pc/node-attestation.png?raw=true) | `2025/pc/node-attestation.png` | A diagram illustrates the process of node attestation using Spire agent and server, with AWS cloud as the infrastructure. | `node, attestation, spire, agent, server, aws, cloud, security` | Dims: 835x471 <br> Format: PNG <br> Size: 84.18 KB | `9cedbd73d7f8...` |
 | ![predict-2025-tariffs.png](2025/pc/predict-2025-tariffs.png?raw=true) | `2025/pc/predict-2025-tariffs.png` | A table detailing the hypothetical economic, labor, and GDP impacts of tariffs on goods from Mexico and Canada in 2025. | `2025,economic,impact,labor,gdp,tariffs,trade,inflation` | Dims: 788x692 <br> Format: PNG <br> Size: 85.40 KB | `78390726d6c4...` |
