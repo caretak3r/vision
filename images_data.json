@@ -2133,6 +2133,50 @@
     }
   },
   {
+    "path": "2025/pc/google-supply-chain-bloomberg-2.png",
+    "filename": "2025/pc/google-supply-chain-bloomberg-2.png",
+    "hash": "20f4f35d3db82694dc5503a35331a3987462ba7ab17490564adb41e340d261af",
+    "description": "A screenshot displays a list of companies with their revenue and cost of goods sold (COGS) percentages.",
+    "tags": [
+      "stocks",
+      "finance",
+      "market",
+      "revenue",
+      "cogs",
+      "splc",
+      "telecom",
+      "technology"
+    ],
+    "metadata": {
+      "dimensions": "344x616",
+      "format": "PNG",
+      "size_kb": "473.08 KB"
+    }
+  },
+  {
+    "path": "2025/pc/google-supply-chain-bloomberg.png",
+    "filename": "2025/pc/google-supply-chain-bloomberg.png",
+    "hash": "a68826b4ab1212e4bae46f64cfdb767daf0f2083603297205ca17d4f08d71dc8",
+    "description": "A Bloomberg terminal screen displays a network graph visualizing the financial relationships between Alphabet Inc. and its 877 customers and 23 competitors.",
+    "tags": [
+      "alphabet",
+      "google",
+      "bloomberg",
+      "customers",
+      "competitors",
+      "finance",
+      "data",
+      "network",
+      "visualization",
+      "analysis"
+    ],
+    "metadata": {
+      "dimensions": "1125x630",
+      "format": "PNG",
+      "size_kb": "729.01 KB"
+    }
+  },
+  {
     "path": "2025/pc/gpkmahlwuaaz51g.jpeg",
     "filename": "2025/pc/gpkmahlwuaaz51g.jpeg",
     "hash": "c3c9a037edc9928f8f935684bf6ffd3a1a2319013b51b1a2ab2e9acb66abd066",
@@ -2407,6 +2451,51 @@
       "dimensions": "3164x1732",
       "format": "PNG",
       "size_kb": "2360.74 KB"
+    }
+  },
+  {
+    "path": "2025/pc/screenshot_2025-03-19_at_143031.png",
+    "filename": "2025/pc/screenshot_2025-03-19_at_143031.png",
+    "hash": "e62f247933672736d3f690aa9f1a1ecebb14a240fee0e741e4cb48e486b432aa",
+    "description": "A map of parts of New Jersey showing zip codes and estimated home values as of February 2025.",
+    "tags": [
+      "map",
+      "new jersey",
+      "zip codes",
+      "real estate",
+      "home values",
+      "county",
+      "city",
+      "location",
+      "february 2025"
+    ],
+    "metadata": {
+      "dimensions": "3526x2194",
+      "format": "PNG",
+      "size_kb": "9546.48 KB"
+    }
+  },
+  {
+    "path": "2025/pc/screenshot_2025-04-16_at_132215.png",
+    "filename": "2025/pc/screenshot_2025-04-16_at_132215.png",
+    "hash": "3d92b5f3d3d5a2626a8265845134edb1fa92393b5e3532c2fdc18fa6f3495cf8",
+    "description": "A Gemini AI chatbot displays an error message, stating it cannot render a document into markdown format.",
+    "tags": [
+      "gemini",
+      "markdown",
+      "rendering",
+      "error",
+      "ai",
+      "chatbot",
+      "document",
+      "converter",
+      "help",
+      "limitation"
+    ],
+    "metadata": {
+      "dimensions": "314x250",
+      "format": "PNG",
+      "size_kb": "13.08 KB"
     }
   },
   {
