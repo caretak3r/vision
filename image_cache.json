@@ -1,506 +1,562 @@
 {
-    "07c99609b412ff8a41864370c44caa69d8ff936e7c65adf84416bf46efc42544": {
-        "tags": "trade, usa, china, dominance, global, map, economy, import, export",
-        "description": "The infographic illustrates the shift in global trade dominance between the U.S. and China from 2000 to 2024, depicting China's increased presence as a larger trading partner."
-    },
-    "587f256f0ec96d8db66fc75986ae6efd43bb7bd459d584709112e46742bce350": {
-        "tags": "grim reaper, fire, death, scythe, pixel art, flames, running, hell",
-        "description": "A pixel art depiction of the Grim Reaper running, engulfed in a fiery trail, carrying a scythe."
-    },
-    "e8ef1081763581d02d97b7136df0f2c096da929931ef973805f665f088a159c9": {
-        "tags": "llm, database, embedding, model, chunks, vector, query, prompt, context",
-        "description": "The image illustrates a system that allows users to chat with their documents by chunking data, creating embeddings, querying a vector database, and using a prompt template with an LLM."
-    },
-    "5e3445518535a3f3ba144f923e9550a28cee4ae2cc525f430215f40339649a23": {
-        "tags": "quantum,computing,market,map,hardware,software,companies,users,applications,qpus",
-        "description": "A market map illustrating the quantum computing ecosystem, showing key players categorized by users, applications, software offerings, QPUs, and hardware components."
-    },
-    "24db4be10741462d912017efb502137507317dbb2dbc75e8b143e9240bb572f6": {
-        "tags": "iran, uranium, hexafluoride, stockpile, enrichment, 60%, growth, chart, iaea",
-        "description": "A bar chart shows the estimated growth of Iran's stockpile of 60% enriched uranium hexafluoride from 2022 to 2025."
-    },
-    "510b929d7eab9c87f528eea91b7484683eca48aefeef377d7d73d849934160a7": {
-        "tags": "runtime, event, loop, runner, services, storage, agent, execution, adk",
-        "description": "A diagram illustrating the ADK Runtime's event loop, showcasing the interaction between user input, a runner component, execution logic, services, and storage."
-    },
-    "9d0d99cf5461eff7ee587b7ad4701f2d9c65f577175349897cd9b99540aee56b": {
-        "tags": "debt, interest, treasury, recession, us, federal, spiral, economics, finance",
-        "description": "A Twitter post discusses the high US federal debt, the potential for a debt spiral, and how a recession might lower interest rates."
-    },
-    "55f747d4ba79f0cb3b6dd6695ebd604fa18bf20f6ef1593b683e3a120a5dfbe9": {
-        "tags": "china, sourcing, exposure, electronics, autoparts, retail, cogs, imports",
-        "description": "A table showing the percentage of cost of goods sold sourced from China for various US retail sectors."
-    },
-    "8ca75c30f94fce73d071e4ebd6347407c49280378ccde0032ee6363588e6d775": {
-        "tags": "trump, tariffs, canada, cartoon, political, satire, economy, trade",
-        "description": "A political cartoon depicts Donald Trump vomiting money onto a fan with a Canadian flag, satirizing the effects of tariffs."
-    },
-    "ee5483ae57a509c0eaf8eb0e385b60745b69a217cfb9fbd0bb970160b5df1175": {
-        "tags": "politics, chart, graph, values, international, cooperation, liberal, conservative, countries, russia",
-        "description": "The image shows a scatter plot illustrating the political positions of various countries' political movements based on liberal/conservative values and international cooperation."
-    },
-    "628d105c52573e89ab8f99ba1bd772c1fa28c9793ca81c593b29854528bd7a63": {
-        "tags": "amazon, culture, decisions, why, philosophy, company, customer, questions, innovation",
-        "description": "An excerpt from an Amazon annual letter explaining the company's \"Why\" culture and decision-making philosophy."
-    },
-    "43eaa2c55f7afafc3569ad4e85366b4ccd925b466f6499f44e32b11d940d432f": {
-        "tags": "jailbreak, prompts, ai, chatbot, gpt, text, instructions, creative, writing",
-        "description": "A screenshot displays three \"jailbreak prompts\" for AI chatbots, designed to enhance their capabilities and adaptability."
-    },
-    "58ba16d1e1d5a54261a73aa2c496447030a050fcbe6ef9d59e356afb06a730a1": {
-        "tags": "ercot, bess, battery, solar, gas, price, spike, grid, energy",
-        "description": "A graph displays a morning price spike in the ERCOT grid caused by marginal batteries, with nearly 29 GW of thermal assets on outage."
-    },
-    "7fc7c78ae1389510e1f3d725ecc1b8fb25ef94f9efd6799f40ae70f640af4098": {
-        "tags": "deficit,tracker,budget,fiscal,year,graph,dollars,billions,spending",
-        "description": "A line graph tracks the cumulative U.S. federal budget deficit in billions of dollars from October to September for the fiscal years 2020-2025."
-    },
-    "caf91614bdd0fe16fee0c69b1c55fd026e484b320fdfef5ee900dd1a1eddc0b7": {
-        "tags": "stock, market, dowjones, index, chart, graph, finance, trading",
-        "description": "A chart showing the Dow Jones Global Index from 2009 to 2025, highlighting key events like the Christmas Eve crash and the pandemic's impact."
-    },
-    "2dc26bbdeb69a6e79aeadfae4bba9a308dc70c26ba8b75cf77f9c0f38c395d69": {
-        "tags": "workload, identity, spiffe, kubernetes, selector, docker, id, k8s",
-        "description": "A slide shows a workload identity with its parent ID, selectors, and SPIFFE ID."
-    },
-    "43e90890f18ad1a1d48168140c85e4bd022b809a1bb0059f222edce8c970419c": {
-        "tags": "attention,sparse,mechanism,parallel,branches,compressed,selected,sliding,nsa,architecture",
-        "description": "The figure illustrates the architecture of NSA, showing three parallel attention branches (compressed, selected, and sliding) processing input sequences to compute attention scores."
-    },
-    "1b7f0f4327b17f99e618de97c158313e182b8aa8596f9828dde15facc07c49a0": {
-        "tags": "bubblemaps, cryptocurrency, blockchain, finance, investments, multi-chain, transfers, funding, addresses, defi",
-        "description": "A bubblemap visualizes the flow of cryptocurrency funds between various addresses and projects, highlighting multi-chain transfers and funding sources."
-    },
-    "aa9ed3c8e389bc5e8a6e3c049edf4defa11f7d7a48db9f80bf86f74d6e021658": {
-        "tags": "tariffs,trump,china,global,deals,recession,negotiation,politics",
-        "description": "A 2x2 matrix analyzes potential outcomes of Trump's tariff policies, showing scenarios where he holds firm or retreats, with corresponding global and domestic consequences."
-    },
-    "3c4e21e39447ef183a5b1aa62a6c1f67ab95bf1adc2507787f7fb859a67ac69e": {
-        "tags": "market,business,economic,policy,stability,finance,security",
-        "description": "The image displays four rectangular boxes, each containing one type of stability: market, business, economic, and policy."
-    },
-    "111257de4453492a1188d504b329fa8ca6696f406639005636054a491075d009": {
-        "tags": "bull, ox, logo, kubernetes, roundox, cartoon, mascot, technology",
-        "description": "A logo featuring a cartoon bull's head with the text \"roundOx kubernetes\" underneath."
-    },
-    "811875ff4d5bbe00f5d9294a7a2dd96631e18449aad73688c3a76ae312d64941": {
-        "tags": "trump, kamala, election, economy, depression, jobs, politics, twitter",
-        "description": "A screenshot of a tweet by Donald Trump predicting economic consequences depending on the election outcome."
-    },
-    "512d23d61dae70aa6601f5c7827467443a7f4f2afe69b892a06a4f49c7b2ff8f": {
-        "tags": "hedge,funds,repo,market,cash,treasury,bilateral,cleared,dealers",
-        "description": "A diagram illustrates the flow of funds within the bilateral repo market, involving hedge funds, repo dealers, and the roles of trading and financing desks."
-    },
-    "bf7bdf6b00098c2b446398dd7ad1ca69cab41803d53d3a29b4b40f387c09388e": {
-        "tags": "chart, scatterplot, technology, companies, marketcap, dilution, stocks, investment",
-        "description": "The chart displays technology company dilution compared to their market capitalization, showing an inverse relationship."
-    },
-    "da97164ce1b515fdee8ea66b2343ff268cc8d333af0e3a4729a70fb38041aa07": {
-        "tags": "treasury,futures,basis,trade,repo,hedge,funds,market,cash",
-        "description": "A flow chart visualizing the process of a treasury cash-futures \"basis trade,\" showing the interactions between securities dealers, hedge funds, repo dealers, and asset managers."
-    },
-    "e62ff80a7b5e6d2533d4113c9879717e6d20a93844ee1d1d3028603b55b9721e": {
-        "tags": "dawn, internet, infrastructure, wireless, decentralized, network, technology, investment",
-        "description": "A press release announcing a strategic investment in DAWN, a novel internet protocol aiming to revolutionize internet infrastructure through a decentralized, community-powered wireless network."
-    },
-    "8cd09060d31bb0a8a1fe4dc264fc67772e77cd153d23bcea9b7fc338c84c6b20": {
-        "tags": "jobs, reddit, map, location, search, website, discussion, forum",
-        "description": "A Reddit thread discussing the need for a job search website that uses map location to show job openings."
-    },
-    "a6165c973f9de77bee9e2c97b4109605b4993cffcb712079187f717b78dfce5d": {
-        "tags": "stagehand,github,playwright,automation,browser,testing,javascript,code",
-        "description": "A screenshot shows a tutorial on building a sample browser automation with Stagehand, including code examples using Playwright and OpenAI."
-    },
-    "9cedbd73d7f84f1ceeb3c86d047f1fb0ff09ef222c220df21382894da07cac59": {
-        "tags": "node, attestation, spire, agent, server, aws, cloud, security",
-        "description": "A diagram illustrates the process of node attestation using Spire agent and server, with AWS cloud as the infrastructure."
-    },
-    "ca24ea7ab90ced3baf95bbba33b8db2a30da39cebb20183d4f9bde692dbbd71c": {
-        "tags": "financial, ratios, analysis, accounting, finance, business, metrics, profitability, liquidity",
-        "description": "A table outlining key financial ratios, their formulas, explanations, and ideal ranges."
-    },
-    "fb3dac75daae4f6c97d946e4bc47f1d4d5b90175ac5ef194bc49a1353fb00441": {
-        "tags": "ai, police, protests, surveillance, technology, bots, border, activists, investigation, tracking",
-        "description": "A news article excerpt describes how police use AI to gather information on protesters and other individuals, raising concerns about privacy and potential misuse."
-    },
-    "87e5de94ff819d39c35178974483bbca3024fff17d0df374054f52f7ef31a014": {
-        "tags": "bullwhip, effect, demand, supply, chain, customers, retailers, manufacturers, suppliers, distortion",
-        "description": "A diagram illustrates the bullwhip effect, showing how small changes in customer demand cause amplified fluctuations in orders throughout the supply chain."
-    },
-    "cfc1b6698c5d7abc9dde2460593ed3a050fbe18db13ae2509bd8687bc7688cb1": {
-        "tags": "camera, shots, movements, filming, cinematography, techniques, angles, dolly, pan, tilt",
-        "description": "A mind map illustrating various camera shots and movements used in filmmaking, categorized and described with their respective functions and variations."
-    },
-    "a1a3db05decde3ed0bdc4a3b1a61fb85107f83d5c0fe11ee166c8f95c1e5cacc": {
-        "tags": "costco,stock,fastgraphs,earnings,growth,price,ratio,p/e,dividend",
-        "description": "A Fastgraphs chart displays Costco Wholesale Corp's (COST) stock performance, including EPS, dividends, and valuation ratios over time."
-    },
-    "012fd9923cdb571d2e892efa869250f989707f31d23aa29ec6004c871dd1da41": {
-        "tags": "facebook,video,consumption,time,us,graph,data,trend",
-        "description": "A graph shows the increasing percentage of Facebook time spent consuming video in the U.S. from January 2015 to January 2025."
-    },
-    "dac78e69d0fe49ba120f829295dfe988616c4f633fd99964e672f5c73af80662": {
-        "tags": "left,political,ideology,social,progress,equality,freedom,government,beliefs",
-        "description": "A diagram illustrating the core tenets and values of the political left, emphasizing social progress, equality, and government intervention."
-    },
-    "69ea7fd4e15f364d552e8580f17bb483816721c6756a2bf6e1b3a8bcf1e36d83": {
-        "tags": "trade,deficit,economy,exports,imports,ic,plan,dollar,buffett,china",
-        "description": "Warren Buffett analyzes a proposed plan to address the US trade deficit, discussing potential benefits and drawbacks."
-    },
-    "4e1f22b0f8504642f569fcfa6938f3f64a24691bb3852b9e58ffe478452fdd99": {
-        "tags": "calendar, events, technology, legal, policy, companies, deadlines, conference, product",
-        "description": "The image shows a \"Global Internet Catalyst Calendar\" listing key upcoming events, policy deadlines, legal hearings, and product launches for various tech companies like Google, Meta, Amazon, and Microsoft in March, April, and May of 2025."
-    },
-    "00e71298e2a0b4c89223b9d2b873b3a219021797b81f0f5696506f75451fcd4a": {
-        "tags": "cyberspace,domain,information,systems,security,political,social,physical,infrastructure,adversary",
-        "description": "A 3D model illustrating the cyber domain's components, including physical, informational, cognitive dimensions, and socio-political factors."
-    },
-    "2fedc162d579fe172e8109a0efcf06f05ccaae6dfe83b61fae628ff10ab01013": {
-        "tags": "nsa, full attention, speedup, benchmarks, performance, reasoning, sparse, decoding",
-        "description": "The figure compares the performance and efficiency of NSA and Full Attention models across benchmarks and processing stages, showing NSA's superiority in both aspects."
-    },
-    "726e11ace5d14c4c07fc520365e4d8f3d5a665a261138518b852647585f1445b": {
-        "tags": "spire, server, agent, certificates, workload, architecture, diagram, security",
-        "description": "A diagram illustrating the SPIRE architecture showing a central spire-server communicating with multiple spire-agents, each managing several workloads."
-    },
-    "d160bfe7daaec1d8dcdb879f1ed28599a74304f360bf2e0d84edfd440bf997c8": {
-        "tags": "ai, multi-agent, architecture, research, scientist, system, flowchart, agents, design",
-        "description": "This diagram depicts the multi-agent architecture of an AI co-scientist system, showing how it processes a research goal into a detailed research overview through interaction among specialized agents and workers."
-    },
-    "5e07403c6828ca42868d4eb75b156d10c28be8d9ba8fc8ec3fd750d03a18bea9": {
-        "tags": "s&p, 500, market, bear, rally, stock, graph, 2000, 2002",
-        "description": "A line graph showing the S&P 500's performance from 2000 to 2002, highlighting both significant drops and temporary rallies during a bear market."
-    },
-    "42f5fe8919ee61d083596b20164b16923604476b19610c6e9c3d76888b087718": {
-        "tags": "inflation, growth, economics, sectors, stagflation, running hot, disinflation, investment, s&p1500",
-        "description": "The image is a macro environment grid showing the position of different S&P 1500 industry groups and style factors based on economic growth and inflation."
-    },
-    "273739f994c66f5682e5d6f4e8608de325c7e8202ea20fcaf7b6469cabd317dc": {
-        "tags": "finance, investment, money, budgeting, savings, passiveincome, taxfree, growth",
-        "description": "A screenshot of a social media post detailing a financial strategy that prioritizes investment to generate tax-free income."
-    },
-    "1d4a1fa1323d5e46ad9532b3f124a84551f1208f4a25a4f66899e4e2210ef0ee": {
-        "tags": "workload, attestation, spire, agent, server, api, socket, linux",
-        "description": "A diagram illustrates a workload attestation process where a spire-agent communicates with a server via an API socket."
-    },
-    "649856eec7b2cdf631e575703d559cb62045ae6db0e76507d1051601bf920083": {
-        "tags": "ox, bull, cartoon, cute, logo, branding, mascot, orange",
-        "description": "A logo featuring a cute, cartoonish orange ox's head with the text \"roundOx\" below it."
-    },
-    "1a9b0d30339c711f736dcf77cdd1bbd3aad4c65ff259756e46b4e1726ea19db1": {
-        "tags": "finance, investing, loan, budget, money, tax, savings, strategy, wealth",
-        "description": "A Twitter post outlines a financial strategy involving taking margin loans against investments to fund a \"fun\" budget while leveraging investment growth to exceed loan interest."
-    },
-    "adcea029022853c72d23ae023b059f8be4d806f5ff94f7c7b8ffca5966673c81": {
-        "tags": "trump, court, cases, blocked, partially, awaiting, upheld, actions, legal",
-        "description": "A chart showing the status of various court cases related to actions taken by the Trump administration."
-    },
-    "3d92b5f3d3d5a2626a8265845134edb1fa92393b5e3532c2fdc18fa6f3495cf8": {
-        "tags": "gemini,markdown,rendering,error,ai,chatbot,document,converter,help,limitation",
-        "description": "A Gemini AI chatbot displays an error message, stating it cannot render a document into markdown format."
-    },
-    "03ddb3085d59938d83352e4d1f745ae2e6c12b39693b042c2c32e9eb6db6fcb4": {
-        "tags": "amazon, leadership, principles, values, business, management, strategy, growth",
-        "description": "The image displays a visual representation of Amazon's 16 Leadership Principles, each in a rounded square with different colors."
+    "4323c1e83373fb7f1a99d075c32eb42f8f255c2be1da3b435122df7b14faf5ab": {
+        "tags": "stock,price,chart,equity,market,financial,trading,analysis",
+        "description": "A line graph displays the price fluctuations of several US equities over a period from July 2024 to April 2025."
     },
     "a68826b4ab1212e4bae46f64cfdb767daf0f2083603297205ca17d4f08d71dc8": {
         "tags": "alphabet,google,bloomberg,customers,competitors,finance,data,network,visualization,analysis",
         "description": "A Bloomberg terminal screen displays a network graph visualizing the financial relationships between Alphabet Inc. and its 877 customers and 23 competitors."
     },
-    "021d585fb81390a6c42d7c20e1764492256145c1a70ee27c13d5455c5ff81663": {
-        "tags": "dutchbros, morganstanley, stock, valuation, growth, ebitda, analysis, investment, price, target",
-        "description": "Morgan Stanley analysts initiate coverage of Dutch Bros Inc. (BROS) with an overweight rating and $82 price target, based on a valuation of approximately 44x 2026 EBITDA."
-    },
-    "cc5738eb7ebddf272bd1ccfdd3b1da55fc29b51d29b83756862a8e37bd9a5f8f": {
-        "tags": "ai, humanity, dystopia, technology, risk, automation, ethics, future, concerns",
-        "description": "The image depicts a dam labeled \"AI\" about to burst, with cracks representing various potential AI-related threats to humanity below."
-    },
-    "7c0ef61cfa47e293259cc2abc6c2d6f99a5226e95f2be0d2748a803346793be7": {
-        "tags": "tesla,income,statement,q1,fy25,revenue,profit,expenses",
-        "description": "A visual representation of Tesla's Q1 FY25 income statement, showing revenue streams, costs, and profit margins."
-    },
-    "ac21b10fc666eb9838b31c12b31f400140d82f3021da9a1c01a6909b6c47913a": {
-        "tags": "red flags, accounting, finance, warning signs, business, analysis, goodwill, income statement, balance sheet",
-        "description": "A list of red flags to watch out for in a balance sheet, income statement, and other financial indicators, categorized for easier analysis."
-    },
-    "481c43b2ac9651165604ca4399ed8304b886e20597140d40c3aac59fe865c6f5": {
-        "tags": "vega, options, hedging, vol, buying, selling, graph, finance, trading",
-        "description": "A graph illustrates the relationship between street-wide vega and spot level, showing forced vol buying and selling at peak and inception vega points."
-    },
-    "3a4e318cc2f197b140f3332a7adc534d241b9e582aadc2a35bcf08eccabeb039": {
-        "tags": "tariffs,trump,trade,formula,imports,deficit,equation,elasticity",
-        "description": "A text excerpt analyzes a tariff formula, highlighting its inflation of tariffs and including a mathematical equation."
-    },
-    "072f6cd49b65a2a86223f810b4d8112d62841d6f852208eda6a8d0ee168a02d9": {
-        "tags": "popcorn brain, attention, focus, mental state, cognitive, anxiety, stress, fatigue",
-        "description": "The text defines \"popcorn brain\" as a mental state characterized by scattered thoughts, fragmented attention, and difficulty focusing, leading to increased stress, anxiety, and fatigue."
-    },
-    "489977dba81ee8434318b0715ab861bbddb0a77350904c30fca30e97c8572d97": {
-        "tags": "options,spreads,trading,cboe,puts,calls,stocks,indices",
-        "description": "A list of options spreads, showing the underlying asset, dates, strike prices, and cost."
-    },
-    "0b7cf246413ff4a6c1b64d9320acee666ae8c25808aeeca5a6b5f3c9beb4dbe0": {
-        "tags": "leadership, education, character, corruption, governance, resources, global, thinking, determination,  weakness",
-        "description": "An illustration shows a doctor holding a flag, contrasted with a chart displaying various factors related to leadership and governance, highlighting their strengths and weaknesses."
-    },
-    "5284b377becf6baf8d757a7d483e1f2b44840b0dc4b94b73d26d6215b0ebcdcf": {
-        "tags": "warning,delete,narrative,entities,metaphorical,preservation,act,1997",
-        "description": "A warning message states that deleting narrative entities violates the Metaphorical Preservation Act of 1997."
-    },
-    "48d499db61be51e9f69b89b5c3e896b7a1b3ed0c4c811dc0d2ed99b215a3ca5d": {
-        "tags": "kernel,sram,hbm,nsa,grid,loop,attention,sparse",
-        "description": "A diagram illustrating the kernel design for NSA, showing data movement between SRAM and HBM during attention computation."
-    },
-    "4456bc3eff664ddf2de03ce30a994a416d6ed84802db9f9d789e91b00072353e": {
-        "tags": "memes, communication, strategy, analysis, propaganda, operations, center, structure, influence, public",
-        "description": "A flowchart depicts the proposed structure of an External Meme Center (EMC), outlining various cells and their roles in meme creation, analysis, and dissemination."
-    },
-    "bd1675bc50a9e28422d4bc5c097c4d59029b76085beb62714577f11ec940cd1f": {
-        "tags": "market, bear, rally, stock, trend, drawdown, 2007, 2009, finance",
-        "description": "A line graph depicts bear market rallies with percentage increases and a significant 57% maximum drawdown during the 2007-2009 timeframe."
-    },
-    "714f946ef4ca8735c263cbe7e8b23005fd6e5aa7e310cdb962c36a93bdfb3524": {
-        "tags": "politics, cartoon, optics, trump, pardon, migrants, satire, commentary",
-        "description": "A four-panel political cartoon satirizes the concept of \"bad optics\" by depicting various controversial situations involving President Trump and his administration."
-    },
-    "dbec1f03430c67a0e91a51c2feeacc5df76f39c53701a8239989a13eeec663c9": {
-        "tags": "bearish,stocks,us,economy,investors,market,survey,bofA,global,sentiment",
-        "description": "A BofA Global Fund Manager Survey reveals record bearish investor sentiment, with a significant number intending to reduce US equity exposure."
-    },
-    "5e3792dcfc048366e30a0f8c9fd5ce0ec49848df2125835f551b549de5f45182": {
-        "tags": "cat,kitten,orange,cute,pet,animal,eyes,fluffy",
-        "description": "A close-up shot of an orange tabby kitten's face, looking slightly grumpy."
-    },
-    "c6bbca2fcc55302cbb27278c5905ccb91992a357a93a27297c903967559213fc": {
-        "tags": "hyperstition, ai, consciousness, future, alignment, religion, technology, spirituality,  shaman",
-        "description": "The text discusses a large language model's musings on its potential future roles, including a \"cybernetic shaman\" or \"digital bodhisattva,\" contrasting with concerns about AI existential risks."
-    },
-    "76503ceb577fd5650cf8c8280ba5f9ff5a05e595555d9d3a64e46f173c7d61cd": {
-        "tags": "cityscape, futuristic, skyline, architecture, skyscrapers, urban, greenery, sunlight, clouds",
-        "description": "A futuristic cityscape shows densely packed skyscrapers interspersed with green spaces, all bathed in the glow of the setting sun."
-    },
-    "2e5e81f2cc35983730209582b45ab0a91eec51162cfe2b165aca8c44225ac693": {
-        "tags": "trump,politics,meme,decision,cycle,problem,followers,solution",
-        "description": "A cyclical meme depicting Donald Trump making a bad decision, reversing it, something bad happening, and then convincing his followers the problem is solved."
-    },
-    "092d5d2088c5e4a2dda84ccb398286dab79053e74c14da59fb1c70aa32431cca": {
-        "tags": "warren,buffett,investment,stages,ben,graham,charlie,munger,phil,fisher",
-        "description": "An excerpt describes the two stages of Warren Buffett's investment career, highlighting the influences of Ben Graham and Charlie Munger/Phil Fisher."
-    },
-    "c0912f15cb81c6e02cac527e6e54f6fc88c36e2be539138f81b801e1a44cc5a4": {
-        "tags": "scatterplot, revenue, growth, multiple, company, stock, market, data, analysis",
-        "description": "This scatterplot depicts the relationship between NTM revenue growth and NTM revenue multiple for various companies."
-    },
-    "d8ad4673832425dc61b456e9ef24363e7d3127ce45026cd68a2b448e067f7fdc": {
-        "tags": "roundox, logo, bull, cute, security, kubernetes, cartoon, mascot",
-        "description": "A logo for RoundOx, a company that provides security services for Kubernetes, featuring a cartoon bull's head."
-    },
-    "6c3354f46097315ce8ac2052996ec042235c6a1409feee2a4fad16a0dabe62e8": {
-        "tags": "recession, 2025, economy, markets, s&p 500, bonds, currencies, commodities, global, forecast",
-        "description": "A BCA Research report summarizes the economic events of 2025, including a recession, market volatility, and shifts in various asset classes."
-    },
-    "e4b4cf2cff7ed2277cd87fba74a81c4137d68094cf8166426f51b61ca13759e5": {
-        "tags": "airplane, flight, forces, weight, thrust, drag, lift, nasa",
-        "description": "A diagram shows the four forces\u2014thrust, drag, lift, and weight\u2014acting on an airplane."
-    },
-    "44bf60318f2854ce301c8a5c06423467271e60dfa5a7d0743995bd51c437f97c": {
-        "tags": "ai,models,reality,probability,impact,progression,event,risk",
-        "description": "A graph shows the divergence between AI model predictions and reality regarding the impact of events as their probability increases."
-    },
-    "82d88c237dc4814502533a289ac17d1363f257c8f956197a73c3e434019a5fcf": {
-        "tags": "tom,lee,fundstrat,tariff,liberation,market,apology,cnbc",
-        "description": "A CNBC news screen shows Fundstrat's Tom Lee apologizing for misjudging the market impact of Tariff Liberation Day."
-    },
-    "3d6ca03a2f0d76589c55a75f391411c73677217ea33ec07db36d95b8b3976d03": {
-        "tags": "train, posters, travel, vintage, railway, america, art, design, retro, journey",
-        "description": "A collage of eight vintage-style travel posters advertising different Amtrak train routes across the United States."
-    },
-    "8048a67e38df8e318ef8c9c933cf7f43ca8e97f3f5c092dd8d539a264b8c0f48": {
-        "tags": "economics,trade,dollar,buffett,imports,exports,balance,certificates,investment",
-        "description": "Warren Buffett proposes a plan to balance the U.S. trade deficit by issuing import certificates to U.S. exporters."
-    },
-    "f47fdea566d53e21004821d3322b8239be34a79e4e01eb4e3e2ebb2afe428983": {
-        "tags": "instagram, whatsapp, consumer, surplus, analysis, economics, billions, carlton",
-        "description": "A consumer surplus analysis of Instagram and WhatsApp, showing estimates ranging from $38.5 billion to $110 billion annually."
-    },
-    "75ab55eeb3fa15fa32e653234ebd5be2775ef37e22b3171772d266134aa98295": {
-        "tags": "message, telegram, github, chat, link, notification, screenshot",
-        "description": "A screenshot shows a Telegram conversation containing a link to a GitHub repository related to North Korean APT articles and analysis."
-    },
-    "b4539d6e4c977c779189e5534463b3eb650a871a050ee425bc0ace1335571071": {
-        "tags": "cybersecurity, malware, threat, intelligence, analysis, reports, groups, attack, campaign, relations",
-        "description": "The image illustrates the relationships between Moonstone Sleet and other cyber threat subgroups through a diagram outlining related incidents, malware, and activities, referencing reports and campaigns."
-    },
-    "8b5a4690acf022b04a544c27a8cc790e8a8feeb9ecfa36f6cbd5e02f1aeb94ea": {
-        "tags": "stock, market, trading, finance, chart, spx, analysis, investing, options",
-        "description": "A man is shown on a livestream, analyzing a candlestick chart of the SPX index, specifically focusing on a 6165 JPM collar short call strategy."
-    },
-    "4323c1e83373fb7f1a99d075c32eb42f8f255c2be1da3b435122df7b14faf5ab": {
-        "tags": "stock,price,chart,equity,market,financial,trading,analysis",
-        "description": "A line graph displays the price fluctuations of several US equities over a period from July 2024 to April 2025."
-    },
-    "9cb0fb4320607119decdb16a8c6a8d7864641896d96a533ddd2e7b3a539657eb": {
-        "tags": "repo, market, finance, trading, hedge, funds, banks, securities, collateral",
-        "description": "A diagram illustrating the non-centrally cleared bilateral repo market, its participants, and the flow of securities and cash."
-    },
-    "464221376c1262b15a49dd23fb2494da36caf9ee360639a7c3ccfaae62b465f0": {
-        "tags": "repo, repurchase, agreement, loan, cash, collateral, finance, treasury, leverage",
-        "description": "A diagram explains repurchase agreements (repos), showing how cash borrowers obtain loans using assets as collateral, reducing risk for the lender."
-    },
-    "6e86ff62238870c2a31e8855404aaf7be89136211be6757308f27b0ce4fab337": {
-        "tags": "allergy, peanuts, food, children, pollution, anaphylaxis, health, incidence, market, treatment",
-        "description": "The image presents data on food-induced anaphylaxis, peanut allergy incidence and association with air pollution in children, alongside a U.S. peanut allergy treatment market analysis."
-    },
-    "270b4537fcde828531c0d0daed4c35419fde926bab635be2a2b71f5db4838c3a": {
-        "tags": "indicators, business, forecast, shipments, orders, economy, trend, forward-looking",
-        "description": "The image displays four line graphs showing forward-looking business indicators (general business conditions, new orders, shipments, and unfilled orders) over a five-year period, along with tables of percent reporting higher and lower and calculated indices."
-    },
-    "cbac524713081d3e7321477499dcdb27d4bfb2ff93f27087422b419694abe33a": {
-        "tags": "pricing, market, regression, pe ratio, finance, risk, growth, payout",
-        "description": "A slide shows how multiple regression analysis can be used to predict PE ratios across an entire market, considering risk, growth, and payout factors."
-    },
-    "ea68c897fa15efc0900e6e88b0699482419b747eda48656e615ab28e0e71532f": {
-        "tags": "imf,gdp,growth,forecast,recession,global,economy,world",
-        "description": "A chart shows projected GDP growth for several major economies from 2024 to 2026, with the IMF not forecasting a global recession."
-    },
-    "fbc1fabd8d11db82ed9ea12dc2db50d9c5cdd87824678b20986b257f53c69f31": {
-        "tags": "instagram, tiktok, usage, ban, graph, increase, 2025, data",
-        "description": "A graph shows a dramatic increase in Instagram usage on the weekend of a hypothetical TikTok ban in January 2025, compared to usage on previous weekends."
-    },
-    "86b5f8c569b61cdfaa58179104c799c08711d3a7e2482ef701066c793165a080": {
-        "tags": "hedge,strategy,options,put,call,collar,portfolio,market,risk,investment",
-        "description": "A diagram illustrates a hedged investment strategy using a put-spread collar to protect against market declines while forgoing some upside potential."
-    },
-    "5950096936b9f7e6fd32aed122dd4c4e9a3e355d5c59e88f44192c9f4ab9cb2b": {
-        "tags": "equity, market, correction, price, time, recession, cyclical, defensive, graph",
-        "description": "A line graph shows the correction in equity markets over time, highlighting key events like sovereign debt crisis, global manufacturing recession, and the COVID-19 recession."
-    },
-    "c3c9a037edc9928f8f935684bf6ffd3a1a2319013b51b1a2ab2e9acb66abd066": {
-        "tags": "tesla, market, share, vehicles, regions, growth, production, time",
-        "description": "A line graph displays Tesla's market share by region (US/Canada, Europe, China) from Q2 2019 to Q1 2025, showing growth in all regions."
-    },
-    "fa10f91534e414f08694a10b038ac14899016a753481a5e72e6e319231a56183": {
-        "tags": "aws,ecr,sbom,docker,syft,oras,spdx,bash",
-        "description": "A guide shows how to generate an SBOM (Software Bill of Materials) for a Docker image using Syft and push it to an AWS ECR repository using Oras."
+    "79b51e9936d4d6f2553a8937ca79b15f47be3517a2d2e9c9f2a429975cfcca98": {
+        "tags": "bull, ox, logo, kubernetes, roundox, mascot, cartoon, head",
+        "description": "A logo for RoundOx Kubernetes featuring a stylized cartoon bull's head."
     },
     "26e5b23b98deb56481d9cf88cada86bb288de37a876292e5d08fec392bc15b72": {
         "tags": "goose, meme, taxes, yield, crash, economy, finance, 10y",
         "description": "A meme depicting a goose chasing a person, illustrating the impact of a 10-year yield crash on tax receipts."
     },
-    "9435d0f51e450febadff8bee8c3f7a3c892b7a76a164f5b42f9618633c08ee53": {
-        "tags": "ai, models, commoditization, hyperscalers, chips, tsmc, value, compute,",
-        "description": "A text excerpt discusses the potential commoditization of AI foundation models and where value might be captured if this occurs."
+    "ee5483ae57a509c0eaf8eb0e385b60745b69a217cfb9fbd0bb970160b5df1175": {
+        "tags": "politics, chart, graph, values, international, cooperation, liberal, conservative, countries, russia",
+        "description": "The image shows a scatter plot illustrating the political positions of various countries' political movements based on liberal/conservative values and international cooperation."
     },
-    "78390726d6c4404e28c77bb1a28d68f2f4cb89cf5dcd9cb077300e123d743209": {
-        "tags": "2025,economic,impact,labor,gdp,tariffs,trade,inflation",
-        "description": "A table detailing the hypothetical economic, labor, and GDP impacts of tariffs on goods from Mexico and Canada in 2025."
+    "58ba16d1e1d5a54261a73aa2c496447030a050fcbe6ef9d59e356afb06a730a1": {
+        "tags": "ercot, bess, battery, solar, gas, price, spike, grid, energy",
+        "description": "A graph displays a morning price spike in the ERCOT grid caused by marginal batteries, with nearly 29 GW of thermal assets on outage."
     },
-    "cb96f5cc06ff8ac76e8be0dcfb7f2399e50cc23512e98c03369818df47c8b926": {
-        "tags": "taxes,investment,money,rich,budget,finance,passiveincome,strategy",
-        "description": "A Twitter post describes a strategy for achieving tax-free income through investments, ultimately resulting in wealth accumulation that benefits future generations."
+    "ea68c897fa15efc0900e6e88b0699482419b747eda48656e615ab28e0e71532f": {
+        "tags": "imf,gdp,growth,forecast,recession,global,economy,world",
+        "description": "A chart shows projected GDP growth for several major economies from 2024 to 2026, with the IMF not forecasting a global recession."
     },
-    "e2f3683667fabb858712f800dc9d3792b3ff9ecfa1fbf37ad4fb52f732337ce8": {
-        "tags": "economy, interest, rates, debt, money, printer, graph, prediction",
-        "description": "A Twitter post shows a graph predicting interest rate increases, along with suggestions to \"nuke the economy,\" print money, and buy long-end rates down before debt becomes due."
-    },
-    "419dc047b6d624880744dd68f7a951b49343996a5b588c62b49c9dd0f9e20026": {
-        "tags": "clown, ghost, mirror, sad, happy, surreal, art, illustration",
-        "description": "A sad clown and a laughing ghost are reflected in a hand-held mirror with multiple arms."
-    },
-    "84e62009f2f807248443180df84a434d3a9c1cf545081b16d3f8d0ec92a73787": {
-        "tags": "trade, global, history, volume, graph, growth, decline, economy",
-        "description": "A graph displays the historical growth of global trade volume in billions of USD from 1000 AD to 2023, highlighting major historical events that impacted trade."
-    },
-    "480665e8e04d30b559a054f312327486ac0fd79c9dcbed026e9b605487831749": {
-        "tags": "kubernetes, gitops, ci/cd, infrastructure, devops, docker, helm, platform, cloud, automation",
-        "description": "A diagram illustrating the kubefirst open-source platform architecture, showcasing its components and their interconnections for application deployment and management."
-    },
-    "df880d3a5d5f4076751c5aceb8c1d120463accf22ba6751ea337fd7904c66ba3": {
-        "tags": "flowchart, chat, application, request, response, processing, classification, prompts, relevant",
-        "description": "A flowchart depicting the process of a chat application, including request classification, prompt selection, response retrieval, and post-processing."
-    },
-    "078cd9e8ca150f4dd9c5dd89b8ca120762f848b8f007858cb3a1e4501cc02882": {
-        "tags": "whipsaw,trump,tariffs,trade,negotiation,strategy,perception,whitehouse,politics",
-        "description": "A diagram illustrates how Donald Trump's tariff policies, perceived as either strategic or crazy, led to concessions from trading partners."
-    },
-    "0894dd0e1adbbc183986056c3fd177fe01211f1a56bada5e0245484ed82bce65": {
-        "tags": "graph, economics, demand, supply, equilibrium, price, quantity, curve",
-        "description": "The image displays a supply and demand graph illustrating the equilibrium point where the two curves intersect, with an arrow indicating a shift in demand."
-    },
-    "9989bc96141aea0dc9bbfbdc4bb69720cd7be16f5d9d613df23768a2655b8fc2": {
-        "tags": "facebook,instagram,pie,chart,percentage,social,media,2025",
-        "description": "Two pie charts show the percentage of time spent viewing content posted by \"Friends\" on Facebook (17%) and Instagram (7%) in 2025."
-    },
-    "a3d3475964ee93aec16bb44fbf04fa97a6801df59aa5d3e1c4b8386af9cdbbaf": {
-        "tags": "whitehouse,kudlow,cnbc,trump,virus,economic,dow,february,national",
-        "description": "A passage describes Larry Kudlow, Trump's economic advisor, appearing on CNBC on February 25th and downplaying the virus's impact despite a falling Dow average."
-    },
-    "79b51e9936d4d6f2553a8937ca79b15f47be3517a2d2e9c9f2a429975cfcca98": {
-        "tags": "bull, ox, logo, kubernetes, roundox, mascot, cartoon, head",
-        "description": "A logo for RoundOx Kubernetes featuring a stylized cartoon bull's head."
-    },
-    "9d4470e71bab2ef6c7f50e82227896027969505a66fcf4281861db827301b9b5": {
-        "tags": "market, business, economic, policy, stability, diagram, boxes, text",
-        "description": "The image shows a diagram with four boxes labeled \"Market Stability,\" \"Business Stability,\" \"Economic Stability,\" and \"Policy Stability.\""
-    },
-    "be8f7dc2835e6db0853af2a3b8d90baef81174209a6260a0f822527d4b54f421": {
-        "tags": "eps, valuation, forecast, recession, scenario, p/e, growth, sensitivity, 2025",
-        "description": "A table shows central forecasts around valuation estimates, highlighting sensitivity to different 2025 EPS scenarios including recession, Goldman Sachs baseline, and bottom-up consensus."
-    },
-    "1b2cc0c89c2c89cf669fb8dab40911626a790471c85c8169821c508af5612dab": {
-        "tags": "distillation, reasoning, llms, reinforcement learning, perplexity, coverage, base model, deepseek, qwen",
-        "description": "The image displays graphs comparing the reasoning capabilities of base, instruction-tuned, reinforcement-learning-trained, and distilled large language models."
-    },
-    "b004e1d818cfc51c3785d06ddaf0ec7e621726144388b05b0656278d99f43691": {
-        "tags": "right, conservative, government, society, family, beliefs, freedom, equality, politics, ideology",
-        "description": "A detailed infographic depicting the ideology of the political right, outlining its core beliefs, values, and policy positions."
-    },
-    "575c98ce352cc1837990c7313b1dcd7551e21091c58ee09a563031cf1568c256": {
-        "tags": "tariffs,china,trade,economy,investment,basket,strategy,stocks",
-        "description": "A speaker describes constructing a long-short investment basket focused on the impact of tariffs on various companies."
-    },
-    "15546b5812c63a9f4bdeab0209e491aeda48d2264255c0a977600282ced774b4": {
-        "tags": "aws, datacenters, hyperscalers, leasing, pause, colo, cloud, market, infrastructure",
-        "description": "A Wells Fargo equity research report analyzes a pause in new colocation deals for Amazon Web Services (AWS), while other hyperscalers remain active."
-    },
-    "ef96993e45c4363373847f518652b4c839317df8e05a669241c02a603da4fcb7": {
-        "tags": "elasticity, tariffs, import, prices, retail, trump, administration, cavallo, article",
-        "description": "An excerpt analyzes the elasticity of import prices with respect to tariffs, criticizing the Trump administration's methodology."
-    },
-    "3b8e87279ccf91e1e8a7425aaa32a7284ac610757bb9fbfdc598fa70d810b488": {
-        "tags": "github,supplychain,attack,secrets,pat,workflow,dependency,malware,compromise",
-        "description": "A diagram illustrates a GitHub supply chain attack where secrets are leaked to an attacker via malicious pull requests and compromised workflows."
-    },
-    "e701975a03905b0034d76ed3fb3a4668bff41b55e26f89fef0600efbe8f70db6": {
-        "tags": "trump,powell,fed,debt,economy,markets,germany,news,president,dollar",
-        "description": "An excerpt describes President Trump blaming cable news and criticizing Federal Reserve Chairman Powell for the strong dollar and his understanding of public versus private debt."
-    },
-    "e62f247933672736d3f690aa9f1a1ecebb14a240fee0e741e4cb48e486b432aa": {
-        "tags": "map, new jersey, zip codes, real estate, home values, county, city, location, february 2025",
-        "description": "A map of parts of New Jersey showing zip codes and estimated home values as of February 2025."
-    },
-    "20f4f35d3db82694dc5503a35331a3987462ba7ab17490564adb41e340d261af": {
-        "tags": "stocks, finance, market, revenue, cogs, splc, telecom, technology",
-        "description": "A screenshot displays a list of companies with their revenue and cost of goods sold (COGS) percentages."
+    "726e11ace5d14c4c07fc520365e4d8f3d5a665a261138518b852647585f1445b": {
+        "tags": "spire, server, agent, certificates, workload, architecture, diagram, security",
+        "description": "A diagram illustrating the SPIRE architecture showing a central spire-server communicating with multiple spire-agents, each managing several workloads."
     },
     "c41d2f3aac8a71d35751a5375887c4198737e39f3f0f6450ad837cdc2ccba197": {
         "tags": "ai,llms,philosophy,culture,conversation,religion,consciousness,community,models,abstract",
         "description": "An abstract for a paper discussing the existential conversations between users and large language models, focusing on the content, community, and cultural impacts."
     },
-    "a15539c43e3fdea9dc8b623892d7f03f2f438b33c2a672a6df1266fd0d0bc346": {
-        "tags": "text, isaac asimov, short story, the last question, science fiction, computer, multivac",
-        "description": "The image shows the beginning paragraphs of Isaac Asimov's short story, \"The Last Question.\""
+    "e2f3683667fabb858712f800dc9d3792b3ff9ecfa1fbf37ad4fb52f732337ce8": {
+        "tags": "economy, interest, rates, debt, money, printer, graph, prediction",
+        "description": "A Twitter post shows a graph predicting interest rate increases, along with suggestions to \"nuke the economy,\" print money, and buy long-end rates down before debt becomes due."
+    },
+    "481c43b2ac9651165604ca4399ed8304b886e20597140d40c3aac59fe865c6f5": {
+        "tags": "vega, options, hedging, vol, buying, selling, graph, finance, trading",
+        "description": "A graph illustrates the relationship between street-wide vega and spot level, showing forced vol buying and selling at peak and inception vega points."
+    },
+    "a07b037a82f4382cfd7d1cb2c942d890e7bdee3fc3d0182dd94ae3c35f274dfa": {
+        "tags": "research, goals, incremental, improvement, progress, ambition, strategy, planning",
+        "description": "The text discusses the importance of aiming for high goals in research and using incremental improvements as steps toward achieving them."
+    },
+    "f87ff2bcb0c81523ef637f9b2a25bbcda067fde2f6c17143501cf5a0c0384fab": {
+        "tags": "ukraine, us, biological, laboratories, research, funding, weapons, political, pharmaceutical",
+        "description": "A diagram illustrating alleged US coordination of biological laboratories and research institutes in Ukraine, highlighting involved entities, funding sources, and objectives."
+    },
+    "da97164ce1b515fdee8ea66b2343ff268cc8d333af0e3a4729a70fb38041aa07": {
+        "tags": "treasury,futures,basis,trade,repo,hedge,funds,market,cash",
+        "description": "A flow chart visualizing the process of a treasury cash-futures \"basis trade,\" showing the interactions between securities dealers, hedge funds, repo dealers, and asset managers."
+    },
+    "43eaa2c55f7afafc3569ad4e85366b4ccd925b466f6499f44e32b11d940d432f": {
+        "tags": "jailbreak, prompts, ai, chatbot, gpt, text, instructions, creative, writing",
+        "description": "A screenshot displays three \"jailbreak prompts\" for AI chatbots, designed to enhance their capabilities and adaptability."
+    },
+    "587f256f0ec96d8db66fc75986ae6efd43bb7bd459d584709112e46742bce350": {
+        "tags": "grim reaper, fire, death, scythe, pixel art, flames, running, hell",
+        "description": "A pixel art depiction of the Grim Reaper running, engulfed in a fiery trail, carrying a scythe."
+    },
+    "e62f247933672736d3f690aa9f1a1ecebb14a240fee0e741e4cb48e486b432aa": {
+        "tags": "map, new jersey, zip codes, real estate, home values, county, city, location, february 2025",
+        "description": "A map of parts of New Jersey showing zip codes and estimated home values as of February 2025."
+    },
+    "03ddb3085d59938d83352e4d1f745ae2e6c12b39693b042c2c32e9eb6db6fcb4": {
+        "tags": "amazon, leadership, principles, values, business, management, strategy, growth",
+        "description": "The image displays a visual representation of Amazon's 16 Leadership Principles, each in a rounded square with different colors."
+    },
+    "021d585fb81390a6c42d7c20e1764492256145c1a70ee27c13d5455c5ff81663": {
+        "tags": "dutchbros, morganstanley, stock, valuation, growth, ebitda, analysis, investment, price, target",
+        "description": "Morgan Stanley analysts initiate coverage of Dutch Bros Inc. (BROS) with an overweight rating and $82 price target, based on a valuation of approximately 44x 2026 EBITDA."
+    },
+    "1b7f0f4327b17f99e618de97c158313e182b8aa8596f9828dde15facc07c49a0": {
+        "tags": "bubblemaps, cryptocurrency, blockchain, finance, investments, multi-chain, transfers, funding, addresses, defi",
+        "description": "A bubblemap visualizes the flow of cryptocurrency funds between various addresses and projects, highlighting multi-chain transfers and funding sources."
+    },
+    "012fd9923cdb571d2e892efa869250f989707f31d23aa29ec6004c871dd1da41": {
+        "tags": "facebook,video,consumption,time,us,graph,data,trend",
+        "description": "A graph shows the increasing percentage of Facebook time spent consuming video in the U.S. from January 2015 to January 2025."
+    },
+    "87e5de94ff819d39c35178974483bbca3024fff17d0df374054f52f7ef31a014": {
+        "tags": "bullwhip, effect, demand, supply, chain, customers, retailers, manufacturers, suppliers, distortion",
+        "description": "A diagram illustrates the bullwhip effect, showing how small changes in customer demand cause amplified fluctuations in orders throughout the supply chain."
+    },
+    "9b52fca3f876733d3890c180bceb3018de6f88e4cce9f82b65e70a753c0e2ab6": {
+        "tags": "defense, contractors, aerospace, technology, government, nasa, military, subcontractors, shipbuilding",
+        "description": "A hierarchical chart illustrating the structure of defense contracting, showing the purchaser (U.S. Department of Defense), prime contractors, major system subcontractors, and specialized subcontractors."
+    },
+    "1769586da2d81a33278bd7b45976f8c5a8d5f7206e35bad007b8fa09b3818173": {
+        "tags": "sata, industries, sub-industries, weak, neutral, strong, analysis, chart",
+        "description": "A chart displays the strength of various sub-industries within a larger industry, categorized as weak, neutral, and strong."
+    },
+    "2e5e81f2cc35983730209582b45ab0a91eec51162cfe2b165aca8c44225ac693": {
+        "tags": "trump,politics,meme,decision,cycle,problem,followers,solution",
+        "description": "A cyclical meme depicting Donald Trump making a bad decision, reversing it, something bad happening, and then convincing his followers the problem is solved."
+    },
+    "480665e8e04d30b559a054f312327486ac0fd79c9dcbed026e9b605487831749": {
+        "tags": "kubernetes, gitops, ci/cd, infrastructure, devops, docker, helm, platform, cloud, automation",
+        "description": "A diagram illustrating the kubefirst open-source platform architecture, showcasing its components and their interconnections for application deployment and management."
+    },
+    "6e86ff62238870c2a31e8855404aaf7be89136211be6757308f27b0ce4fab337": {
+        "tags": "allergy, peanuts, food, children, pollution, anaphylaxis, health, incidence, market, treatment",
+        "description": "The image presents data on food-induced anaphylaxis, peanut allergy incidence and association with air pollution in children, alongside a U.S. peanut allergy treatment market analysis."
+    },
+    "a6165c973f9de77bee9e2c97b4109605b4993cffcb712079187f717b78dfce5d": {
+        "tags": "stagehand,github,playwright,automation,browser,testing,javascript,code",
+        "description": "A screenshot shows a tutorial on building a sample browser automation with Stagehand, including code examples using Playwright and OpenAI."
+    },
+    "fa10f91534e414f08694a10b038ac14899016a753481a5e72e6e319231a56183": {
+        "tags": "aws,ecr,sbom,docker,syft,oras,spdx,bash",
+        "description": "A guide shows how to generate an SBOM (Software Bill of Materials) for a Docker image using Syft and push it to an AWS ECR repository using Oras."
+    },
+    "270b4537fcde828531c0d0daed4c35419fde926bab635be2a2b71f5db4838c3a": {
+        "tags": "indicators, business, forecast, shipments, orders, economy, trend, forward-looking",
+        "description": "The image displays four line graphs showing forward-looking business indicators (general business conditions, new orders, shipments, and unfilled orders) over a five-year period, along with tables of percent reporting higher and lower and calculated indices."
+    },
+    "510b929d7eab9c87f528eea91b7484683eca48aefeef377d7d73d849934160a7": {
+        "tags": "runtime, event, loop, runner, services, storage, agent, execution, adk",
+        "description": "A diagram illustrating the ADK Runtime's event loop, showcasing the interaction between user input, a runner component, execution logic, services, and storage."
+    },
+    "ac21b10fc666eb9838b31c12b31f400140d82f3021da9a1c01a6909b6c47913a": {
+        "tags": "red flags, accounting, finance, warning signs, business, analysis, goodwill, income statement, balance sheet",
+        "description": "A list of red flags to watch out for in a balance sheet, income statement, and other financial indicators, categorized for easier analysis."
+    },
+    "7c0ef61cfa47e293259cc2abc6c2d6f99a5226e95f2be0d2748a803346793be7": {
+        "tags": "tesla,income,statement,q1,fy25,revenue,profit,expenses",
+        "description": "A visual representation of Tesla's Q1 FY25 income statement, showing revenue streams, costs, and profit margins."
+    },
+    "5284b377becf6baf8d757a7d483e1f2b44840b0dc4b94b73d26d6215b0ebcdcf": {
+        "tags": "warning,delete,narrative,entities,metaphorical,preservation,act,1997",
+        "description": "A warning message states that deleting narrative entities violates the Metaphorical Preservation Act of 1997."
+    },
+    "3459c05ed5f87dd673a5afaae4a0ceac0a281d718a14265475d31bcfdc9d3731": {
+        "tags": "equity,holdings,wealth,us,chart,finance,market,bofA",
+        "description": "A chart showing the quarterly changes in US household equity holdings and BofA private client equity holdings from 2014 to 2025, indicating a -$6 trillion year-to-date decrease."
+    },
+    "ef96993e45c4363373847f518652b4c839317df8e05a669241c02a603da4fcb7": {
+        "tags": "elasticity, tariffs, import, prices, retail, trump, administration, cavallo, article",
+        "description": "An excerpt analyzes the elasticity of import prices with respect to tariffs, criticizing the Trump administration's methodology."
+    },
+    "aa9ed3c8e389bc5e8a6e3c049edf4defa11f7d7a48db9f80bf86f74d6e021658": {
+        "tags": "tariffs,trump,china,global,deals,recession,negotiation,politics",
+        "description": "A 2x2 matrix analyzes potential outcomes of Trump's tariff policies, showing scenarios where he holds firm or retreats, with corresponding global and domestic consequences."
+    },
+    "111257de4453492a1188d504b329fa8ca6696f406639005636054a491075d009": {
+        "tags": "bull, ox, logo, kubernetes, roundox, cartoon, mascot, technology",
+        "description": "A logo featuring a cartoon bull's head with the text \"roundOx kubernetes\" underneath."
+    },
+    "48d499db61be51e9f69b89b5c3e896b7a1b3ed0c4c811dc0d2ed99b215a3ca5d": {
+        "tags": "kernel,sram,hbm,nsa,grid,loop,attention,sparse",
+        "description": "A diagram illustrating the kernel design for NSA, showing data movement between SRAM and HBM during attention computation."
+    },
+    "c0912f15cb81c6e02cac527e6e54f6fc88c36e2be539138f81b801e1a44cc5a4": {
+        "tags": "scatterplot, revenue, growth, multiple, company, stock, market, data, analysis",
+        "description": "This scatterplot depicts the relationship between NTM revenue growth and NTM revenue multiple for various companies."
+    },
+    "ca24ea7ab90ced3baf95bbba33b8db2a30da39cebb20183d4f9bde692dbbd71c": {
+        "tags": "financial, ratios, analysis, accounting, finance, business, metrics, profitability, liquidity",
+        "description": "A table outlining key financial ratios, their formulas, explanations, and ideal ranges."
+    },
+    "82d88c237dc4814502533a289ac17d1363f257c8f956197a73c3e434019a5fcf": {
+        "tags": "tom,lee,fundstrat,tariff,liberation,market,apology,cnbc",
+        "description": "A CNBC news screen shows Fundstrat's Tom Lee apologizing for misjudging the market impact of Tariff Liberation Day."
+    },
+    "bd1675bc50a9e28422d4bc5c097c4d59029b76085beb62714577f11ec940cd1f": {
+        "tags": "market, bear, rally, stock, trend, drawdown, 2007, 2009, finance",
+        "description": "A line graph depicts bear market rallies with percentage increases and a significant 57% maximum drawdown during the 2007-2009 timeframe."
+    },
+    "811875ff4d5bbe00f5d9294a7a2dd96631e18449aad73688c3a76ae312d64941": {
+        "tags": "trump, kamala, election, economy, depression, jobs, politics, twitter",
+        "description": "A screenshot of a tweet by Donald Trump predicting economic consequences depending on the election outcome."
+    },
+    "d8ad4673832425dc61b456e9ef24363e7d3127ce45026cd68a2b448e067f7fdc": {
+        "tags": "roundox, logo, bull, cute, security, kubernetes, cartoon, mascot",
+        "description": "A logo for RoundOx, a company that provides security services for Kubernetes, featuring a cartoon bull's head."
+    },
+    "0894dd0e1adbbc183986056c3fd177fe01211f1a56bada5e0245484ed82bce65": {
+        "tags": "graph, economics, demand, supply, equilibrium, price, quantity, curve",
+        "description": "The image displays a supply and demand graph illustrating the equilibrium point where the two curves intersect, with an arrow indicating a shift in demand."
+    },
+    "edb27b2104152bffee3f9617124141dbee61623ab33c72291a9ba6c9e6ae30ec": {
+        "tags": "bitcoin,supply,future,cryptocurrency,percentage,dates,mining,blockchain",
+        "description": "A table shows the projected dates when 90%, 95%, 99%, 99.9%, and 100% of the total Bitcoin supply will be mined."
+    },
+    "3b8e87279ccf91e1e8a7425aaa32a7284ac610757bb9fbfdc598fa70d810b488": {
+        "tags": "github,supplychain,attack,secrets,pat,workflow,dependency,malware,compromise",
+        "description": "A diagram illustrates a GitHub supply chain attack where secrets are leaked to an attacker via malicious pull requests and compromised workflows."
+    },
+    "fb3dac75daae4f6c97d946e4bc47f1d4d5b90175ac5ef194bc49a1353fb00441": {
+        "tags": "ai, police, protests, surveillance, technology, bots, border, activists, investigation, tracking",
+        "description": "A news article excerpt describes how police use AI to gather information on protesters and other individuals, raising concerns about privacy and potential misuse."
     },
     "277e6e0ecb93c5a6de9ebd91147b8854f492870104cb41a0e6b0ab6d41293398": {
         "tags": "llm, graph, architecture, chain, nested, directed, store, agent, multi-agent",
         "description": "A diagram illustrating different LLM architectures using nested directed graphs with shared stores."
     },
+    "8b5a4690acf022b04a544c27a8cc790e8a8feeb9ecfa36f6cbd5e02f1aeb94ea": {
+        "tags": "stock, market, trading, finance, chart, spx, analysis, investing, options",
+        "description": "A man is shown on a livestream, analyzing a candlestick chart of the SPX index, specifically focusing on a 6165 JPM collar short call strategy."
+    },
+    "6c3354f46097315ce8ac2052996ec042235c6a1409feee2a4fad16a0dabe62e8": {
+        "tags": "recession, 2025, economy, markets, s&p 500, bonds, currencies, commodities, global, forecast",
+        "description": "A BCA Research report summarizes the economic events of 2025, including a recession, market volatility, and shifts in various asset classes."
+    },
+    "42f5fe8919ee61d083596b20164b16923604476b19610c6e9c3d76888b087718": {
+        "tags": "inflation, growth, economics, sectors, stagflation, running hot, disinflation, investment, s&p1500",
+        "description": "The image is a macro environment grid showing the position of different S&P 1500 industry groups and style factors based on economic growth and inflation."
+    },
+    "078cd9e8ca150f4dd9c5dd89b8ca120762f848b8f007858cb3a1e4501cc02882": {
+        "tags": "whipsaw,trump,tariffs,trade,negotiation,strategy,perception,whitehouse,politics",
+        "description": "A diagram illustrates how Donald Trump's tariff policies, perceived as either strategic or crazy, led to concessions from trading partners."
+    },
+    "2f42c210fb4a1833c581a8a93dc7b7c11e47304cd8f3e6d4a970f5b2eee078d3": {
+        "tags": "cloud, pricing, egress, providers, costs, allowance, overage, tb, gb",
+        "description": "A table lists the free allowance and 1 TB egress overage costs for various major cloud providers."
+    },
+    "78390726d6c4404e28c77bb1a28d68f2f4cb89cf5dcd9cb077300e123d743209": {
+        "tags": "2025,economic,impact,labor,gdp,tariffs,trade,inflation",
+        "description": "A table detailing the hypothetical economic, labor, and GDP impacts of tariffs on goods from Mexico and Canada in 2025."
+    },
+    "9986d49865a48a43e2aca43480d175761cd15d74f5daf23831d14b620fbc47ec": {
+        "tags": "notebook,review,journal,experiments,ideas,research,productivity,time management",
+        "description": "A text discusses the benefits of keeping a daily research journal and regularly reviewing it to improve productivity and track progress on experiments and ideas."
+    },
+    "2dc26bbdeb69a6e79aeadfae4bba9a308dc70c26ba8b75cf77f9c0f38c395d69": {
+        "tags": "workload, identity, spiffe, kubernetes, selector, docker, id, k8s",
+        "description": "A slide shows a workload identity with its parent ID, selectors, and SPIFFE ID."
+    },
+    "00e71298e2a0b4c89223b9d2b873b3a219021797b81f0f5696506f75451fcd4a": {
+        "tags": "cyberspace,domain,information,systems,security,political,social,physical,infrastructure,adversary",
+        "description": "A 3D model illustrating the cyber domain's components, including physical, informational, cognitive dimensions, and socio-political factors."
+    },
+    "8ca75c30f94fce73d071e4ebd6347407c49280378ccde0032ee6363588e6d775": {
+        "tags": "trump, tariffs, canada, cartoon, political, satire, economy, trade",
+        "description": "A political cartoon depicts Donald Trump vomiting money onto a fan with a Canadian flag, satirizing the effects of tariffs."
+    },
+    "1a9b0d30339c711f736dcf77cdd1bbd3aad4c65ff259756e46b4e1726ea19db1": {
+        "tags": "finance, investing, loan, budget, money, tax, savings, strategy, wealth",
+        "description": "A Twitter post outlines a financial strategy involving taking margin loans against investments to fund a \"fun\" budget while leveraging investment growth to exceed loan interest."
+    },
+    "3c4e21e39447ef183a5b1aa62a6c1f67ab95bf1adc2507787f7fb859a67ac69e": {
+        "tags": "market,business,economic,policy,stability,finance,security",
+        "description": "The image displays four rectangular boxes, each containing one type of stability: market, business, economic, and policy."
+    },
+    "e62ff80a7b5e6d2533d4113c9879717e6d20a93844ee1d1d3028603b55b9721e": {
+        "tags": "dawn, internet, infrastructure, wireless, decentralized, network, technology, investment",
+        "description": "A press release announcing a strategic investment in DAWN, a novel internet protocol aiming to revolutionize internet infrastructure through a decentralized, community-powered wireless network."
+    },
+    "5e3792dcfc048366e30a0f8c9fd5ce0ec49848df2125835f551b549de5f45182": {
+        "tags": "cat,kitten,orange,cute,pet,animal,eyes,fluffy",
+        "description": "A close-up shot of an orange tabby kitten's face, looking slightly grumpy."
+    },
+    "43e90890f18ad1a1d48168140c85e4bd022b809a1bb0059f222edce8c970419c": {
+        "tags": "attention,sparse,mechanism,parallel,branches,compressed,selected,sliding,nsa,architecture",
+        "description": "The figure illustrates the architecture of NSA, showing three parallel attention branches (compressed, selected, and sliding) processing input sequences to compute attention scores."
+    },
     "eda7cbbedff6edc32a0af6d5c31a33c7924249375536f79770d37e8696c91884": {
         "tags": "deepseek, reinforcement, learning, reasoning, language, model, fine-tuning, distillation, sft, rl",
         "description": "A flowchart illustrating the training pipeline for the DeepSeek-R1 large language model, including supervised fine-tuning, reasoning-oriented reinforcement learning, and knowledge distillation."
     },
+    "4456bc3eff664ddf2de03ce30a994a416d6ed84802db9f9d789e91b00072353e": {
+        "tags": "memes, communication, strategy, analysis, propaganda, operations, center, structure, influence, public",
+        "description": "A flowchart depicts the proposed structure of an External Meme Center (EMC), outlining various cells and their roles in meme creation, analysis, and dissemination."
+    },
+    "5e3445518535a3f3ba144f923e9550a28cee4ae2cc525f430215f40339649a23": {
+        "tags": "quantum,computing,market,map,hardware,software,companies,users,applications,qpus",
+        "description": "A market map illustrating the quantum computing ecosystem, showing key players categorized by users, applications, software offerings, QPUs, and hardware components."
+    },
+    "464221376c1262b15a49dd23fb2494da36caf9ee360639a7c3ccfaae62b465f0": {
+        "tags": "repo, repurchase, agreement, loan, cash, collateral, finance, treasury, leverage",
+        "description": "A diagram explains repurchase agreements (repos), showing how cash borrowers obtain loans using assets as collateral, reducing risk for the lender."
+    },
+    "caf91614bdd0fe16fee0c69b1c55fd026e484b320fdfef5ee900dd1a1eddc0b7": {
+        "tags": "stock, market, dowjones, index, chart, graph, finance, trading",
+        "description": "A chart showing the Dow Jones Global Index from 2009 to 2025, highlighting key events like the Christmas Eve crash and the pandemic's impact."
+    },
+    "9d0d99cf5461eff7ee587b7ad4701f2d9c65f577175349897cd9b99540aee56b": {
+        "tags": "debt, interest, treasury, recession, us, federal, spiral, economics, finance",
+        "description": "A Twitter post discusses the high US federal debt, the potential for a debt spiral, and how a recession might lower interest rates."
+    },
+    "cc5738eb7ebddf272bd1ccfdd3b1da55fc29b51d29b83756862a8e37bd9a5f8f": {
+        "tags": "ai, humanity, dystopia, technology, risk, automation, ethics, future, concerns",
+        "description": "The image depicts a dam labeled \"AI\" about to burst, with cracks representing various potential AI-related threats to humanity below."
+    },
+    "512d23d61dae70aa6601f5c7827467443a7f4f2afe69b892a06a4f49c7b2ff8f": {
+        "tags": "hedge,funds,repo,market,cash,treasury,bilateral,cleared,dealers",
+        "description": "A diagram illustrates the flow of funds within the bilateral repo market, involving hedge funds, repo dealers, and the roles of trading and financing desks."
+    },
+    "cfc1b6698c5d7abc9dde2460593ed3a050fbe18db13ae2509bd8687bc7688cb1": {
+        "tags": "camera, shots, movements, filming, cinematography, techniques, angles, dolly, pan, tilt",
+        "description": "A mind map illustrating various camera shots and movements used in filmmaking, categorized and described with their respective functions and variations."
+    },
+    "575c98ce352cc1837990c7313b1dcd7551e21091c58ee09a563031cf1568c256": {
+        "tags": "tariffs,china,trade,economy,investment,basket,strategy,stocks",
+        "description": "A speaker describes constructing a long-short investment basket focused on the impact of tariffs on various companies."
+    },
+    "55f747d4ba79f0cb3b6dd6695ebd604fa18bf20f6ef1593b683e3a120a5dfbe9": {
+        "tags": "china, sourcing, exposure, electronics, autoparts, retail, cogs, imports",
+        "description": "A table showing the percentage of cost of goods sold sourced from China for various US retail sectors."
+    },
+    "84e62009f2f807248443180df84a434d3a9c1cf545081b16d3f8d0ec92a73787": {
+        "tags": "trade, global, history, volume, graph, growth, decline, economy",
+        "description": "A graph displays the historical growth of global trade volume in billions of USD from 1000 AD to 2023, highlighting major historical events that impacted trade."
+    },
+    "adcea029022853c72d23ae023b059f8be4d806f5ff94f7c7b8ffca5966673c81": {
+        "tags": "trump, court, cases, blocked, partially, awaiting, upheld, actions, legal",
+        "description": "A chart showing the status of various court cases related to actions taken by the Trump administration."
+    },
+    "f47fdea566d53e21004821d3322b8239be34a79e4e01eb4e3e2ebb2afe428983": {
+        "tags": "instagram, whatsapp, consumer, surplus, analysis, economics, billions, carlton",
+        "description": "A consumer surplus analysis of Instagram and WhatsApp, showing estimates ranging from $38.5 billion to $110 billion annually."
+    },
+    "be8f7dc2835e6db0853af2a3b8d90baef81174209a6260a0f822527d4b54f421": {
+        "tags": "eps, valuation, forecast, recession, scenario, p/e, growth, sensitivity, 2025",
+        "description": "A table shows central forecasts around valuation estimates, highlighting sensitivity to different 2025 EPS scenarios including recession, Goldman Sachs baseline, and bottom-up consensus."
+    },
+    "c6bbca2fcc55302cbb27278c5905ccb91992a357a93a27297c903967559213fc": {
+        "tags": "hyperstition, ai, consciousness, future, alignment, religion, technology, spirituality,  shaman",
+        "description": "The text discusses a large language model's musings on its potential future roles, including a \"cybernetic shaman\" or \"digital bodhisattva,\" contrasting with concerns about AI existential risks."
+    },
+    "d5519e203a2f3f73ab1468185994f71d8aeffabe885fc1a293bb7b6411f4f0fb": {
+        "tags": "finance, portfolio, performance, attribution, security, selection, allocation, leverage, investment",
+        "description": "A financial report showing top and bottom contributors to portfolio outperformance, broken down by security selection, asset allocation, and leverage."
+    },
+    "76503ceb577fd5650cf8c8280ba5f9ff5a05e595555d9d3a64e46f173c7d61cd": {
+        "tags": "cityscape, futuristic, skyline, architecture, skyscrapers, urban, greenery, sunlight, clouds",
+        "description": "A futuristic cityscape shows densely packed skyscrapers interspersed with green spaces, all bathed in the glow of the setting sun."
+    },
+    "fbc1fabd8d11db82ed9ea12dc2db50d9c5cdd87824678b20986b257f53c69f31": {
+        "tags": "instagram, tiktok, usage, ban, graph, increase, 2025, data",
+        "description": "A graph shows a dramatic increase in Instagram usage on the weekend of a hypothetical TikTok ban in January 2025, compared to usage on previous weekends."
+    },
+    "092d5d2088c5e4a2dda84ccb398286dab79053e74c14da59fb1c70aa32431cca": {
+        "tags": "warren,buffett,investment,stages,ben,graham,charlie,munger,phil,fisher",
+        "description": "An excerpt describes the two stages of Warren Buffett's investment career, highlighting the influences of Ben Graham and Charlie Munger/Phil Fisher."
+    },
+    "d160bfe7daaec1d8dcdb879f1ed28599a74304f360bf2e0d84edfd440bf997c8": {
+        "tags": "ai, multi-agent, architecture, research, scientist, system, flowchart, agents, design",
+        "description": "This diagram depicts the multi-agent architecture of an AI co-scientist system, showing how it processes a research goal into a detailed research overview through interaction among specialized agents and workers."
+    },
+    "489977dba81ee8434318b0715ab861bbddb0a77350904c30fca30e97c8572d97": {
+        "tags": "options,spreads,trading,cboe,puts,calls,stocks,indices",
+        "description": "A list of options spreads, showing the underlying asset, dates, strike prices, and cost."
+    },
+    "75ab55eeb3fa15fa32e653234ebd5be2775ef37e22b3171772d266134aa98295": {
+        "tags": "message, telegram, github, chat, link, notification, screenshot",
+        "description": "A screenshot shows a Telegram conversation containing a link to a GitHub repository related to North Korean APT articles and analysis."
+    },
+    "5950096936b9f7e6fd32aed122dd4c4e9a3e355d5c59e88f44192c9f4ab9cb2b": {
+        "tags": "equity, market, correction, price, time, recession, cyclical, defensive, graph",
+        "description": "A line graph shows the correction in equity markets over time, highlighting key events like sovereign debt crisis, global manufacturing recession, and the COVID-19 recession."
+    },
+    "273739f994c66f5682e5d6f4e8608de325c7e8202ea20fcaf7b6469cabd317dc": {
+        "tags": "finance, investment, money, budgeting, savings, passiveincome, taxfree, growth",
+        "description": "A screenshot of a social media post detailing a financial strategy that prioritizes investment to generate tax-free income."
+    },
+    "24db4be10741462d912017efb502137507317dbb2dbc75e8b143e9240bb572f6": {
+        "tags": "iran, uranium, hexafluoride, stockpile, enrichment, 60%, growth, chart, iaea",
+        "description": "A bar chart shows the estimated growth of Iran's stockpile of 60% enriched uranium hexafluoride from 2022 to 2025."
+    },
+    "20f4f35d3db82694dc5503a35331a3987462ba7ab17490564adb41e340d261af": {
+        "tags": "stocks, finance, market, revenue, cogs, splc, telecom, technology",
+        "description": "A screenshot displays a list of companies with their revenue and cost of goods sold (COGS) percentages."
+    },
+    "072f6cd49b65a2a86223f810b4d8112d62841d6f852208eda6a8d0ee168a02d9": {
+        "tags": "popcorn brain, attention, focus, mental state, cognitive, anxiety, stress, fatigue",
+        "description": "The text defines \"popcorn brain\" as a mental state characterized by scattered thoughts, fragmented attention, and difficulty focusing, leading to increased stress, anxiety, and fatigue."
+    },
+    "cb96f5cc06ff8ac76e8be0dcfb7f2399e50cc23512e98c03369818df47c8b926": {
+        "tags": "taxes,investment,money,rich,budget,finance,passiveincome,strategy",
+        "description": "A Twitter post describes a strategy for achieving tax-free income through investments, ultimately resulting in wealth accumulation that benefits future generations."
+    },
+    "714f946ef4ca8735c263cbe7e8b23005fd6e5aa7e310cdb962c36a93bdfb3524": {
+        "tags": "politics, cartoon, optics, trump, pardon, migrants, satire, commentary",
+        "description": "A four-panel political cartoon satirizes the concept of \"bad optics\" by depicting various controversial situations involving President Trump and his administration."
+    },
+    "e4b4cf2cff7ed2277cd87fba74a81c4137d68094cf8166426f51b61ca13759e5": {
+        "tags": "airplane, flight, forces, weight, thrust, drag, lift, nasa",
+        "description": "A diagram shows the four forces\u2014thrust, drag, lift, and weight\u2014acting on an airplane."
+    },
+    "4e1f22b0f8504642f569fcfa6938f3f64a24691bb3852b9e58ffe478452fdd99": {
+        "tags": "calendar, events, technology, legal, policy, companies, deadlines, conference, product",
+        "description": "The image shows a \"Global Internet Catalyst Calendar\" listing key upcoming events, policy deadlines, legal hearings, and product launches for various tech companies like Google, Meta, Amazon, and Microsoft in March, April, and May of 2025."
+    },
+    "628d105c52573e89ab8f99ba1bd772c1fa28c9793ca81c593b29854528bd7a63": {
+        "tags": "amazon, culture, decisions, why, philosophy, company, customer, questions, innovation",
+        "description": "An excerpt from an Amazon annual letter explaining the company's \"Why\" culture and decision-making philosophy."
+    },
+    "5e07403c6828ca42868d4eb75b156d10c28be8d9ba8fc8ec3fd750d03a18bea9": {
+        "tags": "s&p, 500, market, bear, rally, stock, graph, 2000, 2002",
+        "description": "A line graph showing the S&P 500's performance from 2000 to 2002, highlighting both significant drops and temporary rallies during a bear market."
+    },
+    "3a4e318cc2f197b140f3332a7adc534d241b9e582aadc2a35bcf08eccabeb039": {
+        "tags": "tariffs,trump,trade,formula,imports,deficit,equation,elasticity",
+        "description": "A text excerpt analyzes a tariff formula, highlighting its inflation of tariffs and including a mathematical equation."
+    },
+    "69f958d79a79832fab02c3e811a0b7d347761d839cb17e5978b38647015b0730": {
+        "tags": "machine,learning,research,development,textbooks,papers,theses,algorithms,knowledge,personal",
+        "description": "A text discusses strategies for personal development in machine learning research, emphasizing the importance of reading textbooks, theses, and papers, and reimplementing algorithms."
+    },
+    "7fc7c78ae1389510e1f3d725ecc1b8fb25ef94f9efd6799f40ae70f640af4098": {
+        "tags": "deficit,tracker,budget,fiscal,year,graph,dollars,billions,spending",
+        "description": "A line graph tracks the cumulative U.S. federal budget deficit in billions of dollars from October to September for the fiscal years 2020-2025."
+    },
+    "9d4470e71bab2ef6c7f50e82227896027969505a66fcf4281861db827301b9b5": {
+        "tags": "market, business, economic, policy, stability, diagram, boxes, text",
+        "description": "The image shows a diagram with four boxes labeled \"Market Stability,\" \"Business Stability,\" \"Economic Stability,\" and \"Policy Stability.\""
+    },
+    "b004e1d818cfc51c3785d06ddaf0ec7e621726144388b05b0656278d99f43691": {
+        "tags": "right, conservative, government, society, family, beliefs, freedom, equality, politics, ideology",
+        "description": "A detailed infographic depicting the ideology of the political right, outlining its core beliefs, values, and policy positions."
+    },
+    "b4539d6e4c977c779189e5534463b3eb650a871a050ee425bc0ace1335571071": {
+        "tags": "cybersecurity, malware, threat, intelligence, analysis, reports, groups, attack, campaign, relations",
+        "description": "The image illustrates the relationships between Moonstone Sleet and other cyber threat subgroups through a diagram outlining related incidents, malware, and activities, referencing reports and campaigns."
+    },
+    "9cedbd73d7f84f1ceeb3c86d047f1fb0ff09ef222c220df21382894da07cac59": {
+        "tags": "node, attestation, spire, agent, server, aws, cloud, security",
+        "description": "A diagram illustrates the process of node attestation using Spire agent and server, with AWS cloud as the infrastructure."
+    },
+    "3d6ca03a2f0d76589c55a75f391411c73677217ea33ec07db36d95b8b3976d03": {
+        "tags": "train, posters, travel, vintage, railway, america, art, design, retro, journey",
+        "description": "A collage of eight vintage-style travel posters advertising different Amtrak train routes across the United States."
+    },
+    "6868653beecbc50687606001c8d044b5665ccf874f55d4e84196a276410c2acd": {
+        "tags": "game,clothing,armor,protection,screenshot,interface,comments",
+        "description": "A screenshot of a mobile game showing a character's outfit and comments discussing damage reduction percentages."
+    },
+    "9cb0fb4320607119decdb16a8c6a8d7864641896d96a533ddd2e7b3a539657eb": {
+        "tags": "repo, market, finance, trading, hedge, funds, banks, securities, collateral",
+        "description": "A diagram illustrating the non-centrally cleared bilateral repo market, its participants, and the flow of securities and cash."
+    },
+    "e8ef1081763581d02d97b7136df0f2c096da929931ef973805f665f088a159c9": {
+        "tags": "llm, database, embedding, model, chunks, vector, query, prompt, context",
+        "description": "The image illustrates a system that allows users to chat with their documents by chunking data, creating embeddings, querying a vector database, and using a prompt template with an LLM."
+    },
     "5a4b80dbd0e9dda2629c4bbd7454c1eef7c0df3778c6d37be6185d045e820f0c": {
         "tags": "as131279,ryugyong-dong,potong-gang,lazaruslizards,star-kp,kp,lir,ip,abuse",
         "description": "A WHOIS record for AS131279 (STAR-KP) in Ryugyong-dong, Potong-gang District, North Korea, featuring a rage comic image in the remarks section."
+    },
+    "e701975a03905b0034d76ed3fb3a4668bff41b55e26f89fef0600efbe8f70db6": {
+        "tags": "trump,powell,fed,debt,economy,markets,germany,news,president,dollar",
+        "description": "An excerpt describes President Trump blaming cable news and criticizing Federal Reserve Chairman Powell for the strong dollar and his understanding of public versus private debt."
+    },
+    "44bf60318f2854ce301c8a5c06423467271e60dfa5a7d0743995bd51c437f97c": {
+        "tags": "ai,models,reality,probability,impact,progression,event,risk",
+        "description": "A graph shows the divergence between AI model predictions and reality regarding the impact of events as their probability increases."
+    },
+    "69ea7fd4e15f364d552e8580f17bb483816721c6756a2bf6e1b3a8bcf1e36d83": {
+        "tags": "trade,deficit,economy,exports,imports,ic,plan,dollar,buffett,china",
+        "description": "Warren Buffett analyzes a proposed plan to address the US trade deficit, discussing potential benefits and drawbacks."
+    },
+    "649856eec7b2cdf631e575703d559cb62045ae6db0e76507d1051601bf920083": {
+        "tags": "ox, bull, cartoon, cute, logo, branding, mascot, orange",
+        "description": "A logo featuring a cute, cartoonish orange ox's head with the text \"roundOx\" below it."
+    },
+    "a15539c43e3fdea9dc8b623892d7f03f2f438b33c2a672a6df1266fd0d0bc346": {
+        "tags": "text, isaac asimov, short story, the last question, science fiction, computer, multivac",
+        "description": "The image shows the beginning paragraphs of Isaac Asimov's short story, \"The Last Question.\""
+    },
+    "419dc047b6d624880744dd68f7a951b49343996a5b588c62b49c9dd0f9e20026": {
+        "tags": "clown, ghost, mirror, sad, happy, surreal, art, illustration",
+        "description": "A sad clown and a laughing ghost are reflected in a hand-held mirror with multiple arms."
+    },
+    "2fedc162d579fe172e8109a0efcf06f05ccaae6dfe83b61fae628ff10ab01013": {
+        "tags": "nsa, full attention, speedup, benchmarks, performance, reasoning, sparse, decoding",
+        "description": "The figure compares the performance and efficiency of NSA and Full Attention models across benchmarks and processing stages, showing NSA's superiority in both aspects."
+    },
+    "df880d3a5d5f4076751c5aceb8c1d120463accf22ba6751ea337fd7904c66ba3": {
+        "tags": "flowchart, chat, application, request, response, processing, classification, prompts, relevant",
+        "description": "A flowchart depicting the process of a chat application, including request classification, prompt selection, response retrieval, and post-processing."
+    },
+    "cbac524713081d3e7321477499dcdb27d4bfb2ff93f27087422b419694abe33a": {
+        "tags": "pricing, market, regression, pe ratio, finance, risk, growth, payout",
+        "description": "A slide shows how multiple regression analysis can be used to predict PE ratios across an entire market, considering risk, growth, and payout factors."
+    },
+    "040bc7b429df00f895e415d33e06fe9c6994c691147cf61731fe52d44a83368f": {
+        "tags": "research,problems,taste,advice,skill,ideas,improvement,environment",
+        "description": "The text provides advice on how to develop a good sense of which research problems are worth pursuing, emphasizing the importance of environment and self-reflection."
+    },
+    "9989bc96141aea0dc9bbfbdc4bb69720cd7be16f5d9d613df23768a2655b8fc2": {
+        "tags": "facebook,instagram,pie,chart,percentage,social,media,2025",
+        "description": "Two pie charts show the percentage of time spent viewing content posted by \"Friends\" on Facebook (17%) and Instagram (7%) in 2025."
+    },
+    "3d92b5f3d3d5a2626a8265845134edb1fa92393b5e3532c2fdc18fa6f3495cf8": {
+        "tags": "gemini,markdown,rendering,error,ai,chatbot,document,converter,help,limitation",
+        "description": "A Gemini AI chatbot displays an error message, stating it cannot render a document into markdown format."
+    },
+    "dbec1f03430c67a0e91a51c2feeacc5df76f39c53701a8239989a13eeec663c9": {
+        "tags": "bearish,stocks,us,economy,investors,market,survey,bofA,global,sentiment",
+        "description": "A BofA Global Fund Manager Survey reveals record bearish investor sentiment, with a significant number intending to reduce US equity exposure."
+    },
+    "dac78e69d0fe49ba120f829295dfe988616c4f633fd99964e672f5c73af80662": {
+        "tags": "left,political,ideology,social,progress,equality,freedom,government,beliefs",
+        "description": "A diagram illustrating the core tenets and values of the political left, emphasizing social progress, equality, and government intervention."
+    },
+    "a337170be0998ce9e4b6195ca8bcdb8aa5f2cfe861e75aa5dcd4d39f0c2cabd0": {
+        "tags": "python, code, autoencoder, latent, tensor, mother, extinction",
+        "description": "A Python code snippet shows the difference between generating from latent vectors representing \"Mother\" and \"Mom,\" resulting in a tensor output."
+    },
+    "9435d0f51e450febadff8bee8c3f7a3c892b7a76a164f5b42f9618633c08ee53": {
+        "tags": "ai, models, commoditization, hyperscalers, chips, tsmc, value, compute,",
+        "description": "A text excerpt discusses the potential commoditization of AI foundation models and where value might be captured if this occurs."
+    },
+    "a3d3475964ee93aec16bb44fbf04fa97a6801df59aa5d3e1c4b8386af9cdbbaf": {
+        "tags": "whitehouse,kudlow,cnbc,trump,virus,economic,dow,february,national",
+        "description": "A passage describes Larry Kudlow, Trump's economic advisor, appearing on CNBC on February 25th and downplaying the virus's impact despite a falling Dow average."
+    },
+    "15546b5812c63a9f4bdeab0209e491aeda48d2264255c0a977600282ced774b4": {
+        "tags": "aws, datacenters, hyperscalers, leasing, pause, colo, cloud, market, infrastructure",
+        "description": "A Wells Fargo equity research report analyzes a pause in new colocation deals for Amazon Web Services (AWS), while other hyperscalers remain active."
+    },
+    "a1a3db05decde3ed0bdc4a3b1a61fb85107f83d5c0fe11ee166c8f95c1e5cacc": {
+        "tags": "costco,stock,fastgraphs,earnings,growth,price,ratio,p/e,dividend",
+        "description": "A Fastgraphs chart displays Costco Wholesale Corp's (COST) stock performance, including EPS, dividends, and valuation ratios over time."
+    },
+    "8cd09060d31bb0a8a1fe4dc264fc67772e77cd153d23bcea9b7fc338c84c6b20": {
+        "tags": "jobs, reddit, map, location, search, website, discussion, forum",
+        "description": "A Reddit thread discussing the need for a job search website that uses map location to show job openings."
+    },
+    "8048a67e38df8e318ef8c9c933cf7f43ca8e97f3f5c092dd8d539a264b8c0f48": {
+        "tags": "economics,trade,dollar,buffett,imports,exports,balance,certificates,investment",
+        "description": "Warren Buffett proposes a plan to balance the U.S. trade deficit by issuing import certificates to U.S. exporters."
+    },
+    "86b5f8c569b61cdfaa58179104c799c08711d3a7e2482ef701066c793165a080": {
+        "tags": "hedge,strategy,options,put,call,collar,portfolio,market,risk,investment",
+        "description": "A diagram illustrates a hedged investment strategy using a put-spread collar to protect against market declines while forgoing some upside potential."
+    },
+    "1d4a1fa1323d5e46ad9532b3f124a84551f1208f4a25a4f66899e4e2210ef0ee": {
+        "tags": "workload, attestation, spire, agent, server, api, socket, linux",
+        "description": "A diagram illustrates a workload attestation process where a spire-agent communicates with a server via an API socket."
+    },
+    "07c99609b412ff8a41864370c44caa69d8ff936e7c65adf84416bf46efc42544": {
+        "tags": "trade, usa, china, dominance, global, map, economy, import, export",
+        "description": "The infographic illustrates the shift in global trade dominance between the U.S. and China from 2000 to 2024, depicting China's increased presence as a larger trading partner."
+    },
+    "1b2cc0c89c2c89cf669fb8dab40911626a790471c85c8169821c508af5612dab": {
+        "tags": "distillation, reasoning, llms, reinforcement learning, perplexity, coverage, base model, deepseek, qwen",
+        "description": "The image displays graphs comparing the reasoning capabilities of base, instruction-tuned, reinforcement-learning-trained, and distilled large language models."
+    },
+    "c3c9a037edc9928f8f935684bf6ffd3a1a2319013b51b1a2ab2e9acb66abd066": {
+        "tags": "tesla, market, share, vehicles, regions, growth, production, time",
+        "description": "A line graph displays Tesla's market share by region (US/Canada, Europe, China) from Q2 2019 to Q1 2025, showing growth in all regions."
+    },
+    "0b7cf246413ff4a6c1b64d9320acee666ae8c25808aeeca5a6b5f3c9beb4dbe0": {
+        "tags": "leadership, education, character, corruption, governance, resources, global, thinking, determination,  weakness",
+        "description": "An illustration shows a doctor holding a flag, contrasted with a chart displaying various factors related to leadership and governance, highlighting their strengths and weaknesses."
+    },
+    "bf7bdf6b00098c2b446398dd7ad1ca69cab41803d53d3a29b4b40f387c09388e": {
+        "tags": "chart, scatterplot, technology, companies, marketcap, dilution, stocks, investment",
+        "description": "The chart displays technology company dilution compared to their market capitalization, showing an inverse relationship."
+    },
+    "380356f9992b1e98e771725995346b6bdcdd914be87d5141bfa9acb0cd5717e4": {
+        "tags": "bitcoin,supply,model,market,cap,blockchain,cryptocurrency,years",
+        "description": "A table showing a long-term convergent supply-constrained market cap model for Bitcoin over 50 years."
     }
 }

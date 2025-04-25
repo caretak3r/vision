@@ -22,6 +22,241 @@
     }
   },
   {
+    "path": "2025/pc/20210530_160049.jpg",
+    "filename": "2025/pc/20210530_160049.jpg",
+    "hash": "edb27b2104152bffee3f9617124141dbee61623ab33c72291a9ba6c9e6ae30ec",
+    "description": "A table shows the projected dates when 90%, 95%, 99%, 99.9%, and 100% of the total Bitcoin supply will be mined.",
+    "tags": [
+      "bitcoin",
+      "supply",
+      "future",
+      "cryptocurrency",
+      "percentage",
+      "dates",
+      "mining",
+      "blockchain"
+    ],
+    "metadata": {
+      "dimensions": "1124x468",
+      "format": "JPEG",
+      "size_kb": "87.47 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20210530_160114.jpg",
+    "filename": "2025/pc/20210530_160114.jpg",
+    "hash": "380356f9992b1e98e771725995346b6bdcdd914be87d5141bfa9acb0cd5717e4",
+    "description": "A table showing a long-term convergent supply-constrained market cap model for Bitcoin over 50 years.",
+    "tags": [
+      "bitcoin",
+      "supply",
+      "model",
+      "market",
+      "cap",
+      "blockchain",
+      "cryptocurrency",
+      "years"
+    ],
+    "metadata": {
+      "dimensions": "1230x1006",
+      "format": "JPEG",
+      "size_kb": "198.29 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20240210_202946.jpg",
+    "filename": "2025/pc/20240210_202946.jpg",
+    "hash": "2f42c210fb4a1833c581a8a93dc7b7c11e47304cd8f3e6d4a970f5b2eee078d3",
+    "description": "A table lists the free allowance and 1 TB egress overage costs for various major cloud providers.",
+    "tags": [
+      "cloud",
+      "pricing",
+      "egress",
+      "providers",
+      "costs",
+      "allowance",
+      "overage",
+      "tb",
+      "gb"
+    ],
+    "metadata": {
+      "dimensions": "1322x1790",
+      "format": "JPEG",
+      "size_kb": "220.20 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20240310_192804.png",
+    "filename": "2025/pc/20240310_192804.png",
+    "hash": "040bc7b429df00f895e415d33e06fe9c6994c691147cf61731fe52d44a83368f",
+    "description": "The text provides advice on how to develop a good sense of which research problems are worth pursuing, emphasizing the importance of environment and self-reflection.",
+    "tags": [
+      "research",
+      "problems",
+      "taste",
+      "advice",
+      "skill",
+      "ideas",
+      "improvement",
+      "environment"
+    ],
+    "metadata": {
+      "dimensions": "2092x1446",
+      "format": "PNG",
+      "size_kb": "194.29 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20240310_192806.png",
+    "filename": "2025/pc/20240310_192806.png",
+    "hash": "a07b037a82f4382cfd7d1cb2c942d890e7bdee3fc3d0182dd94ae3c35f274dfa",
+    "description": "The text discusses the importance of aiming for high goals in research and using incremental improvements as steps toward achieving them.",
+    "tags": [
+      "research",
+      "goals",
+      "incremental",
+      "improvement",
+      "progress",
+      "ambition",
+      "strategy",
+      "planning"
+    ],
+    "metadata": {
+      "dimensions": "2118x1008",
+      "format": "PNG",
+      "size_kb": "165.74 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20240310_192807.png",
+    "filename": "2025/pc/20240310_192807.png",
+    "hash": "9986d49865a48a43e2aca43480d175761cd15d74f5daf23831d14b620fbc47ec",
+    "description": "A text discusses the benefits of keeping a daily research journal and regularly reviewing it to improve productivity and track progress on experiments and ideas.",
+    "tags": [
+      "notebook",
+      "review",
+      "journal",
+      "experiments",
+      "ideas",
+      "research",
+      "productivity",
+      "time management"
+    ],
+    "metadata": {
+      "dimensions": "2178x1116",
+      "format": "PNG",
+      "size_kb": "175.97 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20240310_192808.png",
+    "filename": "2025/pc/20240310_192808.png",
+    "hash": "69f958d79a79832fab02c3e811a0b7d347761d839cb17e5978b38647015b0730",
+    "description": "A text discusses strategies for personal development in machine learning research, emphasizing the importance of reading textbooks, theses, and papers, and reimplementing algorithms.",
+    "tags": [
+      "machine",
+      "learning",
+      "research",
+      "development",
+      "textbooks",
+      "papers",
+      "theses",
+      "algorithms",
+      "knowledge",
+      "personal"
+    ],
+    "metadata": {
+      "dimensions": "2304x1636",
+      "format": "PNG",
+      "size_kb": "309.85 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20240313_040629.jpg",
+    "filename": "2025/pc/20240313_040629.jpg",
+    "hash": "f87ff2bcb0c81523ef637f9b2a25bbcda067fde2f6c17143501cf5a0c0384fab",
+    "description": "A diagram illustrating alleged US coordination of biological laboratories and research institutes in Ukraine, highlighting involved entities, funding sources, and objectives.",
+    "tags": [
+      "ukraine",
+      "us",
+      "biological",
+      "laboratories",
+      "research",
+      "funding",
+      "weapons",
+      "political",
+      "pharmaceutical"
+    ],
+    "metadata": {
+      "dimensions": "828x466",
+      "format": "JPEG",
+      "size_kb": "96.58 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20240320_152209.png",
+    "filename": "2025/pc/20240320_152209.png",
+    "hash": "a337170be0998ce9e4b6195ca8bcdb8aa5f2cfe861e75aa5dcd4d39f0c2cabd0",
+    "description": "A Python code snippet shows the difference between generating from latent vectors representing \"Mother\" and \"Mom,\" resulting in a tensor output.",
+    "tags": [
+      "python",
+      "code",
+      "autoencoder",
+      "latent",
+      "tensor",
+      "mother",
+      "extinction"
+    ],
+    "metadata": {
+      "dimensions": "1198x352",
+      "format": "PNG",
+      "size_kb": "51.02 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20240927_081024.jpg",
+    "filename": "2025/pc/20240927_081024.jpg",
+    "hash": "9b52fca3f876733d3890c180bceb3018de6f88e4cce9f82b65e70a753c0e2ab6",
+    "description": "A hierarchical chart illustrating the structure of defense contracting, showing the purchaser (U.S. Department of Defense), prime contractors, major system subcontractors, and specialized subcontractors.",
+    "tags": [
+      "defense",
+      "contractors",
+      "aerospace",
+      "technology",
+      "government",
+      "nasa",
+      "military",
+      "subcontractors",
+      "shipbuilding"
+    ],
+    "metadata": {
+      "dimensions": "1456x912",
+      "format": "JPEG",
+      "size_kb": "241.30 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20241010_201017.png",
+    "filename": "2025/pc/20241010_201017.png",
+    "hash": "1769586da2d81a33278bd7b45976f8c5a8d5f7206e35bad007b8fa09b3818173",
+    "description": "A chart displays the strength of various sub-industries within a larger industry, categorized as weak, neutral, and strong.",
+    "tags": [
+      "sata",
+      "industries",
+      "sub-industries",
+      "weak",
+      "neutral",
+      "strong",
+      "analysis",
+      "chart"
+    ],
+    "metadata": {
+      "dimensions": "2680x1418",
+      "format": "PNG",
+      "size_kb": "133.27 KB"
+    }
+  },
+  {
     "path": "2025/pc/20241206_002529.jpg",
     "filename": "2025/pc/20241206_002529.jpg",
     "hash": "c6bbca2fcc55302cbb27278c5905ccb91992a357a93a27297c903967559213fc",
@@ -1706,6 +1941,27 @@
     }
   },
   {
+    "path": "2025/pc/20250425_075017.png",
+    "filename": "2025/pc/20250425_075017.png",
+    "hash": "3459c05ed5f87dd673a5afaae4a0ceac0a281d718a14265475d31bcfdc9d3731",
+    "description": "A chart showing the quarterly changes in US household equity holdings and BofA private client equity holdings from 2014 to 2025, indicating a -$6 trillion year-to-date decrease.",
+    "tags": [
+      "equity",
+      "holdings",
+      "wealth",
+      "us",
+      "chart",
+      "finance",
+      "market",
+      "bofA"
+    ],
+    "metadata": {
+      "dimensions": "457x345",
+      "format": "PNG",
+      "size_kb": "49.29 KB"
+    }
+  },
+  {
     "path": "2025/pc/7d8f4eae-d4f1-4d3b-a0bf-23cbbe75630e_1_105_c.jpeg",
     "filename": "2025/pc/7d8f4eae-d4f1-4d3b-a0bf-23cbbe75630e_1_105_c.jpeg",
     "hash": "eda7cbbedff6edc32a0af6d5c31a33c7924249375536f79770d37e8696c91884",
@@ -1726,6 +1982,28 @@
       "dimensions": "826x950",
       "format": "JPEG",
       "size_kb": "103.34 KB"
+    }
+  },
+  {
+    "path": "2025/pc/816ca780-b454-4a9f-bb70-eac71e86ce7a_1588x545.webp",
+    "filename": "2025/pc/816ca780-b454-4a9f-bb70-eac71e86ce7a_1588x545.webp",
+    "hash": "d5519e203a2f3f73ab1468185994f71d8aeffabe885fc1a293bb7b6411f4f0fb",
+    "description": "A financial report showing top and bottom contributors to portfolio outperformance, broken down by security selection, asset allocation, and leverage.",
+    "tags": [
+      "finance",
+      "portfolio",
+      "performance",
+      "attribution",
+      "security",
+      "selection",
+      "allocation",
+      "leverage",
+      "investment"
+    ],
+    "metadata": {
+      "dimensions": "1272x437",
+      "format": "WEBP",
+      "size_kb": "40.29 KB"
     }
   },
   {
@@ -2649,6 +2927,26 @@
       "dimensions": "2400x1080",
       "format": "PNG",
       "size_kb": "654.13 KB"
+    }
+  },
+  {
+    "path": "2025/pc/screenshot_20250424-223116.png",
+    "filename": "2025/pc/screenshot_20250424-223116.png",
+    "hash": "6868653beecbc50687606001c8d044b5665ccf874f55d4e84196a276410c2acd",
+    "description": "A screenshot of a mobile game showing a character's outfit and comments discussing damage reduction percentages.",
+    "tags": [
+      "game",
+      "clothing",
+      "armor",
+      "protection",
+      "screenshot",
+      "interface",
+      "comments"
+    ],
+    "metadata": {
+      "dimensions": "1080x2400",
+      "format": "PNG",
+      "size_kb": "356.60 KB"
     }
   },
   {
