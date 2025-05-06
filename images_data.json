@@ -2156,6 +2156,94 @@
     }
   },
   {
+    "path": "2025/pc/20250505_143302.jpg",
+    "filename": "2025/pc/20250505_143302.jpg",
+    "hash": "386ffa15a78fe25b9fdc8b58eb9cc1f86ca4722fcc4f9bad29f50266be21055c",
+    "description": "A before-and-after illustration showing how AI results are improved from messy data to a solid foundation built with data quality framework attributes.",
+    "tags": [
+      "ai",
+      "data",
+      "quality",
+      "accuracy",
+      "validity",
+      "timeliness",
+      "completeness",
+      "uniqueness",
+      "framework",
+      "robots"
+    ],
+    "metadata": {
+      "dimensions": "1536x1024",
+      "format": "JPEG",
+      "size_kb": "329.53 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250505_173909.jpg",
+    "filename": "2025/pc/20250505_173909.jpg",
+    "hash": "27128d1c6d082e2bb3c125d987dc1f9172796185910b0668d17e42cdfc52ac2a",
+    "description": "A waterfall chart visualizing Palantir's Q1 FY25 income statement, showing revenue, gross profit, operating profit, and net profit, along with detailed breakdowns of expenses.",
+    "tags": [
+      "palantir",
+      "income",
+      "statement",
+      "revenue",
+      "profit",
+      "expenses",
+      "q1",
+      "fy25"
+    ],
+    "metadata": {
+      "dimensions": "2745x1539",
+      "format": "JPEG",
+      "size_kb": "245.22 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250505_182448.jpg",
+    "filename": "2025/pc/20250505_182448.jpg",
+    "hash": "0f4162419f0057253b5fd1628f819708b2533cfd2c9c50543efbbdbfaaab44ec",
+    "description": "A bar chart displays the global cloud infrastructure market share in Q1 2025, showing AWS with the largest share at 29%, followed by Microsoft Azure at 22%, and Google Cloud at 12%.",
+    "tags": [
+      "cloud",
+      "infrastructure",
+      "market",
+      "share",
+      "aws",
+      "azure",
+      "google",
+      "revenue",
+      "2025"
+    ],
+    "metadata": {
+      "dimensions": "2745x1539",
+      "format": "JPEG",
+      "size_kb": "255.31 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250505_212904.png",
+    "filename": "2025/pc/20250505_212904.png",
+    "hash": "99b8a01994b7561b398149ecee88e67ba6249bb9f58f31769407ac62ea78a75a",
+    "description": "A bar chart displays the total value of US freight by transportation mode and distance traveled in 2023.",
+    "tags": [
+      "freight",
+      "transportation",
+      "us",
+      "value",
+      "distance",
+      "mode",
+      "2023",
+      "truck",
+      "water"
+    ],
+    "metadata": {
+      "dimensions": "568x430",
+      "format": "PNG",
+      "size_kb": "76.43 KB"
+    }
+  },
+  {
     "path": "2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png",
     "filename": "2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png",
     "hash": "c097984a58bbffd8a7345e32e88994d664b113a9941d53107521f6c73d654442",
@@ -2777,6 +2865,72 @@
       "dimensions": "2744x1539",
       "format": "JPEG",
       "size_kb": "258.40 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gqnk6h_baaqkxp2.jpeg",
+    "filename": "2025/pc/gqnk6h_baaqkxp2.jpeg",
+    "hash": "7889b323bfec9ec018f3297b32580d20cf6cff5a43658314f183cfb6bde3ad73",
+    "description": "A waterfall chart showing Hims & Hers' Q1 FY25 income statement, detailing revenue, gross profit, operating expenses, and net profit.",
+    "tags": [
+      "hims",
+      "hers",
+      "revenue",
+      "profit",
+      "income",
+      "statement",
+      "marketing",
+      "expenses"
+    ],
+    "metadata": {
+      "dimensions": "2745x1539",
+      "format": "JPEG",
+      "size_kb": "259.03 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gqnnjiuxoaaa2l0.png",
+    "filename": "2025/pc/gqnnjiuxoaaa2l0.png",
+    "hash": "db6567f688633d8fe7d08258e88275deac963bc9927fce70454a8a48da6bbfac",
+    "description": "An article discusses the FDA's plan to phase out petroleum-based food dyes, noting that similar dyes are allowed in Europe under different names.",
+    "tags": [
+      "fda",
+      "food",
+      "dyes",
+      "petroleum",
+      "colors",
+      "europe",
+      "regulation",
+      "ban",
+      "safety"
+    ],
+    "metadata": {
+      "dimensions": "672x771",
+      "format": "PNG",
+      "size_kb": "190.32 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gqr7ydbxmae0qpk.png",
+    "filename": "2025/pc/gqr7ydbxmae0qpk.png",
+    "hash": "9cac8b489d5a6c9ae0064fc10fdc8b005e01b044a8cd48c0a2e4ac759d27d91e",
+    "description": "A terminal window displays a bash script that uses base64 encoding to execute commands on a remote server.",
+    "tags": [
+      "bash",
+      "shell",
+      "script",
+      "command",
+      "terminal",
+      "linux",
+      "base64",
+      "sshd",
+      "dig",
+      "code"
+    ],
+    "metadata": {
+      "dimensions": "848x461",
+      "format": "PNG",
+      "size_kb": "107.39 KB"
     }
   },
   {
