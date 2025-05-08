@@ -2244,6 +2244,50 @@
     }
   },
   {
+    "path": "2025/pc/20250508_062455.png",
+    "filename": "2025/pc/20250508_062455.png",
+    "hash": "833b3d1be7ecd9762cde2038a7524cd14674c2dc7dd1a37d828edcd5297199d8",
+    "description": "A line graph showing the polling data of several Australian political parties from June 2022 to May 2025.",
+    "tags": [
+      "voters",
+      "polling",
+      "election",
+      "australia",
+      "parties",
+      "politics",
+      "trends",
+      "charts",
+      "data"
+    ],
+    "metadata": {
+      "dimensions": "750x450",
+      "format": "PNG",
+      "size_kb": "169.83 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250508_063135.jpg",
+    "filename": "2025/pc/20250508_063135.jpg",
+    "hash": "7edb0fa89603d56bde27853428e8831d5910022d03ef24d3f7292025c9426e96",
+    "description": "A map of Ukraine showing the locations of its mineral reserves, including rare earth metals, with estimated values in trillions of dollars.",
+    "tags": [
+      "ukraine",
+      "minerals",
+      "map",
+      "reserves",
+      "rare",
+      "earth",
+      "metals",
+      "value",
+      "trillion"
+    ],
+    "metadata": {
+      "dimensions": "1178x1482",
+      "format": "JPEG",
+      "size_kb": "120.75 KB"
+    }
+  },
+  {
     "path": "2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png",
     "filename": "2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png",
     "hash": "c097984a58bbffd8a7345e32e88994d664b113a9941d53107521f6c73d654442",
@@ -2934,6 +2978,49 @@
     }
   },
   {
+    "path": "2025/pc/gqvkcm1wgaacn_4.png",
+    "filename": "2025/pc/gqvkcm1wgaacn_4.png",
+    "hash": "1f9a9e005e069d3f5d5ceed1a57243034187d18b995a6f3aa748c013604670d8",
+    "description": "A line graph shows US total monthly power demand from January to December for the years 2019, 2024, and 2025.",
+    "tags": [
+      "power",
+      "demand",
+      "growth",
+      "gdp",
+      "us",
+      "energy",
+      "2024",
+      "2025"
+    ],
+    "metadata": {
+      "dimensions": "714x501",
+      "format": "PNG",
+      "size_kb": "58.60 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gqwxgw_xoaaney7.png",
+    "filename": "2025/pc/gqwxgw_xoaaney7.png",
+    "hash": "980e713bdb8060c21dcdf3e0412897418dff3a99525c41c89471157ce4162489",
+    "description": "A diagram illustrating a Kubernetes scheduling queue workflow, showing how pods transition through unscheduled, backoff, and active queues based on events and pod affinity.",
+    "tags": [
+      "scheduling",
+      "queue",
+      "kubernetes",
+      "pod",
+      "events",
+      "failure",
+      "backoff",
+      "active",
+      "unscheduled"
+    ],
+    "metadata": {
+      "dimensions": "775x733",
+      "format": "PNG",
+      "size_kb": "38.12 KB"
+    }
+  },
+  {
     "path": "2025/pc/indicators-of-power.png",
     "filename": "2025/pc/indicators-of-power.png",
     "hash": "0b7cf246413ff4a6c1b64d9320acee666ae8c25808aeeca5a6b5f3c9beb4dbe0",
@@ -3429,6 +3516,27 @@
       "dimensions": "2856x1686",
       "format": "PNG",
       "size_kb": "1865.35 KB"
+    }
+  },
+  {
+    "path": "2025/pc/solving-bottom-turtle.png",
+    "filename": "2025/pc/solving-bottom-turtle.png",
+    "hash": "9fc70d070f34d0cd916d83e48de1b80d32e182aaa20254b2bba4cf9340bba799",
+    "description": "A diagram illustrates a layered security model using turtles and keys to protect a PCI encryption key and HSM password.",
+    "tags": [
+      "security",
+      "encryption",
+      "key",
+      "password",
+      "hsm",
+      "pci",
+      "turtle",
+      "diagram"
+    ],
+    "metadata": {
+      "dimensions": "213x552",
+      "format": "PNG",
+      "size_kb": "44.16 KB"
     }
   },
   {
