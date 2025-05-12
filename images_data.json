@@ -2551,6 +2551,27 @@
     }
   },
   {
+    "path": "2025/pc/downfall_of_numenorsvg.png",
+    "filename": "2025/pc/downfall_of_numenorsvg.png",
+    "hash": "718dbc6b2d0126be08d22d7deece831789407ba98ae0d945800d72acbbd9ff68",
+    "description": "A diagram shows the fictional world of Beleriand before and after its drowning in the War of Wrath,  with the subsequent fate of N\u00famenor also depicted.",
+    "tags": [
+      "beleriand",
+      "aman",
+      "valinor",
+      "numenor",
+      "war",
+      "wrath",
+      "elves",
+      "map"
+    ],
+    "metadata": {
+      "dimensions": "2560x1920",
+      "format": "PNG",
+      "size_kb": "872.09 KB"
+    }
+  },
+  {
     "path": "2025/pc/ecef0036-5a38-4fc4-9e02-b9138b56fe66_1479x1110.webp",
     "filename": "2025/pc/ecef0036-5a38-4fc4-9e02-b9138b56fe66_1479x1110.webp",
     "hash": "b598ad0b1f6d6b604f38e86de85e561f7d632bff6c44c2d59717c4a07eaaf956",
@@ -2952,6 +2973,91 @@
       "dimensions": "672x771",
       "format": "PNG",
       "size_kb": "190.32 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gqo-auiwoaan5vg.jpeg",
+    "filename": "2025/pc/gqo-auiwoaan5vg.jpeg",
+    "hash": "776874cb632b374a96a67707f65a1dff1ff87f528dada489fc8cad468b7809fc",
+    "description": "A flowchart illustrates the iterative GVM process, starting from an SFT model and culminating in a final policy model through estimation and budget assignment stages.",
+    "tags": [
+      "gvm",
+      "iterations",
+      "policy",
+      "estimation",
+      "budget",
+      "sft",
+      "algorithm",
+      "stages"
+    ],
+    "metadata": {
+      "dimensions": "2192x1276",
+      "format": "JPEG",
+      "size_kb": "218.45 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gqp1rz-wkaifvke.jpeg",
+    "filename": "2025/pc/gqp1rz-wkaifvke.jpeg",
+    "hash": "d49c28587ea2a141569e32b1fb1bed080709a7e22fd07aabaaf0d365aad36c4d",
+    "description": "The image illustrates data repartitioning across different categories (pie charts) and model training with corresponding loss curves, showcasing the impact of data composition on model performance.",
+    "tags": [
+      "data",
+      "model",
+      "training",
+      "pie",
+      "chart",
+      "loss",
+      "qa",
+      "knowledge"
+    ],
+    "metadata": {
+      "dimensions": "1661x465",
+      "format": "JPEG",
+      "size_kb": "57.76 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gqqg_u2waaao4uq.jpeg",
+    "filename": "2025/pc/gqqg_u2waaao4uq.jpeg",
+    "hash": "7b18ec44c6b987a92ef3a94bd3b07f74bfd69ca59c1924670a03e582c701e579",
+    "description": "A meme comparing programmers' perceived confidence before and after encountering the Vim text editor.",
+    "tags": [
+      "programmer",
+      "doge",
+      "meme",
+      "vim",
+      "matrix",
+      "coding",
+      "humor",
+      "before",
+      "now"
+    ],
+    "metadata": {
+      "dimensions": "1080x927",
+      "format": "JPEG",
+      "size_kb": "80.04 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gqqod7hxeaana3f.png",
+    "filename": "2025/pc/gqqod7hxeaana3f.png",
+    "hash": "4d7137029567111f37b1429d5be703a505e8ede602d45286b855b9a407d25407",
+    "description": "A pixel art depiction of a burning city with a large central tower.",
+    "tags": [
+      "pixel",
+      "art",
+      "game",
+      "city",
+      "building",
+      "fire",
+      "8bit",
+      "retro"
+    ],
+    "metadata": {
+      "dimensions": "2048x2368",
+      "format": "PNG",
+      "size_kb": "67.59 KB"
     }
   },
   {
