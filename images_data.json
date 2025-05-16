@@ -2288,6 +2288,27 @@
     }
   },
   {
+    "path": "2025/pc/2143a669-8aa1-48f1-99dc-0a9d94bd5d81_1600x1045.jpg",
+    "filename": "2025/pc/2143a669-8aa1-48f1-99dc-0a9d94bd5d81_1600x1045.jpg",
+    "hash": "af6eb0077067b025f69599001c744f969a329e59ab9895520fd346b0d3bb583f",
+    "description": "A collage showcasing various models of humanoid robots from different companies.",
+    "tags": [
+      "robots",
+      "humanoid",
+      "ai",
+      "technology",
+      "android",
+      "automation",
+      "future",
+      "machinery"
+    ],
+    "metadata": {
+      "dimensions": "1600x1045",
+      "format": "JPEG",
+      "size_kb": "136.63 KB"
+    }
+  },
+  {
     "path": "2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png",
     "filename": "2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png",
     "hash": "c097984a58bbffd8a7345e32e88994d664b113a9941d53107521f6c73d654442",
@@ -2378,6 +2399,27 @@
     }
   },
   {
+    "path": "2025/pc/admission-controller.png",
+    "filename": "2025/pc/admission-controller.png",
+    "hash": "1ac6e67903593a47f2a84af16be69ca759f0e3cb7a6a3c78c810d5402a55d92a",
+    "description": "A diagram illustrating the Kubernetes admission control process, showing the stages from API handler to ETCD persistence, including authentication, authorization, mutation, and validation.",
+    "tags": [
+      "kubernetes",
+      "api",
+      "admission",
+      "authorization",
+      "validation",
+      "etcd",
+      "webhook",
+      "persistence"
+    ],
+    "metadata": {
+      "dimensions": "1874x451",
+      "format": "PNG",
+      "size_kb": "55.04 KB"
+    }
+  },
+  {
     "path": "2025/pc/ai-extinction.jpg",
     "filename": "2025/pc/ai-extinction.jpg",
     "hash": "cc5738eb7ebddf272bd1ccfdd3b1da55fc29b51d29b83756862a8e37bd9a5f8f",
@@ -2439,6 +2481,28 @@
       "dimensions": "547x593",
       "format": "PNG",
       "size_kb": "357.01 KB"
+    }
+  },
+  {
+    "path": "2025/pc/arch-slurm.png",
+    "filename": "2025/pc/arch-slurm.png",
+    "hash": "9253460ee70e3e5622ef8390dcabad64e68fc5160d22c0966b5824a71f1fe86a",
+    "description": "A diagram illustrating the architecture of the Slurm workload manager, showing its client commands, controller daemons, compute node daemons, and database.",
+    "tags": [
+      "slurm",
+      "cluster",
+      "compute",
+      "nodes",
+      "daemons",
+      "database",
+      "client",
+      "commands",
+      "controller"
+    ],
+    "metadata": {
+      "dimensions": "811x681",
+      "format": "PNG",
+      "size_kb": "210.61 KB"
     }
   },
   {
@@ -2528,6 +2592,48 @@
     }
   },
   {
+    "path": "2025/pc/connaisseur-overview.png",
+    "filename": "2025/pc/connaisseur-overview.png",
+    "hash": "79702f582cc2348a7ea6db81b7d97fe83bd6cdddacbbdcb046aba71935b53105",
+    "description": "A diagram illustrates a five-step workflow involving inspection, policy application, validation, modification, and finally, interaction with a notary and sigstore for secure data management.",
+    "tags": [
+      "inspection",
+      "policy",
+      "validation",
+      "modification",
+      "connaissanceur",
+      "notary",
+      "sigstore",
+      "workflow"
+    ],
+    "metadata": {
+      "dimensions": "1347x676",
+      "format": "PNG",
+      "size_kb": "111.02 KB"
+    }
+  },
+  {
+    "path": "2025/pc/dac10c60ec5d2fe6bd3d3f8736cf0ce0.png",
+    "filename": "2025/pc/dac10c60ec5d2fe6bd3d3f8736cf0ce0.png",
+    "hash": "fb552f87c66d78724f39e3c30394ec348c2555620600b8d0d1e5bfdd9822371a",
+    "description": "A troubleshooting flowchart for Kubernetes deployments, guiding users through common issues with pods, services, and ingress.",
+    "tags": [
+      "kubernetes",
+      "troubleshooting",
+      "flowchart",
+      "pods",
+      "services",
+      "ingress",
+      "deployment",
+      "debugging"
+    ],
+    "metadata": {
+      "dimensions": "8925x12630",
+      "format": "PNG",
+      "size_kb": "5743.94 KB"
+    }
+  },
+  {
     "path": "2025/pc/domains-of-warfare.png",
     "filename": "2025/pc/domains-of-warfare.png",
     "hash": "00e71298e2a0b4c89223b9d2b873b3a219021797b81f0f5696506f75451fcd4a",
@@ -2590,6 +2696,48 @@
       "dimensions": "1456x1093",
       "format": "WEBP",
       "size_kb": "26.86 KB"
+    }
+  },
+  {
+    "path": "2025/pc/ed72b8b9-ad09-4ea2-91d4-ba84c969c05b_1137x645.png",
+    "filename": "2025/pc/ed72b8b9-ad09-4ea2-91d4-ba84c969c05b_1137x645.png",
+    "hash": "c405215fc2c2cbe8c95126b40a44ed286cf7cc15366f91e03bd592dc607c989c",
+    "description": "A table summarizing robotics supply chain insights from recent earnings calls of several companies, including their comments on market cycles,  impact on the robot stack, and related timing signals.",
+    "tags": [
+      "robotics",
+      "supply",
+      "chain",
+      "earnings",
+      "calls",
+      "insights",
+      "market",
+      "silicon"
+    ],
+    "metadata": {
+      "dimensions": "1137x645",
+      "format": "PNG",
+      "size_kb": "61.17 KB"
+    }
+  },
+  {
+    "path": "2025/pc/entities-slurm.png",
+    "filename": "2025/pc/entities-slurm.png",
+    "hash": "daecff591972eb377ae3f83d2acd9108c2a9b6fd1442f69b79f2c25997c9b567",
+    "description": "The image diagrams the distribution of slurmd processes across two partitions for two different jobs.",
+    "tags": [
+      "slurmd",
+      "job",
+      "partition",
+      "step",
+      "cluster",
+      "scheduling",
+      "nodes",
+      "parallel"
+    ],
+    "metadata": {
+      "dimensions": "753x443",
+      "format": "PNG",
+      "size_kb": "86.02 KB"
     }
   },
   {
@@ -2757,6 +2905,29 @@
       "dimensions": "436x616",
       "format": "PNG",
       "size_kb": "14.10 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gmrlzgpboaafkxz.jpeg",
+    "filename": "2025/pc/gmrlzgpboaafkxz.jpeg",
+    "hash": "f472e0cb0a81022e2b1e6ce3e6417eddb4f3eee1991cde57ba3b36a25cb84b39",
+    "description": "Two people present a slide on the end-to-end LLM pipeline, showing the process from data acquisition to deployment, to an audience.",
+    "tags": [
+      "llm",
+      "pipeline",
+      "training",
+      "ai",
+      "machine learning",
+      "data",
+      "deployment",
+      "inference",
+      "nvidia",
+      "presentation"
+    ],
+    "metadata": {
+      "dimensions": "2048x1536",
+      "format": "JPEG",
+      "size_kb": "265.86 KB"
     }
   },
   {
@@ -2930,6 +3101,96 @@
       "dimensions": "2744x1539",
       "format": "JPEG",
       "size_kb": "258.40 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gpo6by6beairfgv.jpeg",
+    "filename": "2025/pc/gpo6by6beairfgv.jpeg",
+    "hash": "ea30e0f447cf22e8f68518f437e51baa1e1669a04e7389327b3b1783bb1c32a6",
+    "description": "A comparison of traditional data centers and modern AI factories, highlighting differences in server count, cooling, power consumption, compute architecture, and network architecture.",
+    "tags": [
+      "datacenter",
+      "servers",
+      "ai",
+      "nvidia",
+      "computing",
+      "network",
+      "gpu",
+      "factory",
+      "traditional",
+      "modern"
+    ],
+    "metadata": {
+      "dimensions": "1193x663",
+      "format": "JPEG",
+      "size_kb": "106.41 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gpo6bzebeamzxr8.jpeg",
+    "filename": "2025/pc/gpo6bzebeamzxr8.jpeg",
+    "hash": "a6e34d088b3e1c92bc1305c45d5e5be39f66e3bb31762be2f081ef3b8844ead8",
+    "description": "A diagram illustrating three approaches to implementing NVIDIA's AI Factory, using DGX Cloud, DGX SuperPOD, and OEM partner systems.",
+    "tags": [
+      "nvidia",
+      "ai",
+      "factory",
+      "cloud",
+      "implementation",
+      "dgx",
+      "superpod",
+      "software",
+      "hardware"
+    ],
+    "metadata": {
+      "dimensions": "1188x681",
+      "format": "JPEG",
+      "size_kb": "100.33 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gpo6bzgbeaithga.jpeg",
+    "filename": "2025/pc/gpo6bzgbeaithga.jpeg",
+    "hash": "d517432f73e534c152aaea404bf58616e293ab5a30014b2968d1ee1666ed6714",
+    "description": "A diagram illustrates NVIDIA's full-stack approach to building AI factories, encompassing software, compute, network, storage, and support services.",
+    "tags": [
+      "nvidia",
+      "ai",
+      "factory",
+      "data",
+      "center",
+      "infrastructure",
+      "compute",
+      "network",
+      "storage"
+    ],
+    "metadata": {
+      "dimensions": "1187x649",
+      "format": "JPEG",
+      "size_kb": "67.42 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gq6kqe1w0aaeryu.jpeg",
+    "filename": "2025/pc/gq6kqe1w0aaeryu.jpeg",
+    "hash": "2c50ae1041d567953049d589ec81be5aeeb4ee9a23258ee7dc43745f010ef669",
+    "description": "A diagram illustrating the U.S. Army's Cross-Domain Fires Organizations planned for 2030-40, showing different echelons and capabilities.",
+    "tags": [
+      "fires",
+      "army",
+      "military",
+      "organization",
+      "echelon",
+      "cross-domain",
+      "battle",
+      "2030",
+      "network",
+      "command"
+    ],
+    "metadata": {
+      "dimensions": "1024x768",
+      "format": "JPEG",
+      "size_kb": "158.77 KB"
     }
   },
   {
@@ -3622,6 +3883,27 @@
       "dimensions": "2856x1686",
       "format": "PNG",
       "size_kb": "1865.35 KB"
+    }
+  },
+  {
+    "path": "2025/pc/sign-verify.png",
+    "filename": "2025/pc/sign-verify.png",
+    "hash": "8165b6ce1bc62af0b59c9be39bd3f9c80276a04e36f1a8bbd01a3d83906ef93d",
+    "description": "A diagram illustrating a container image CI/CD pipeline with security scanning and signature verification for integrity and provenance.",
+    "tags": [
+      "container",
+      "image",
+      "ci/cd",
+      "pipeline",
+      "kubernetes",
+      "security",
+      "integrity",
+      "provenance"
+    ],
+    "metadata": {
+      "dimensions": "1897x769",
+      "format": "PNG",
+      "size_kb": "209.26 KB"
     }
   },
   {
