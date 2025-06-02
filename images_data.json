@@ -2288,6 +2288,419 @@
     }
   },
   {
+    "path": "2025/pc/20250512_142934.jpg",
+    "filename": "2025/pc/20250512_142934.jpg",
+    "hash": "3910eae3954514897b2a374d1881a97dda35c3d51f43d30f8d4a930b5d3e2178",
+    "description": "A table detailing the specifications and capabilities of the Gemini 2.5 pro preview language model, including supported inputs and outputs, token limits, and parameter defaults.",
+    "tags": [
+      "model",
+      "gemini",
+      "parameters",
+      "capabilities",
+      "inputs",
+      "outputs",
+      "limits",
+      "specifications"
+    ],
+    "metadata": {
+      "dimensions": "846x1177",
+      "format": "JPEG",
+      "size_kb": "125.09 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250512_143515.jpg",
+    "filename": "2025/pc/20250512_143515.jpg",
+    "hash": "d906764d9ddae2ff7ae745ce8fb2c9a84b97d246a40be1542ccc301467be978a",
+    "description": "Two flow charts display the US government's receipts and outlays for April 2025 and cumulatively through the fiscal year, showing a surplus in April and a deficit for the fiscal year.",
+    "tags": [
+      "receipts",
+      "outlays",
+      "surplus",
+      "deficit",
+      "budget",
+      "taxes",
+      "government",
+      "spending",
+      "fiscal"
+    ],
+    "metadata": {
+      "dimensions": "951x1196",
+      "format": "JPEG",
+      "size_kb": "136.27 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250513_174442.png",
+    "filename": "2025/pc/20250513_174442.png",
+    "hash": "43cbfcc1b71aad3ff99b0e57543d806452185b374f095c20610e352dd2e08aca",
+    "description": "A bar chart displays the number of stocks reporting earnings before and after market close, over several days in April and May.",
+    "tags": [
+      "stocks",
+      "earnings",
+      "report",
+      "finance",
+      "market",
+      "data",
+      "chart",
+      "graph",
+      "business"
+    ],
+    "metadata": {
+      "dimensions": "1339x541",
+      "format": "PNG",
+      "size_kb": "13.29 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250514_221219.jpg",
+    "filename": "2025/pc/20250514_221219.jpg",
+    "hash": "7d1baf8d7df62bc1301647a2eaff8b81fbb2cfa58129d9b3692f379fd67781a9",
+    "description": "A matrix analyzes potential outcomes of Trump's tariff policies, showing scenarios where he maintains his stance versus retreating, and the resulting global and domestic impacts.",
+    "tags": [
+      "tariffs",
+      "trump",
+      "trade",
+      "global",
+      "politics",
+      "china",
+      "economy",
+      "consequences",
+      "negotiation",
+      "retreat"
+    ],
+    "metadata": {
+      "dimensions": "2048x1708",
+      "format": "JPEG",
+      "size_kb": "199.55 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250514_221348.jpg",
+    "filename": "2025/pc/20250514_221348.jpg",
+    "hash": "57180ee8da9325ae72e3946ad457435278bfd9a2c2894210fc7fa0830be0d3f5",
+    "description": "A line graph shows U.S. trade policy uncertainty easing from a record high, though still elevated.",
+    "tags": [
+      "trade",
+      "policy",
+      "uncertainty",
+      "economics",
+      "graph",
+      "bloomberg",
+      "us",
+      "measure"
+    ],
+    "metadata": {
+      "dimensions": "1290x729",
+      "format": "JPEG",
+      "size_kb": "73.24 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250517_165956.png",
+    "filename": "2025/pc/20250517_165956.png",
+    "hash": "1104627551b97198e7f9fb15ca34b98481e05d8a00a79571e86118d062baf1f5",
+    "description": "A line graph shows the cumulative free cash flow history of several pure electric vehicle makers since their inception.",
+    "tags": [
+      "ev",
+      "electric",
+      "vehicles",
+      "makers",
+      "cashflow",
+      "tesla",
+      "rivian",
+      "finance",
+      "market"
+    ],
+    "metadata": {
+      "dimensions": "736x887",
+      "format": "PNG",
+      "size_kb": "359.88 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250520_224155.png",
+    "filename": "2025/pc/20250520_224155.png",
+    "hash": "039a52998801fc6dca3438ee299d5050585469e24f46fab6e02224fbc77cacee",
+    "description": "A pixel art image depicts a Japanese-style temple at dusk, with red autumn trees in the foreground.",
+    "tags": [
+      "pixelart",
+      "japan",
+      "temple",
+      "trees",
+      "autumn",
+      "landscape",
+      "building",
+      "night"
+    ],
+    "metadata": {
+      "dimensions": "1769x2048",
+      "format": "PNG",
+      "size_kb": "71.29 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250521_064041.jpg",
+    "filename": "2025/pc/20250521_064041.jpg",
+    "hash": "ba9d337239ad66777b5cc4119e9fc9fa55df2c1dda60db59d0c00cbe5352f671",
+    "description": "A diagram illustrating reinforcement fine-tuning and prompt engineering techniques for optimizing large language models, incorporating latent space exploration and reward functions.",
+    "tags": [
+      "reinforcement",
+      "fine-tuning",
+      "prompt",
+      "engineering",
+      "language",
+      "model",
+      "latent",
+      "seek",
+      "reward"
+    ],
+    "metadata": {
+      "dimensions": "1658x655",
+      "format": "JPEG",
+      "size_kb": "138.30 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250522_133249.jpg",
+    "filename": "2025/pc/20250522_133249.jpg",
+    "hash": "bffbe6f208a1da5a83381b7349ec2c89059e1b12722603234f50a67737fece60",
+    "description": "A two-panel comic featuring stick figures interacting with a shoggoth, referencing its lack of self-awareness and its tendency to only work for tips.",
+    "tags": [
+      "shoggoth",
+      "meme",
+      "humor",
+      "lovecraft",
+      "money",
+      "tips",
+      "anthropomorphism",
+      "stickman"
+    ],
+    "metadata": {
+      "dimensions": "868x1112",
+      "format": "JPEG",
+      "size_kb": "96.59 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250527_144439.jpg",
+    "filename": "2025/pc/20250527_144439.jpg",
+    "hash": "1b2789403fd3b69c9e31fa2dcd6c5ff70a26a7e64662c683259e88d3061dd841",
+    "description": "The text presents a main hypothesis that a low-dimensional and well-structured bottleneck enables scaling deep reinforcement learning (RL) networks, and describes analyses to investigate its impact.",
+    "tags": [
+      "hypothesis",
+      "bottleneck",
+      "deep",
+      "rl",
+      "networks",
+      "scaling",
+      "analysis",
+      "performance"
+    ],
+    "metadata": {
+      "dimensions": "959x255",
+      "format": "JPEG",
+      "size_kb": "61.43 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250527_183653.jpg",
+    "filename": "2025/pc/20250527_183653.jpg",
+    "hash": "d014675c77bf08865fd16fe0b0abc9915123ef6269f4e372ddc976d052bcb448",
+    "description": "A graph showing California's energy supply by source throughout a day in May 2025.",
+    "tags": [
+      "energy",
+      "california",
+      "solar",
+      "batteries",
+      "wind",
+      "hydro",
+      "nuclear",
+      "natural gas",
+      "imports"
+    ],
+    "metadata": {
+      "dimensions": "867x1088",
+      "format": "JPEG",
+      "size_kb": "80.37 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250528_104134.png",
+    "filename": "2025/pc/20250528_104134.png",
+    "hash": "e4b5845a568f33759d940ce7a71383b6206190ac3a62e780f38ad658b7faa4af",
+    "description": "A speaker analyzes NVIDIA's competitive advantage in the robotics industry, highlighting their focus on simulation and software to deliver superior products.",
+    "tags": [
+      "nvidia",
+      "simulation",
+      "ai",
+      "robots",
+      "hardware",
+      "software",
+      "models",
+      "virtual",
+      "world",
+      "jensen"
+    ],
+    "metadata": {
+      "dimensions": "1369x856",
+      "format": "PNG",
+      "size_kb": "231.80 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250528_104136.png",
+    "filename": "2025/pc/20250528_104136.png",
+    "hash": "ca72e2acfad495a09baec7b0c65de22c71ab831fb017f94b2c56f954a1d3a443",
+    "description": "A discussion about the challenges of implementing AI-powered robots in industrial settings, focusing on the need for deterministic behavior and the economic considerations involved.",
+    "tags": [
+      "robots",
+      "ai",
+      "industrial",
+      "automation",
+      "determinism",
+      "manufacturing",
+      "technology",
+      "humanoids",
+      "cobot"
+    ],
+    "metadata": {
+      "dimensions": "1384x992",
+      "format": "PNG",
+      "size_kb": "254.86 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250528_104137.png",
+    "filename": "2025/pc/20250528_104137.png",
+    "hash": "95fe415d13f3b7fa1dfb9301560cbd59a39ce2f46b8272d39c36320e2b100949",
+    "description": "The text discusses the limitations of current AI, arguing that achieving artificial general intelligence (AGI) requires generating new mathematical truths, a capability that current AI lacks.",
+    "tags": [
+      "agi",
+      "mathematics",
+      "logic",
+      "computers",
+      "innovation",
+      "truth",
+      "language",
+      "models"
+    ],
+    "metadata": {
+      "dimensions": "1384x728",
+      "format": "PNG",
+      "size_kb": "200.21 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250528_104139.png",
+    "filename": "2025/pc/20250528_104139.png",
+    "hash": "b0b0acce4744905d6c0d8db88e2e8164f76b15a6aba49a58f8a13fb1f2b24026",
+    "description": "A discussion about the use of humanoid robots for welding tasks, focusing on the challenges and potential of automating the process to improve efficiency and repeatability.",
+    "tags": [
+      "welding",
+      "robots",
+      "automation",
+      "manufacturing",
+      "production",
+      "reprogramming",
+      "humanoid",
+      "deterministic",
+      "industry",
+      "ai"
+    ],
+    "metadata": {
+      "dimensions": "1408x682",
+      "format": "PNG",
+      "size_kb": "179.89 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250528_104522.jpg",
+    "filename": "2025/pc/20250528_104522.jpg",
+    "hash": "5a0930f3daf2a3c96e336f280c23b7e2046981f9bec5bab39ebe6fe561913722",
+    "description": "A diagram illustrating the F-35 Joint Strike Fighter program, highlighting its various components, international partners, and logistical aspects.",
+    "tags": [
+      "f-35",
+      "joint",
+      "strike",
+      "fighter",
+      "program",
+      "international",
+      "military",
+      "aircraft"
+    ],
+    "metadata": {
+      "dimensions": "960x720",
+      "format": "JPEG",
+      "size_kb": "117.32 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250528_104545.jpg",
+    "filename": "2025/pc/20250528_104545.jpg",
+    "hash": "77f13bef4be31c783350ba75106c93a12aab962428b395c385b7d9c1a0731513",
+    "description": "A diagram illustrating a model's architecture for maintaining consistent long-term memory across multiple conversations.",
+    "tags": [
+      "memory",
+      "llm",
+      "conversation",
+      "chatbot",
+      "extraction",
+      "update",
+      "graph",
+      "database",
+      "model"
+    ],
+    "metadata": {
+      "dimensions": "1200x1354",
+      "format": "JPEG",
+      "size_kb": "198.67 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250531_213335.jpg",
+    "filename": "2025/pc/20250531_213335.jpg",
+    "hash": "314ec713d3f124eb1a39897ca2f992489b814b3c273d376cc1df5efcf57efa03",
+    "description": "A line graph charts the plummeting internal rate of return (IRR) for pharmaceutical R&D over thirty years, highlighting the impact of COVID-19 and the GLP-1 boom.",
+    "tags": [
+      "pharmaceutical",
+      "r&d",
+      "returns",
+      "decline",
+      "investment",
+      "covid-19",
+      "glp-1",
+      "capital",
+      "cost"
+    ],
+    "metadata": {
+      "dimensions": "3600x2400",
+      "format": "JPEG",
+      "size_kb": "369.17 KB"
+    }
+  },
+  {
+    "path": "2025/pc/20250531_213341.png",
+    "filename": "2025/pc/20250531_213341.png",
+    "hash": "9747daff887d23cb9fa104beaefcfc3b56392317a9c1dd480b1e4d66c91ec593",
+    "description": "A screenshot shows a writing style prompt designed to help ChatGPT generate more natural-sounding text.",
+    "tags": [
+      "chatgpt",
+      "prompt",
+      "writing",
+      "style",
+      "guide",
+      "tips",
+      "language",
+      "natural"
+    ],
+    "metadata": {
+      "dimensions": "756x641",
+      "format": "PNG",
+      "size_kb": "135.66 KB"
+    }
+  },
+  {
     "path": "2025/pc/2143a669-8aa1-48f1-99dc-0a9d94bd5d81_1600x1045.jpg",
     "filename": "2025/pc/2143a669-8aa1-48f1-99dc-0a9d94bd5d81_1600x1045.jpg",
     "hash": "af6eb0077067b025f69599001c744f969a329e59ab9895520fd346b0d3bb583f",
@@ -2306,6 +2719,28 @@
       "dimensions": "1600x1045",
       "format": "JPEG",
       "size_kb": "136.63 KB"
+    }
+  },
+  {
+    "path": "2025/pc/302837092-54a2d76c-b07e-49e7-b4ce-fc45667360a1.png",
+    "filename": "2025/pc/302837092-54a2d76c-b07e-49e7-b4ce-fc45667360a1.png",
+    "hash": "71f5efce94f123211ea1b7392e9644f953ae158ee10a3c4d28f522a23b9387b8",
+    "description": "A flowchart illustrating the architecture of a question answering system, encompassing query construction, translation, routing, indexing, retrieval, and generation phases.",
+    "tags": [
+      "question",
+      "retrieval",
+      "indexing",
+      "generation",
+      "database",
+      "routing",
+      "ranking",
+      "translation",
+      "query"
+    ],
+    "metadata": {
+      "dimensions": "1586x1202",
+      "format": "PNG",
+      "size_kb": "615.53 KB"
     }
   },
   {
@@ -2503,6 +2938,28 @@
       "dimensions": "811x681",
       "format": "PNG",
       "size_kb": "210.61 KB"
+    }
+  },
+  {
+    "path": "2025/pc/average-salary-by-state-in-2025_site.jpg",
+    "filename": "2025/pc/average-salary-by-state-in-2025_site.jpg",
+    "hash": "ac482a2d5d84f4bcd8bdbb0c476daf04fb5f8eab5ba34db21b4f36dfd4d60554",
+    "description": "A map of the United States showing the average hourly earnings by state in March 2025.",
+    "tags": [
+      "salary",
+      "map",
+      "usa",
+      "2025",
+      "earnings",
+      "state",
+      "average",
+      "hourly",
+      "wages"
+    ],
+    "metadata": {
+      "dimensions": "1200x1565",
+      "format": "JPEG",
+      "size_kb": "1194.21 KB"
     }
   },
   {
@@ -2763,6 +3220,29 @@
     }
   },
   {
+    "path": "2025/pc/file-vgbchtevnv9rzzfnta6v2f.png",
+    "filename": "2025/pc/file-vgbchtevnv9rzzfnta6v2f.png",
+    "hash": "17be57ab452d521481f5de8c89490a97aaeae918d8103066220d3c295cd6c298",
+    "description": "A flowchart depicts the internal reasoning process of Claude 3.7, showing how prompt context and alignment protocols influence output generation through user and human framing.",
+    "tags": [
+      "claude",
+      "reasoning",
+      "prompt",
+      "alignment",
+      "framing",
+      "user",
+      "human",
+      "output",
+      "generation",
+      "context"
+    ],
+    "metadata": {
+      "dimensions": "1979x1193",
+      "format": "PNG",
+      "size_kb": "106.56 KB"
+    }
+  },
+  {
     "path": "2025/pc/generated_image_april_02_2025_-_7_54am.jpeg",
     "filename": "2025/pc/generated_image_april_02_2025_-_7_54am.jpeg",
     "hash": "d8ad4673832425dc61b456e9ef24363e7d3127ce45026cd68a2b448e067f7fdc",
@@ -2844,6 +3324,48 @@
       "dimensions": "1024x1024",
       "format": "JPEG",
       "size_kb": "79.08 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gijbbz0wyaenknc.jpeg",
+    "filename": "2025/pc/gijbbz0wyaenknc.jpeg",
+    "hash": "11b8436bcc2bf272bda8b2f8b626c7a9f3ef20c0acba11a9c98e781020d6aad3",
+    "description": "An artist's rendering of a future Earth covered in solar panels and data centers, accompanied by a quote about the importance of international cooperation in AI development.",
+    "tags": [
+      "earth",
+      "future",
+      "agi",
+      "solar",
+      "panels",
+      "datacenters",
+      "ai",
+      "technology"
+    ],
+    "metadata": {
+      "dimensions": "1478x1848",
+      "format": "JPEG",
+      "size_kb": "312.78 KB"
+    }
+  },
+  {
+    "path": "2025/pc/giooubjxyaayqzt.png",
+    "filename": "2025/pc/giooubjxyaayqzt.png",
+    "hash": "03810413414d4340fd21a3ada5215bc94e77d4a3ae723fad0bb9b546b198345b",
+    "description": "A graph comparing the predicted impact of events by AI models to the actual impact, showing a divergence in predicted versus actual risk.",
+    "tags": [
+      "probability",
+      "impact",
+      "ai",
+      "models",
+      "reality",
+      "risk",
+      "progression",
+      "event"
+    ],
+    "metadata": {
+      "dimensions": "881x813",
+      "format": "PNG",
+      "size_kb": "44.45 KB"
     }
   },
   {
@@ -2992,6 +3514,28 @@
       "dimensions": "557x678",
       "format": "PNG",
       "size_kb": "140.41 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gohrkambwaatqw7.jpeg",
+    "filename": "2025/pc/gohrkambwaatqw7.jpeg",
+    "hash": "510b929d7eab9c87f528eea91b7484683eca48aefeef377d7d73d849934160a7",
+    "description": "A diagram illustrating the ADK Runtime's event loop, showcasing the interaction between user input, a runner component, execution logic, services, and storage.",
+    "tags": [
+      "runtime",
+      "event",
+      "loop",
+      "runner",
+      "services",
+      "storage",
+      "agent",
+      "execution",
+      "adk"
+    ],
+    "metadata": {
+      "dimensions": "1612x906",
+      "format": "JPEG",
+      "size_kb": "99.72 KB"
     }
   },
   {
@@ -3385,6 +3929,179 @@
       "dimensions": "775x733",
       "format": "PNG",
       "size_kb": "38.12 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gr-krakxgaa7nuq.jpeg",
+    "filename": "2025/pc/gr-krakxgaa7nuq.jpeg",
+    "hash": "e49788db0bd33eb91f4d509570a203c2e2b58151ff80e82ebc35580eef13b498",
+    "description": "A diagram illustrating the architecture of an AI-first system with layers for custom and third-party apps, platform interfaces, middleware, and a backend database.",
+    "tags": [
+      "ai",
+      "salesforce",
+      "apps",
+      "platform",
+      "middleware",
+      "database",
+      "workflows",
+      "agent",
+      "lightning"
+    ],
+    "metadata": {
+      "dimensions": "964x960",
+      "format": "JPEG",
+      "size_kb": "65.87 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gr-msjtxkaeou1h.jpeg",
+    "filename": "2025/pc/gr-msjtxkaeou1h.jpeg",
+    "hash": "ff450ce4fb4a84d1c6e3d3200d379be3fbcc59e74358047163b4111d67daba96",
+    "description": "A diagram illustrating a system architecture where programmers using various languages interact with Qdrant to process data for a deep learning model that classifies images of animals.",
+    "tags": [
+      "qdrant",
+      "vectors",
+      "deeplearning",
+      "database",
+      "clients",
+      "programmers",
+      "ml",
+      "python"
+    ],
+    "metadata": {
+      "dimensions": "1280x725",
+      "format": "JPEG",
+      "size_kb": "156.74 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gradfxnbaai7wjg.jpeg",
+    "filename": "2025/pc/gradfxnbaai7wjg.jpeg",
+    "hash": "41681f74bb62fbff17884d7d39e361533ba3127da30f6b082fdd66e44d3c44fa",
+    "description": "A graph showing the trend of AI model horizon versus release date on a log scale, with different benchmarks and their doubling rates.",
+    "tags": [
+      "ai",
+      "models",
+      "horizon",
+      "release",
+      "date",
+      "trend",
+      "doubling",
+      "log",
+      "scale"
+    ],
+    "metadata": {
+      "dimensions": "2398x1598",
+      "format": "JPEG",
+      "size_kb": "358.98 KB"
+    }
+  },
+  {
+    "path": "2025/pc/grjuyk7wcaa3dhs.jpeg",
+    "filename": "2025/pc/grjuyk7wcaa3dhs.jpeg",
+    "hash": "dbb9f3d2bc1d888d81ecfd0bacbb0f18250f56b197d49c3ac98fe2192bc453d6",
+    "description": "A diagram illustrating a framework for a global knowledge environment powered by LLMs, focusing on sensemaking through various processes and data structures.",
+    "tags": [
+      "sensemaking",
+      "llm",
+      "knowledge",
+      "model",
+      "framework",
+      "synthesis",
+      "environment",
+      "information",
+      "semantic"
+    ],
+    "metadata": {
+      "dimensions": "1600x1091",
+      "format": "JPEG",
+      "size_kb": "263.96 KB"
+    }
+  },
+  {
+    "path": "2025/pc/grvnpilwyaatzrn.jpeg",
+    "filename": "2025/pc/grvnpilwyaatzrn.jpeg",
+    "hash": "82812ccb33aa81fdc2b0769c1858a63f512f8b97fbcb4d01a24d4bd5cfa0d3a7",
+    "description": "A two-by-two matrix categorizes individuals based on their levels of agency and consciousness, identifying four archetypes: Agentic Sages, Agentic Fools, Spiritual Bypassers, and NPCs.",
+    "tags": [
+      "agency",
+      "consciousness",
+      "sages",
+      "fools",
+      "bypassers",
+      "npcs",
+      "awareness",
+      "potential"
+    ],
+    "metadata": {
+      "dimensions": "1365x1360",
+      "format": "JPEG",
+      "size_kb": "119.09 KB"
+    }
+  },
+  {
+    "path": "2025/pc/grzlgdmakaaa8ay.jpeg",
+    "filename": "2025/pc/grzlgdmakaaa8ay.jpeg",
+    "hash": "f9e252a3cb3ba50526348881500c0d7ec70a80765eee19f6a4433ed1aa213444",
+    "description": "A pyramid diagram illustrating the layered architecture of an AI system, prioritizing system specification and architecture over incidental details like specific LLMs or prompt engineering.",
+    "tags": [
+      "ai",
+      "system",
+      "architecture",
+      "llm",
+      "design",
+      "development",
+      "strategy",
+      "evaluation",
+      "specification",
+      "iteration"
+    ],
+    "metadata": {
+      "dimensions": "1846x692",
+      "format": "JPEG",
+      "size_kb": "144.11 KB"
+    }
+  },
+  {
+    "path": "2025/pc/humanoid-thumb.jpg",
+    "filename": "2025/pc/humanoid-thumb.jpg",
+    "hash": "37529858ed5c5f8f1ac8d40d812c46f9b0fd2926f51f09aab319355d8283c9ab",
+    "description": "A chart comparing the specifications of ten different humanoid robots.",
+    "tags": [
+      "robots",
+      "humanoid",
+      "ai",
+      "technology",
+      "comparison",
+      "size",
+      "speed"
+    ],
+    "metadata": {
+      "dimensions": "640x360",
+      "format": "JPEG",
+      "size_kb": "33.29 KB"
+    }
+  },
+  {
+    "path": "2025/pc/image21.png",
+    "filename": "2025/pc/image21.png",
+    "hash": "eed6cb4a4c1da3bd554aa27cfef5fcf0a12c4b5ff15189a324b5b55203bb353b",
+    "description": "A diagram showcasing an all-in-one machine learning platform, integrating various tools and frameworks for data processing, model development, and deployment.",
+    "tags": [
+      "machine",
+      "learning",
+      "platform",
+      "mlops",
+      "ai",
+      "development",
+      "deployment",
+      "tools",
+      "framework"
+    ],
+    "metadata": {
+      "dimensions": "1580x842",
+      "format": "PNG",
+      "size_kb": "346.02 KB"
     }
   },
   {
