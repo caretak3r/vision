@@ -3954,6 +3954,28 @@
     }
   },
   {
+    "path": "2025/pc/gr-krakxgaa7nuq_1.jpeg",
+    "filename": "2025/pc/gr-krakxgaa7nuq_1.jpeg",
+    "hash": "e49788db0bd33eb91f4d509570a203c2e2b58151ff80e82ebc35580eef13b498",
+    "description": "A diagram illustrating the architecture of an AI-first system with layers for custom and third-party apps, platform interfaces, middleware, and a backend database.",
+    "tags": [
+      "ai",
+      "salesforce",
+      "apps",
+      "platform",
+      "middleware",
+      "database",
+      "workflows",
+      "agent",
+      "lightning"
+    ],
+    "metadata": {
+      "dimensions": "964x960",
+      "format": "JPEG",
+      "size_kb": "65.87 KB"
+    }
+  },
+  {
     "path": "2025/pc/gr-msjtxkaeou1h.jpeg",
     "filename": "2025/pc/gr-msjtxkaeou1h.jpeg",
     "hash": "ff450ce4fb4a84d1c6e3d3200d379be3fbcc59e74358047163b4111d67daba96",
@@ -4063,6 +4085,199 @@
     }
   },
   {
+    "path": "2025/pc/gscj2qcwoaaqgnm.jpeg",
+    "filename": "2025/pc/gscj2qcwoaaqgnm.jpeg",
+    "hash": "ca0d38e2d0bf95cea1dcc79e149bf105ca4bee8c924b07c73d0b6a03397fef3a",
+    "description": "A diagram illustrating a multi-objective optimization framework for question-answering, incorporating various LLMs, retrieval methods, and a Pareto pruning early stopping mechanism.",
+    "tags": [
+      "pareto",
+      "optimization",
+      "multi-objective",
+      "question-answering",
+      "evaluation",
+      "rag",
+      "llm",
+      "sampling"
+    ],
+    "metadata": {
+      "dimensions": "1999x906",
+      "format": "JPEG",
+      "size_kb": "153.53 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gsd_mt3w4aaj4.png",
+    "filename": "2025/pc/gsd_mt3w4aaj4.png",
+    "hash": "a63e62e12e6c4b2b90aeb6fe278b1ed875194474b3da0876c1737f04caca2e44",
+    "description": "A Python code snippet defining a multi-hop program within the DSPy framework, utilizing ChainOfThought modules for query generation and note appending.",
+    "tags": [
+      "python",
+      "programming",
+      "code",
+      "dsp",
+      "multi-hop",
+      "class",
+      "function",
+      "evaluation"
+    ],
+    "metadata": {
+      "dimensions": "889x535",
+      "format": "PNG",
+      "size_kb": "94.24 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gsdzxucb0amv4gb.jpeg",
+    "filename": "2025/pc/gsdzxucb0amv4gb.jpeg",
+    "hash": "c34fcab321e80e6facfc3370c21cd26ec64b297f4df0f9837d6612f323f7c959",
+    "description": "A diagram illustrates a product-oriented software development lifecycle (SDLC) for AI, highlighting the \"commodity-free\" aspects and the crucial role of evaluations in market entry.",
+    "tags": [
+      "ai",
+      "engineering",
+      "sdlc",
+      "ml",
+      "product",
+      "development",
+      "platform",
+      "commodity"
+    ],
+    "metadata": {
+      "dimensions": "952x896",
+      "format": "JPEG",
+      "size_kb": "128.55 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gsn8u8ewyaajkeg.jpeg",
+    "filename": "2025/pc/gsn8u8ewyaajkeg.jpeg",
+    "hash": "3e2c3870973c17a5147b7398a659376251df0a27e128e2b040d220bd6987960d",
+    "description": "A complex diagram illustrating the interconnected business ventures and financial relationships of the Trump family, including various LLCs, cryptocurrencies, and NFTs.",
+    "tags": [
+      "trump",
+      "family",
+      "business",
+      "cryptocurrency",
+      "nft",
+      "llc",
+      "organization",
+      "finance",
+      "memecoin",
+      "trademarks"
+    ],
+    "metadata": {
+      "dimensions": "4096x3132",
+      "format": "JPEG",
+      "size_kb": "673.49 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gtapgqzwyaedqws.jpeg",
+    "filename": "2025/pc/gtapgqzwyaedqws.jpeg",
+    "hash": "1103ac5b864681517c77d0cc085fe556b5a393d7dc0f6d6b476bc2b5cdc810c2",
+    "description": "A graphic illustrates the scale of anthropogenic mass, showing that in 2020, human-made mass exceeded the total weight of all global living biomass.",
+    "tags": [
+      "anthropogenic",
+      "mass",
+      "biomass",
+      "concrete",
+      "bricks",
+      "aggregates",
+      "metals",
+      "asphalt",
+      "human"
+    ],
+    "metadata": {
+      "dimensions": "1200x3407",
+      "format": "JPEG",
+      "size_kb": "545.37 KB"
+    }
+  },
+  {
+    "path": "2025/pc/guce8_zw4aaavt7.jpeg",
+    "filename": "2025/pc/guce8_zw4aaavt7.jpeg",
+    "hash": "9bafd4ee1de84a9a155773620927fa642faaff81999f74fd129547ff7a029113",
+    "description": "A satirical cartoon depicting differing perspectives on the US relationship with Iran, contrasting inaction with interventionist action.",
+    "tags": [
+      "iran",
+      "trump",
+      "america",
+      "politics",
+      "cartoon",
+      "satire",
+      "war",
+      "deal",
+      "air strike"
+    ],
+    "metadata": {
+      "dimensions": "1063x541",
+      "format": "JPEG",
+      "size_kb": "82.44 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gvvybpvxmaalo8t.jpeg",
+    "filename": "2025/pc/gvvybpvxmaalo8t.jpeg",
+    "hash": "72bbced05b65eae328782b249e169908788897ca54f475b5917595ff827c5173",
+    "description": "A quote about the eventual economic, political, and moral costs of ignoring fiscal reality and excessive borrowing.",
+    "tags": [
+      "fiscal",
+      "reality",
+      "debt",
+      "borrowing",
+      "costs",
+      "economic",
+      "political",
+      "moral"
+    ],
+    "metadata": {
+      "dimensions": "1200x1200",
+      "format": "JPEG",
+      "size_kb": "569.81 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gwjphcoxyaizhd6.jpeg",
+    "filename": "2025/pc/gwjphcoxyaizhd6.jpeg",
+    "hash": "4325222d0bb6053c9deb4209ea368ad5c8808886e1a72b23c7843e26372e094f",
+    "description": "The image uses a two-by-two grid to illustrate the difference in perspective between someone viewing \"true but not yet mainstream\" ideas and someone viewing them from a purely rational standpoint.",
+    "tags": [
+      "perspective",
+      "rational",
+      "nonsensical",
+      "mainstream",
+      "truth",
+      "viewpoint",
+      "crazy"
+    ],
+    "metadata": {
+      "dimensions": "1868x1790",
+      "format": "JPEG",
+      "size_kb": "136.61 KB"
+    }
+  },
+  {
+    "path": "2025/pc/hr-diag-instability-stripsvg.png",
+    "filename": "2025/pc/hr-diag-instability-stripsvg.png",
+    "hash": "36b348cb1e1ba4cc0b28583bdf48aa15136d3ef5ace3796792bf313a5cb822d7",
+    "description": "A Hertzsprung-Russell diagram showing the instability strip where pulsating variable stars are located.",
+    "tags": [
+      "stars",
+      "instability",
+      "strip",
+      "cepheids",
+      "giants",
+      "dwarfs",
+      "magnitude",
+      "variables",
+      "hr"
+    ],
+    "metadata": {
+      "dimensions": "1920x2195",
+      "format": "PNG",
+      "size_kb": "398.49 KB"
+    }
+  },
+  {
     "path": "2025/pc/humanoid-thumb.jpg",
     "filename": "2025/pc/humanoid-thumb.jpg",
     "hash": "37529858ed5c5f8f1ac8d40d812c46f9b0fd2926f51f09aab319355d8283c9ab",
@@ -4102,6 +4317,28 @@
       "dimensions": "1580x842",
       "format": "PNG",
       "size_kb": "346.02 KB"
+    }
+  },
+  {
+    "path": "2025/pc/image_0c8b45.webp",
+    "filename": "2025/pc/image_0c8b45.webp",
+    "hash": "49eb29c257571ee8e9e0a21c1046f895a891a34ab5e721f3a569594ec50e0670",
+    "description": "A flowchart illustrates a machine learning model that predicts battery anode failure by analyzing early-stage behavior, improving upon traditional post-mortem analysis methods.",
+    "tags": [
+      "battery",
+      "failure",
+      "prediction",
+      "machine learning",
+      "anode",
+      "lithium",
+      "modeling",
+      "analysis",
+      "pre-mortem"
+    ],
+    "metadata": {
+      "dimensions": "700x305",
+      "format": "WEBP",
+      "size_kb": "102.97 KB"
     }
   },
   {
@@ -4189,6 +4426,28 @@
       "dimensions": "835x471",
       "format": "PNG",
       "size_kb": "84.18 KB"
+    }
+  },
+  {
+    "path": "2025/pc/o7ojvlurehxe1.jpeg",
+    "filename": "2025/pc/o7ojvlurehxe1.jpeg",
+    "hash": "a0fd29ae7466f90d6e9e5288fa6d091e1df0d4b038eea03e9b9518fd12acbb38",
+    "description": "A table compares the specific energy, volumetric energy, fast-charge time, cycle life, and cost of early and modern lithium-ion batteries with projections for QuantumScape's solid-state batteries.",
+    "tags": [
+      "battery",
+      "ev",
+      "lithium",
+      "energy",
+      "density",
+      "cost",
+      "charge",
+      "lifespan",
+      "quantamscape"
+    ],
+    "metadata": {
+      "dimensions": "2097x382",
+      "format": "JPEG",
+      "size_kb": "203.47 KB"
     }
   },
   {
