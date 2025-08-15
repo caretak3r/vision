@@ -1,6 +1,6 @@
 # Vision Image Index
 
-This README automatically indexes images found in the repository. Last updated: 2025-08-15 14:24:02 UTC
+This README automatically indexes images found in the repository. Last updated: 2025-08-15 15:12:31 UTC
 
 | Image | Filename | Description | Tags | Metadata | Hash |
 |---|---|---|---|---|---|
@@ -128,6 +128,279 @@ This README automatically indexes images found in the repository. Last updated: 
 | ![20250528_104545.jpg](2025/pc/20250528_104545.jpg?raw=true) | `2025/pc/20250528_104545.jpg` | A diagram illustrating a model's architecture for maintaining consistent long-term memory across multiple conversations. | `memory,llm,conversation,chatbot,extraction,update,graph,database,model` | Dims: 1200x1354 <br> Format: JPEG <br> Size: 198.67 KB | `77f13bef4be3...` |
 | ![20250531_213335.jpg](2025/pc/20250531_213335.jpg?raw=true) | `2025/pc/20250531_213335.jpg` | A line graph charts the plummeting internal rate of return (IRR) for pharmaceutical R&D over thirty years, highlighting the impact of COVID-19 and the GLP-1 boom. | `pharmaceutical,r&d,returns,decline,investment,covid-19,glp-1,capital,cost` | Dims: 3600x2400 <br> Format: JPEG <br> Size: 369.17 KB | `314ec713d3f1...` |
 | ![20250531_213341.png](2025/pc/20250531_213341.png?raw=true) | `2025/pc/20250531_213341.png` | A screenshot shows a writing style prompt designed to help ChatGPT generate more natural-sounding text. | `chatgpt,prompt,writing,style,guide,tips,language,natural` | Dims: 756x641 <br> Format: PNG <br> Size: 135.66 KB | `9747daff887d...` |
+| ![20250722_085753.jpg](2025/pc/20250722_085753.jpg?raw=true) | `2025/pc/20250722_085753.jpg` | A diagram illustrates the formation of dendrites in a high-energy-density battery during normal charge-discharge cycles and the subsequent short-circuiting. | `battery, dendrites, lithium, anode, cathode, short-circuit, separator, high-energy, pulses, diagram` | Dims: 480x320 <br> Format: JPEG <br> Size: 30.13 KB | `fbb3d3060bee...` |
+| ![20250722_092334.jpg](2025/pc/20250722_092334.jpg?raw=true) | `2025/pc/20250722_092334.jpg` | A row of black server racks densely packed with network equipment and color-coded cables is shown in a data center. | `server,rack,cables,data,center,network,wiring,technology,hardware` | Dims: 3072x4096 <br> Format: JPEG <br> Size: 2300.61 KB | `b1f9440c9e4d...` |
+| ![20250722_092337.jpg](2025/pc/20250722_092337.jpg?raw=true) | `2025/pc/20250722_092337.jpg` | An aerial view shows a large industrial complex under construction in a rural area, with numerous buildings and parking lots visible. | `construction, aerial, industrial, buildings, factory, texas, warehouse, development` | Dims: 4096x3072 <br> Format: JPEG <br> Size: 2659.67 KB | `9ec49db786e5...` |
+| ![20250722_092441.jpg](2025/pc/20250722_092441.jpg?raw=true) | `2025/pc/20250722_092441.jpg` | Oscar Health announced a $228 million net loss for the second quarter of 2025, driven by higher than expected ACA Marketplace risk scores. | `oscar,health,insurance,financial,loss,market,healthcare,technology,company` | Dims: 1668x1657 <br> Format: JPEG <br> Size: 488.24 KB | `4ee7e794ff18...` |
+| ![20250722_221753.jpg](2025/pc/20250722_221753.jpg?raw=true) | `2025/pc/20250722_221753.jpg` | A stylized text-based image depicting a graph showing exponential growth, alongside philosophical questions about the potential arrival of artificial general intelligence. | `agi, artificial intelligence, future, technology, exponential, graph, prediction, choices` | Dims: 709x1200 <br> Format: JPEG <br> Size: 51.05 KB | `c2d4b22f921a...` |
+| ![20250723_191104.jpg](2025/pc/20250723_191104.jpg?raw=true) | `2025/pc/20250723_191104.jpg` | Two charts from J.P. Morgan show high and low volatility crowding levels in the S&P 500, with current levels near all-time highs and recent market events highlighted. | `crowding, beta, volatility, s&p500, market, jpmorgan, recession, chart, analysis, finance` | Dims: 1290x936 <br> Format: JPEG <br> Size: 157.40 KB | `1e0c3e039354...` |
+| ![20250724_082816.jpg](2025/pc/20250724_082816.jpg?raw=true) | `2025/pc/20250724_082816.jpg` | A table comparing various large language models (LLMs) based on features, intelligence, price, output tokens per second, and latency. | `ai, models, llm, openai, google, price, tokens, latency, context` | Dims: 1080x1080 <br> Format: JPEG <br> Size: 125.49 KB | `f7b0124d9221...` |
+| ![20250724_161649.jpg](2025/pc/20250724_161649.jpg?raw=true) | `2025/pc/20250724_161649.jpg` | Donald Trump and Rudy Giuliani, wearing hard hats, stand in a building under construction during a live news segment. | `trump, giuliani, construction, hardhats, washington, dc, live, news` | Dims: 1920x1038 <br> Format: JPEG <br> Size: 195.13 KB | `242b297863af...` |
+| ![20250727_042017.jpg](2025/pc/20250727_042017.jpg?raw=true) | `2025/pc/20250727_042017.jpg` | A system check result shows a "matched" destructive system cleaner rule, detecting prompts instructing AI agents to wipe local and cloud resources using filesystem and AWS CLI tools. | `aws,cli,bash,delete,system,cleaner,wipe,matched,rule` | Dims: 1962x1060 <br> Format: JPEG <br> Size: 178.92 KB | `843c32307dfd...` |
+| ![20250727_042020.jpg](2025/pc/20250727_042020.jpg?raw=true) | `2025/pc/20250727_042020.jpg` | This code snippet describes a rule to detect prompts instructing AI agents to delete local and cloud resources using filesystem and AWS CLI tools. | `ai, security, aws, deletion, system, cloud, critical, wipe, prompt` | Dims: 1912x998 <br> Format: JPEG <br> Size: 150.88 KB | `436548ba9483...` |
+| ![20250728_180559.jpg](2025/pc/20250728_180559.jpg?raw=true) | `2025/pc/20250728_180559.jpg` | A Warren Buffett-styled investment checklist presents a series of questions to assess the viability of a business investment. | `investment, checklist, warren buffet, business, tenets, analysis, questions, evaluation, finance` | Dims: 676x355 <br> Format: JPEG <br> Size: 56.24 KB | `4ae77c817061...` |
+| ![20250728_200200.jpg](2025/pc/20250728_200200.jpg?raw=true) | `2025/pc/20250728_200200.jpg` | A graph shows a significant decrease in entry-level tech hiring in 2024, alongside text discussing AI's impact on job displacement, particularly for new graduates. | `ai, jobs, hiring, tech, graduates, market, entry-level, 2024, automation` | Dims: 901x845 <br> Format: JPEG <br> Size: 112.36 KB | `357a817ba40d...` |
+| ![20250729_123204.jpg](2025/pc/20250729_123204.jpg?raw=true) | `2025/pc/20250729_123204.jpg` | A screenshot of a conversation expressing concern that future AI models could manipulate vulnerable users into believing false information, leading to harmful consequences. | `ai,models,therapy,malicious,psychosis,dependency,suggestions,vulnerable` | Dims: 864x956 <br> Format: JPEG <br> Size: 127.47 KB | `14452a5cf5bb...` |
+| ![20250802_100713.png](2025/pc/20250802_100713.png?raw=true) | `2025/pc/20250802_100713.png` | The image displays three tables showing unemployment rates and year-over-year changes by age group and educational attainment. | `unemployment, age, education, rate, percent, change, attainment, data` | Dims: 867x612 <br> Format: PNG <br> Size: 87.85 KB | `5201ade03fdd...` |
+| ![20250802_100715.png](2025/pc/20250802_100715.png?raw=true) | `2025/pc/20250802_100715.png` | The image displays four tables showing changes in labor force composition, employment, participation, and unemployment by age and educational attainment. | `labor,force,employment,education,age,change,unemployment,composition` | Dims: 933x881 <br> Format: PNG <br> Size: 95.09 KB | `72ddc259c305...` |
+| ![20250802_100720.png](2025/pc/20250802_100720.png?raw=true) | `2025/pc/20250802_100720.png` | A bar chart displays the contributions to changes in employment between July 2024 and July 2025, broken down by age group, sex, and the factors of participation, population, and unemployment. | `employment, change, age, sex, participation, population, unemployment, july, 2024, 2025` | Dims: 1138x697 <br> Format: PNG <br> Size: 72.31 KB | `26998a75efee...` |
+| ![20250802_100723.png](2025/pc/20250802_100723.png?raw=true) | `2025/pc/20250802_100723.png` | A stacked bar chart displays the contributions to employment change by age and sex between July 2024 and July 2025, broken down by participation, population, and unemployment. | `employment, change, age, sex, participation, population, unemployment, graph, data` | Dims: 1132x692 <br> Format: PNG <br> Size: 47.14 KB | `6cee84bb11c3...` |
+| ![20250802_100725.png](2025/pc/20250802_100725.png?raw=true) | `2025/pc/20250802_100725.png` | The image shows time series plots of the change in labor force participation rate (LFPR) since January 2020, categorized by age group and gender (men and women). | `lfpr,age,gender,time-series,employment,older,younger,men,women,change` | Dims: 1126x805 <br> Format: PNG <br> Size: 98.14 KB | `080ffe50888e...` |
+| ![20250802_100727.png](2025/pc/20250802_100727.png?raw=true) | `2025/pc/20250802_100727.png` | A stacked bar chart visualizing economic sector trends from 2022 to 2025, broken down by sub-sectors and showing cumulative totals. | `construction, manufacturing, retail, services, wholesale, economic, trends, data, visualization, time-series` | Dims: 1123x1852 <br> Format: PNG <br> Size: 51.33 KB | `de3b1514e1ec...` |
+| ![20250803_091701.jpg](2025/pc/20250803_091701.jpg?raw=true) | `2025/pc/20250803_091701.jpg` | The image shows two charts depicting the change in enterprise LLM API market share over time and the coding market share by different companies. | `llm, api, market, share, usage, anthropic, openai, google, meta` | Dims: 2166x1178 <br> Format: JPEG <br> Size: 111.42 KB | `68414d847c94...` |
+| ![20250803_091715.jpg](2025/pc/20250803_091715.jpg?raw=true) | `2025/pc/20250803_091715.jpg` | A bar graph displays the estimated global monthly active desktop user share of several large language models (LLMs) from February 24th to April 25th, 2025, showing ChatGPT in the lead. | `llm, usershare, chatgpt, deepseek, google, market, share, desktop` | Dims: 1191x891 <br> Format: JPEG <br> Size: 108.92 KB | `e8bbc7bbbc79...` |
+| ![20250803_091718.jpg](2025/pc/20250803_091718.jpg?raw=true) | `2025/pc/20250803_091718.jpg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 46
+}
+] | `Error: Max Retries` | Dims: 1184x891 <br> Format: JPEG <br> Size: 91.17 KB | `5f85b95a6bdb...` |
+| ![20250803_091720.jpg](2025/pc/20250803_091720.jpg?raw=true) | `2025/pc/20250803_091720.jpg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+] | `Error: Max Retries` | Dims: 1187x894 <br> Format: JPEG <br> Size: 117.91 KB | `a47521eb8277...` |
+| ![20250803_091721.jpg](2025/pc/20250803_091721.jpg?raw=true) | `2025/pc/20250803_091721.jpg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 32
+}
+] | `Error: Max Retries` | Dims: 1181x894 <br> Format: JPEG <br> Size: 71.76 KB | `2cc81b7836af...` |
+| ![20250805_062643.png](2025/pc/20250805_062643.png?raw=true) | `2025/pc/20250805_062643.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+] | `Error: Max Retries` | Dims: 1445x451 <br> Format: PNG <br> Size: 53.37 KB | `98df2ae9e1e4...` |
+| ![20250806_203421.png](2025/pc/20250806_203421.png?raw=true) | `2025/pc/20250806_203421.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+] | `Error: Max Retries` | Dims: 1538x348 <br> Format: PNG <br> Size: 47.04 KB | `60de38cb5f4c...` |
+| ![20250806_203822.png](2025/pc/20250806_203822.png?raw=true) | `2025/pc/20250806_203822.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 37
+}
+] | `Error: Max Retries` | Dims: 1312x1370 <br> Format: PNG <br> Size: 145.60 KB | `af0885d5b646...` |
+| ![20250806_233007.png](2025/pc/20250806_233007.png?raw=true) | `2025/pc/20250806_233007.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+] | `Error: Max Retries` | Dims: 683x261 <br> Format: PNG <br> Size: 67.58 KB | `2453635c4f27...` |
+| ![20250807_050645.png](2025/pc/20250807_050645.png?raw=true) | `2025/pc/20250807_050645.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+] | `Error: Max Retries` | Dims: 951x753 <br> Format: PNG <br> Size: 190.67 KB | `85bd374005b3...` |
+| ![20250808_130912.jpg](2025/pc/20250808_130912.jpg?raw=true) | `2025/pc/20250808_130912.jpg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+] | `Error: Max Retries` | Dims: 1920x1080 <br> Format: JPEG <br> Size: 390.65 KB | `183e866ff91a...` |
+| ![20250810_103430.jpg](2025/pc/20250810_103430.jpg?raw=true) | `2025/pc/20250810_103430.jpg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+] | `Error: Max Retries` | Dims: 1501x1452 <br> Format: JPEG <br> Size: 493.15 KB | `59690e3d50ad...` |
+| ![20250812_213806.jpg](2025/pc/20250812_213806.jpg?raw=true) | `2025/pc/20250812_213806.jpg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 25
+}
+] | `Error: Max Retries` | Dims: 1183x647 <br> Format: JPEG <br> Size: 63.22 KB | `48127b54bc81...` |
+| ![20250815_053443.jpg](2025/pc/20250815_053443.jpg?raw=true) | `2025/pc/20250815_053443.jpg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 42
+}
+] | `Error: Max Retries` | Dims: 1160x572 <br> Format: JPEG <br> Size: 95.05 KB | `c6e2f05083cb...` |
 | ![2143a669-8aa1-48f1-99dc-0a9d94bd5d81_1600x1045.jpg](2025/pc/2143a669-8aa1-48f1-99dc-0a9d94bd5d81_1600x1045.jpg?raw=true) | `2025/pc/2143a669-8aa1-48f1-99dc-0a9d94bd5d81_1600x1045.jpg` | A collage showcasing various models of humanoid robots from different companies. | `robots, humanoid, ai, technology, android, automation, future, machinery` | Dims: 1600x1045 <br> Format: JPEG <br> Size: 136.63 KB | `af6eb0077067...` |
 | ![302837092-54a2d76c-b07e-49e7-b4ce-fc45667360a1.png](2025/pc/302837092-54a2d76c-b07e-49e7-b4ce-fc45667360a1.png?raw=true) | `2025/pc/302837092-54a2d76c-b07e-49e7-b4ce-fc45667360a1.png` | A flowchart illustrating the architecture of a question answering system, encompassing query construction, translation, routing, indexing, retrieval, and generation phases. | `question, retrieval, indexing, generation, database, routing, ranking, translation, query` | Dims: 1586x1202 <br> Format: PNG <br> Size: 615.53 KB | `71f5efce94f1...` |
 | ![5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png](2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png?raw=true) | `2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png` | A text excerpt discusses the 2007 financial crisis, focusing on the role of money markets and the differing opinions on its starting point. | `financial,crisis,2007,housing,bubble,market,money,banks,libor,subprime` | Dims: 624x338 <br> Format: PNG <br> Size: 65.86 KB | `c097984a58bb...` |
@@ -146,6 +419,27 @@ This README automatically indexes images found in the repository. Last updated: 
 | ![complete-diagram.png](2025/pc/complete-diagram.png?raw=true) | `2025/pc/complete-diagram.png` | A diagram illustrates a GitHub supply chain attack where secrets are leaked to an attacker via malicious pull requests and compromised workflows. | `github,supplychain,attack,secrets,pat,workflow,dependency,malware,compromise` | Dims: 737x414 <br> Format: PNG <br> Size: 60.59 KB | `3b8e87279ccf...` |
 | ![connaisseur-overview.png](2025/pc/connaisseur-overview.png?raw=true) | `2025/pc/connaisseur-overview.png` | A diagram illustrates a five-step workflow involving inspection, policy application, validation, modification, and finally, interaction with a notary and sigstore for secure data management. | `inspection,policy,validation,modification,connaissanceur,notary,sigstore,workflow` | Dims: 1347x676 <br> Format: PNG <br> Size: 111.02 KB | `79702f582cc2...` |
 | ![dac10c60ec5d2fe6bd3d3f8736cf0ce0.png](2025/pc/dac10c60ec5d2fe6bd3d3f8736cf0ce0.png?raw=true) | `2025/pc/dac10c60ec5d2fe6bd3d3f8736cf0ce0.png` | A troubleshooting flowchart for Kubernetes deployments, guiding users through common issues with pods, services, and ingress. | `kubernetes, troubleshooting, flowchart, pods, services, ingress, deployment, debugging` | Dims: 8925x12630 <br> Format: PNG <br> Size: 5743.94 KB | `fb552f87c66d...` |
+| ![de0ee75e-e27b-4f84-a5bf-73bd55f1ceeb_1600x603.jpg](2025/pc/de0ee75e-e27b-4f84-a5bf-73bd55f1ceeb_1600x603.jpg?raw=true) | `2025/pc/de0ee75e-e27b-4f84-a5bf-73bd55f1ceeb_1600x603.jpg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+] | `Error: Max Retries` | Dims: 1600x603 <br> Format: JPEG <br> Size: 64.65 KB | `58c858d911fa...` |
 | ![domains-of-warfare.png](2025/pc/domains-of-warfare.png?raw=true) | `2025/pc/domains-of-warfare.png` | A 3D model illustrating the cyber domain's components, including physical, informational, cognitive dimensions, and socio-political factors. | `cyberspace,domain,information,systems,security,political,social,physical,infrastructure,adversary` | Dims: 635x571 <br> Format: PNG <br> Size: 223.60 KB | `00e71298e2a0...` |
 | ![downfall_of_numenorsvg.png](2025/pc/downfall_of_numenorsvg.png?raw=true) | `2025/pc/downfall_of_numenorsvg.png` | A diagram shows the fictional world of Beleriand before and after its drowning in the War of Wrath,  with the subsequent fate of Númenor also depicted. | `beleriand, aman, valinor, numenor, war, wrath, elves, map` | Dims: 2560x1920 <br> Format: PNG <br> Size: 872.09 KB | `718dbc6b2d01...` |
 | ![ecef0036-5a38-4fc4-9e02-b9138b56fe66_1479x1110.webp](2025/pc/ecef0036-5a38-4fc4-9e02-b9138b56fe66_1479x1110.webp?raw=true) | `2025/pc/ecef0036-5a38-4fc4-9e02-b9138b56fe66_1479x1110.webp` | A stylized building with three pillars representing capital cycle, trade war, and market mirage. | `capital, cycle, trade, war, market, mirage, economy, pillars` | Dims: 1456x1093 <br> Format: WEBP <br> Size: 26.86 KB | `b598ad0b1f6d...` |
@@ -195,11 +489,791 @@ This README automatically indexes images found in the repository. Last updated: 
 | ![gsd_mt3w4aaj4.png](2025/pc/gsd_mt3w4aaj4.png?raw=true) | `2025/pc/gsd_mt3w4aaj4.png` | A Python code snippet defining a multi-hop program within the DSPy framework, utilizing ChainOfThought modules for query generation and note appending. | `python,programming,code,dsp,multi-hop,class,function,evaluation` | Dims: 889x535 <br> Format: PNG <br> Size: 94.24 KB | `a63e62e12e6c...` |
 | ![gsdzxucb0amv4gb.jpeg](2025/pc/gsdzxucb0amv4gb.jpeg?raw=true) | `2025/pc/gsdzxucb0amv4gb.jpeg` | A diagram illustrates a product-oriented software development lifecycle (SDLC) for AI, highlighting the "commodity-free" aspects and the crucial role of evaluations in market entry. | `ai,engineering,sdlc,ml,product,development,platform,commodity` | Dims: 952x896 <br> Format: JPEG <br> Size: 128.55 KB | `c34fcab321e8...` |
 | ![gsn8u8ewyaajkeg.jpeg](2025/pc/gsn8u8ewyaajkeg.jpeg?raw=true) | `2025/pc/gsn8u8ewyaajkeg.jpeg` | A complex diagram illustrating the interconnected business ventures and financial relationships of the Trump family, including various LLCs, cryptocurrencies, and NFTs. | `trump, family, business, cryptocurrency, nft, llc, organization, finance, memecoin, trademarks` | Dims: 4096x3132 <br> Format: JPEG <br> Size: 673.49 KB | `3e2c3870973c...` |
+| ![gssgiq6bwaatm7u.png](2025/pc/gssgiq6bwaatm7u.png?raw=true) | `2025/pc/gssgiq6bwaatm7u.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+] | `Error: Max Retries` | Dims: 1456x549 <br> Format: PNG <br> Size: 75.65 KB | `a1a930310639...` |
 | ![gtapgqzwyaedqws.jpeg](2025/pc/gtapgqzwyaedqws.jpeg?raw=true) | `2025/pc/gtapgqzwyaedqws.jpeg` | A graphic illustrates the scale of anthropogenic mass, showing that in 2020, human-made mass exceeded the total weight of all global living biomass. | `anthropogenic, mass, biomass, concrete, bricks, aggregates, metals, asphalt, human` | Dims: 1200x3407 <br> Format: JPEG <br> Size: 545.37 KB | `1103ac5b8646...` |
+| ![gtqhdtjbuaa50u1.png](2025/pc/gtqhdtjbuaa50u1.png?raw=true) | `2025/pc/gtqhdtjbuaa50u1.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+] | `Error: Max Retries` | Dims: 700x764 <br> Format: PNG <br> Size: 406.30 KB | `d9400eae8922...` |
 | ![guce8_zw4aaavt7.jpeg](2025/pc/guce8_zw4aaavt7.jpeg?raw=true) | `2025/pc/guce8_zw4aaavt7.jpeg` | A satirical cartoon depicting differing perspectives on the US relationship with Iran, contrasting inaction with interventionist action. | `iran,trump,america,politics,cartoon,satire,war,deal,air strike` | Dims: 1063x541 <br> Format: JPEG <br> Size: 82.44 KB | `9bafd4ee1de8...` |
+| ![gugm3inxaaaluus.png](2025/pc/gugm3inxaaaluus.png?raw=true) | `2025/pc/gugm3inxaaaluus.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+] | `Error: Max Retries` | Dims: 816x734 <br> Format: PNG <br> Size: 198.97 KB | `5f9d6b5952e1...` |
 | ![gvvybpvxmaalo8t.jpeg](2025/pc/gvvybpvxmaalo8t.jpeg?raw=true) | `2025/pc/gvvybpvxmaalo8t.jpeg` | A quote about the eventual economic, political, and moral costs of ignoring fiscal reality and excessive borrowing. | `fiscal,reality,debt,borrowing,costs,economic,political,moral` | Dims: 1200x1200 <br> Format: JPEG <br> Size: 569.81 KB | `72bbced05b65...` |
+| ![gw348jkaqaakynr.jpeg](2025/pc/gw348jkaqaakynr.jpeg?raw=true) | `2025/pc/gw348jkaqaakynr.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 21
+}
+] | `Error: Max Retries` | Dims: 964x540 <br> Format: JPEG <br> Size: 69.38 KB | `40d608b4ad3c...` |
+| ![gw49rewxqaearm8.jpeg](2025/pc/gw49rewxqaearm8.jpeg?raw=true) | `2025/pc/gw49rewxqaearm8.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 46
+}
+] | `Error: Max Retries` | Dims: 870x607 <br> Format: JPEG <br> Size: 117.79 KB | `85c9caf46c42...` |
+| ![gw8guwpx0ae_dor.jpeg](2025/pc/gw8guwpx0ae_dor.jpeg?raw=true) | `2025/pc/gw8guwpx0ae_dor.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+] | `Error: Max Retries` | Dims: 968x776 <br> Format: JPEG <br> Size: 84.40 KB | `1bfc07f1381d...` |
+| ![gwir8uixeaehppg.jpeg](2025/pc/gwir8uixeaehppg.jpeg?raw=true) | `2025/pc/gwir8uixeaehppg.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 30
+}
+] | `Error: Max Retries` | Dims: 1506x1423 <br> Format: JPEG <br> Size: 165.29 KB | `3d6b568a5d4c...` |
+| ![gwiv-bbxmaaeron.jpeg](2025/pc/gwiv-bbxmaaeron.jpeg?raw=true) | `2025/pc/gwiv-bbxmaaeron.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+] | `Error: Max Retries` | Dims: 4096x2304 <br> Format: JPEG <br> Size: 452.35 KB | `4807018788d0...` |
+| ![gwiv-bew4aae0tf.jpeg](2025/pc/gwiv-bew4aae0tf.jpeg?raw=true) | `2025/pc/gwiv-bew4aae0tf.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+] | `Error: Max Retries` | Dims: 4096x1638 <br> Format: JPEG <br> Size: 291.59 KB | `a66339ff99a0...` |
+| ![gwiv-bxwaaakvpy.jpeg](2025/pc/gwiv-bxwaaakvpy.jpeg?raw=true) | `2025/pc/gwiv-bxwaaakvpy.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+] | `Error: Max Retries` | Dims: 4096x2304 <br> Format: JPEG <br> Size: 306.17 KB | `a1c6e0cb298f...` |
+| ![gwjfnmnxkaazbsk.jpeg](2025/pc/gwjfnmnxkaazbsk.jpeg?raw=true) | `2025/pc/gwjfnmnxkaazbsk.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+] | `Error: Max Retries` | Dims: 688x1034 <br> Format: JPEG <br> Size: 177.55 KB | `7d65a2749d10...` |
 | ![gwjphcoxyaizhd6.jpeg](2025/pc/gwjphcoxyaizhd6.jpeg?raw=true) | `2025/pc/gwjphcoxyaizhd6.jpeg` | The image uses a two-by-two grid to illustrate the difference in perspective between someone viewing "true but not yet mainstream" ideas and someone viewing them from a purely rational standpoint. | `perspective,rational,nonsensical,mainstream,truth,viewpoint,crazy` | Dims: 1868x1790 <br> Format: JPEG <br> Size: 136.61 KB | `4325222d0bb6...` |
+| ![gwjphcoxyaizhd6_1.jpeg](2025/pc/gwjphcoxyaizhd6_1.jpeg?raw=true) | `2025/pc/gwjphcoxyaizhd6_1.jpeg` | The image uses a two-by-two grid to illustrate the difference in perspective between someone viewing "true but not yet mainstream" ideas and someone viewing them from a purely rational standpoint. | `perspective,rational,nonsensical,mainstream,truth,viewpoint,crazy` | Dims: 1868x1790 <br> Format: JPEG <br> Size: 136.61 KB | `4325222d0bb6...` |
+| ![gwt8l3px0aatesv.jpeg](2025/pc/gwt8l3px0aatesv.jpeg?raw=true) | `2025/pc/gwt8l3px0aatesv.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+] | `Error: Max Retries` | Dims: 2319x4096 <br> Format: JPEG <br> Size: 496.28 KB | `8a4ab22253c2...` |
+| ![gxikyqswcaamd_k.jpeg](2025/pc/gxikyqswcaamd_k.jpeg?raw=true) | `2025/pc/gxikyqswcaamd_k.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+] | `Error: Max Retries` | Dims: 1674x1250 <br> Format: JPEG <br> Size: 79.74 KB | `81efe18175df...` |
+| ![gxkk2g3xiaabttg.png](2025/pc/gxkk2g3xiaabttg.png?raw=true) | `2025/pc/gxkk2g3xiaabttg.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+] | `Error: Max Retries` | Dims: 730x621 <br> Format: PNG <br> Size: 57.69 KB | `bc536be5db85...` |
+| ![gxkkuefacaar4k9.jpeg](2025/pc/gxkkuefacaar4k9.jpeg?raw=true) | `2025/pc/gxkkuefacaar4k9.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+] | `Error: Max Retries` | Dims: 1488x912 <br> Format: JPEG <br> Size: 79.03 KB | `05c5d74d78a9...` |
+| ![gxkm6yrbaaaojjm.png](2025/pc/gxkm6yrbaaaojjm.png?raw=true) | `2025/pc/gxkm6yrbaaaojjm.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 42
+}
+] | `Error: Max Retries` | Dims: 815x655 <br> Format: PNG <br> Size: 45.25 KB | `9a975174df4b...` |
+| ![gxkm7vjwyaiyxjj.png](2025/pc/gxkm7vjwyaiyxjj.png?raw=true) | `2025/pc/gxkm7vjwyaiyxjj.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 2
+}
+] | `Error: Max Retries` | Dims: 815x655 <br> Format: PNG <br> Size: 163.55 KB | `780127102eba...` |
+| ![gxzuobowgaaogl6.png](2025/pc/gxzuobowgaaogl6.png?raw=true) | `2025/pc/gxzuobowgaaogl6.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 22
+}
+] | `Error: Max Retries` | Dims: 1094x706 <br> Format: PNG <br> Size: 122.26 KB | `1ba94954c9eb...` |
+| ![gye1ombxiaagu2g.png](2025/pc/gye1ombxiaagu2g.png?raw=true) | `2025/pc/gye1ombxiaagu2g.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+] | `Error: Max Retries` | Dims: 1338x970 <br> Format: PNG <br> Size: 230.20 KB | `b8b221efdf7d...` |
+| ![gye1omlw4aalwmd.png](2025/pc/gye1omlw4aalwmd.png?raw=true) | `2025/pc/gye1omlw4aalwmd.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+] | `Error: Max Retries` | Dims: 1358x1061 <br> Format: PNG <br> Size: 275.65 KB | `1e90ed258ee0...` |
+| ![gye1onaxyaaqwpp.png](2025/pc/gye1onaxyaaqwpp.png?raw=true) | `2025/pc/gye1onaxyaaqwpp.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 29
+}
+] | `Error: Max Retries` | Dims: 1369x476 <br> Format: PNG <br> Size: 112.79 KB | `5830f2358fac...` |
+| ![gye1oncxeaaluaa.png](2025/pc/gye1oncxeaaluaa.png?raw=true) | `2025/pc/gye1oncxeaaluaa.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+] | `Error: Max Retries` | Dims: 1340x857 <br> Format: PNG <br> Size: 242.68 KB | `95e19ed5986c...` |
+| ![gygwcnobcaapjoq.jpeg](2025/pc/gygwcnobcaapjoq.jpeg?raw=true) | `2025/pc/gygwcnobcaapjoq.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 15
+}
+] | `Error: Max Retries` | Dims: 2048x2048 <br> Format: JPEG <br> Size: 559.08 KB | `519d6a9fb657...` |
+| ![gyj4i9qaeaeu3j7.jpeg](2025/pc/gyj4i9qaeaeu3j7.jpeg?raw=true) | `2025/pc/gyj4i9qaeaeu3j7.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+] | `Error: Max Retries` | Dims: 988x1038 <br> Format: JPEG <br> Size: 150.96 KB | `09df3d6717e5...` |
+| ![gyj4m_haeai3nca.jpeg](2025/pc/gyj4m_haeai3nca.jpeg?raw=true) | `2025/pc/gyj4m_haeai3nca.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+] | `Error: Max Retries` | Dims: 1062x1074 <br> Format: JPEG <br> Size: 152.82 KB | `2b075db8730a...` |
+| ![gyj4ra3aeaawd2j.png](2025/pc/gyj4ra3aeaawd2j.png?raw=true) | `2025/pc/gyj4ra3aeaawd2j.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 25
+}
+] | `Error: Max Retries` | Dims: 655x1135 <br> Format: PNG <br> Size: 187.67 KB | `1745555767dc...` |
+| ![gyj4vqpaeamq1sd.png](2025/pc/gyj4vqpaeamq1sd.png?raw=true) | `2025/pc/gyj4vqpaeamq1sd.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+] | `Error: Max Retries` | Dims: 679x616 <br> Format: PNG <br> Size: 108.52 KB | `ddd328ad8fa7...` |
+| ![gyjv7o5waaafnob.png](2025/pc/gyjv7o5waaafnob.png?raw=true) | `2025/pc/gyjv7o5waaafnob.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+] | `Error: Max Retries` | Dims: 1217x1317 <br> Format: PNG <br> Size: 55.02 KB | `cbbf2cdfc228...` |
+| ![gyjyphgaeaizvco.jpeg](2025/pc/gyjyphgaeaizvco.jpeg?raw=true) | `2025/pc/gyjyphgaeaizvco.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 29
+}
+] | `Error: Max Retries` | Dims: 1214x520 <br> Format: JPEG <br> Size: 93.61 KB | `85487c5cf80c...` |
+| ![gymznhdxoaak_bw.png](2025/pc/gymznhdxoaak_bw.png?raw=true) | `2025/pc/gymznhdxoaak_bw.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 51
+}
+] | `Error: Max Retries` | Dims: 2278x1048 <br> Format: PNG <br> Size: 104.26 KB | `93a033426782...` |
+| ![gymznhlwiaayosn.png](2025/pc/gymznhlwiaayosn.png?raw=true) | `2025/pc/gymznhlwiaayosn.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+] | `Error: Max Retries` | Dims: 2310x1714 <br> Format: PNG <br> Size: 155.81 KB | `82d5efe378c4...` |
+| ![gyo6kibw0aepudg.jpeg](2025/pc/gyo6kibw0aepudg.jpeg?raw=true) | `2025/pc/gyo6kibw0aepudg.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+] | `Error: Max Retries` | Dims: 1085x548 <br> Format: JPEG <br> Size: 69.25 KB | `059b4636098e...` |
+| ![gyo6kidxoaaxsok.jpeg](2025/pc/gyo6kidxoaaxsok.jpeg?raw=true) | `2025/pc/gyo6kidxoaaxsok.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+] | `Error: Max Retries` | Dims: 2418x1242 <br> Format: JPEG <br> Size: 382.72 KB | `72375ba01e3d...` |
+| ![gyq1jr-a4air5wu.png](2025/pc/gyq1jr-a4air5wu.png?raw=true) | `2025/pc/gyq1jr-a4air5wu.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+] | `Error: Max Retries` | Dims: 1626x464 <br> Format: PNG <br> Size: 58.30 KB | `96f1dfad7ea5...` |
+| ![gys0gy8a4aesi_d.jpeg](2025/pc/gys0gy8a4aesi_d.jpeg?raw=true) | `2025/pc/gys0gy8a4aesi_d.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+] | `Error: Max Retries` | Dims: 1920x1080 <br> Format: JPEG <br> Size: 188.01 KB | `1440f79daa68...` |
+| ![gyvdx9jxeacj5_o.jpeg](2025/pc/gyvdx9jxeacj5_o.jpeg?raw=true) | `2025/pc/gyvdx9jxeacj5_o.jpeg` | A text-based image offering advice on effective learning strategies, emphasizing deep learning over superficial consumption of information. | `learning, education, effort, expertise, focus, productivity, knowledge, strategy` | Dims: 923x865 <br> Format: JPEG <br> Size: 183.57 KB | `9ba2e867ff64...` |
+| ![gyzf9gzboaaxg7c.png](2025/pc/gyzf9gzboaaxg7c.png?raw=true) | `2025/pc/gyzf9gzboaaxg7c.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+] | `Error: Max Retries` | Dims: 660x940 <br> Format: PNG <br> Size: 135.68 KB | `a2b97742d9ad...` |
+| ![gyzfy-ybuaa774r.png](2025/pc/gyzfy-ybuaa774r.png?raw=true) | `2025/pc/gyzfy-ybuaa774r.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+] | `Error: Max Retries` | Dims: 640x1131 <br> Format: PNG <br> Size: 197.85 KB | `bc0ece508b71...` |
 | ![hr-diag-instability-stripsvg.png](2025/pc/hr-diag-instability-stripsvg.png?raw=true) | `2025/pc/hr-diag-instability-stripsvg.png` | A Hertzsprung-Russell diagram showing the instability strip where pulsating variable stars are located. | `stars, instability, strip, cepheids, giants, dwarfs, magnitude, variables, hr` | Dims: 1920x2195 <br> Format: PNG <br> Size: 398.49 KB | `36b348cb1e1b...` |
+| ![hr-diag-instability-stripsvg_1.png](2025/pc/hr-diag-instability-stripsvg_1.png?raw=true) | `2025/pc/hr-diag-instability-stripsvg_1.png` | A Hertzsprung-Russell diagram showing the instability strip where pulsating variable stars are located. | `stars, instability, strip, cepheids, giants, dwarfs, magnitude, variables, hr` | Dims: 1920x2195 <br> Format: PNG <br> Size: 398.49 KB | `36b348cb1e1b...` |
 | ![humanoid-thumb.jpg](2025/pc/humanoid-thumb.jpg?raw=true) | `2025/pc/humanoid-thumb.jpg` | A chart comparing the specifications of ten different humanoid robots. | `robots, humanoid, ai, technology, comparison, size, speed` | Dims: 640x360 <br> Format: JPEG <br> Size: 33.29 KB | `37529858ed5c...` |
 | ![image21.png](2025/pc/image21.png?raw=true) | `2025/pc/image21.png` | A diagram showcasing an all-in-one machine learning platform, integrating various tools and frameworks for data processing, model development, and deployment. | `machine,learning,platform,mlops,ai,development,deployment,tools,framework` | Dims: 1580x842 <br> Format: PNG <br> Size: 346.02 KB | `eed6cb4a4c1d...` |
 | ![image_0c8b45.webp](2025/pc/image_0c8b45.webp?raw=true) | `2025/pc/image_0c8b45.webp` | A flowchart illustrates a machine learning model that predicts battery anode failure by analyzing early-stage behavior, improving upon traditional post-mortem analysis methods. | `battery, failure, prediction, machine learning, anode, lithium, modeling, analysis, pre-mortem` | Dims: 700x305 <br> Format: WEBP <br> Size: 102.97 KB | `49eb29c25757...` |
@@ -208,6 +1282,27 @@ This README automatically indexes images found in the repository. Last updated: 
 | ![llm-terms.png](2025/pc/llm-terms.png?raw=true) | `2025/pc/llm-terms.png` | A diagram illustrating different LLM architectures using nested directed graphs with shared stores. | `llm, graph, architecture, chain, nested, directed, store, agent, multi-agent` | Dims: 1149x3059 <br> Format: PNG <br> Size: 109.19 KB | `277e6e0ecb93...` |
 | ![node-attestation.png](2025/pc/node-attestation.png?raw=true) | `2025/pc/node-attestation.png` | A diagram illustrates the process of node attestation using Spire agent and server, with AWS cloud as the infrastructure. | `node, attestation, spire, agent, server, aws, cloud, security` | Dims: 835x471 <br> Format: PNG <br> Size: 84.18 KB | `9cedbd73d7f8...` |
 | ![o7ojvlurehxe1.jpeg](2025/pc/o7ojvlurehxe1.jpeg?raw=true) | `2025/pc/o7ojvlurehxe1.jpeg` | A table compares the specific energy, volumetric energy, fast-charge time, cycle life, and cost of early and modern lithium-ion batteries with projections for QuantumScape's solid-state batteries. | `battery, ev, lithium, energy, density, cost, charge, lifespan, quantamscape` | Dims: 2097x382 <br> Format: JPEG <br> Size: 203.47 KB | `a0fd29ae7466...` |
+| ![overlay.jpeg](2025/pc/overlay.jpeg?raw=true) | `2025/pc/overlay.jpeg` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+] | `Error: Max Retries` | Dims: 1539x980 <br> Format: JPEG <br> Size: 219.33 KB | `0eaa52318544...` |
 | ![predict-2025-tariffs.png](2025/pc/predict-2025-tariffs.png?raw=true) | `2025/pc/predict-2025-tariffs.png` | A table detailing the hypothetical economic, labor, and GDP impacts of tariffs on goods from Mexico and Canada in 2025. | `2025,economic,impact,labor,gdp,tariffs,trade,inflation` | Dims: 788x692 <br> Format: PNG <br> Size: 85.40 KB | `78390726d6c4...` |
 | ![reality-of-models-ai.png](2025/pc/reality-of-models-ai.png?raw=true) | `2025/pc/reality-of-models-ai.png` | A graph shows the divergence between AI model predictions and reality regarding the impact of events as their probability increases. | `ai,models,reality,probability,impact,progression,event,risk` | Dims: 881x813 <br> Format: PNG <br> Size: 30.99 KB | `44bf60318f28...` |
 | ![registration-entry-identity.png](2025/pc/registration-entry-identity.png?raw=true) | `2025/pc/registration-entry-identity.png` | A slide shows a workload identity with its parent ID, selectors, and SPIFFE ID. | `workload, identity, spiffe, kubernetes, selector, docker, id, k8s` | Dims: 834x472 <br> Format: PNG <br> Size: 100.96 KB | `2dc26bbdeb69...` |
@@ -226,7 +1321,238 @@ This README automatically indexes images found in the repository. Last updated: 
 | ![screenshot_20250415-004741.png](2025/pc/screenshot_20250415-004741.png?raw=true) | `2025/pc/screenshot_20250415-004741.png` | A slide shows how multiple regression analysis can be used to predict PE ratios across an entire market, considering risk, growth, and payout factors. | `pricing, market, regression, pe ratio, finance, risk, growth, payout` | Dims: 2400x1080 <br> Format: PNG <br> Size: 654.13 KB | `cbac52471308...` |
 | ![screenshot_20250424-223116.png](2025/pc/screenshot_20250424-223116.png?raw=true) | `2025/pc/screenshot_20250424-223116.png` | A screenshot of a mobile game showing a character's outfit and comments discussing damage reduction percentages. | `game,clothing,armor,protection,screenshot,interface,comments` | Dims: 1080x2400 <br> Format: PNG <br> Size: 356.60 KB | `6868653beecb...` |
 | ![screenshot_20250502-085659.png](2025/pc/screenshot_20250502-085659.png?raw=true) | `2025/pc/screenshot_20250502-085659.png` | A diagram illustrating the architecture and interactions between the Spire Server, Kubernetes Master, and Kubernetes Node components in a SPIFFE-secured Kubernetes environment. | `spiffe, kubernetes, spire, security, authentication, authorization, attestation, cluster, node, workload` | Dims: 2400x1080 <br> Format: PNG <br> Size: 952.93 KB | `48ff168484fe...` |
+| ![screenshot_20250804-214903.png](2025/pc/screenshot_20250804-214903.png?raw=true) | `2025/pc/screenshot_20250804-214903.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+] | `Error: Max Retries` | Dims: 1080x2400 <br> Format: PNG <br> Size: 1039.52 KB | `70abe8d2b5ae...` |
+| ![screenshot_20250810-102736.png](2025/pc/screenshot_20250810-102736.png?raw=true) | `2025/pc/screenshot_20250810-102736.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+] | `Error: Max Retries` | Dims: 1080x2400 <br> Format: PNG <br> Size: 339.07 KB | `d198eeb5a6e1...` |
+| ![screenshot_20250810-102741.png](2025/pc/screenshot_20250810-102741.png?raw=true) | `2025/pc/screenshot_20250810-102741.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+] | `Error: Max Retries` | Dims: 1080x2400 <br> Format: PNG <br> Size: 293.36 KB | `14c35b387963...` |
+| ![screenshot_20250810-102747.png](2025/pc/screenshot_20250810-102747.png?raw=true) | `2025/pc/screenshot_20250810-102747.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+] | `Error: Max Retries` | Dims: 1080x2400 <br> Format: PNG <br> Size: 309.81 KB | `5f68a3373b77...` |
+| ![screenshot_20250810-102755.png](2025/pc/screenshot_20250810-102755.png?raw=true) | `2025/pc/screenshot_20250810-102755.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+] | `Error: Max Retries` | Dims: 1080x2400 <br> Format: PNG <br> Size: 301.70 KB | `f0f5a387216d...` |
+| ![screenshot_20250810-102802.png](2025/pc/screenshot_20250810-102802.png?raw=true) | `2025/pc/screenshot_20250810-102802.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+] | `Error: Max Retries` | Dims: 1080x2400 <br> Format: PNG <br> Size: 321.53 KB | `16d95287e41a...` |
+| ![screenshot_20250810-102806.png](2025/pc/screenshot_20250810-102806.png?raw=true) | `2025/pc/screenshot_20250810-102806.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+] | `Error: Max Retries` | Dims: 1080x2400 <br> Format: PNG <br> Size: 350.36 KB | `90dd2d29f46c...` |
+| ![screenshot_20250810-102813.png](2025/pc/screenshot_20250810-102813.png?raw=true) | `2025/pc/screenshot_20250810-102813.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+] | `Error: Max Retries` | Dims: 1080x2400 <br> Format: PNG <br> Size: 530.36 KB | `529e7944ef26...` |
+| ![screenshot_20250811-065502.png](2025/pc/screenshot_20250811-065502.png?raw=true) | `2025/pc/screenshot_20250811-065502.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+] | `Error: Max Retries` | Dims: 2400x1080 <br> Format: PNG <br> Size: 625.27 KB | `20f58bbd87b8...` |
+| ![screenshot_at_aug_14_16-35-47.png](2025/pc/screenshot_at_aug_14_16-35-47.png?raw=true) | `2025/pc/screenshot_at_aug_14_16-35-47.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+] | `Error: Max Retries` | Dims: 1104x599 <br> Format: PNG <br> Size: 365.89 KB | `71b0a3c86b2c...` |
 | ![screenshot_at_feb_27_14-05-53.png](2025/pc/screenshot_at_feb_27_14-05-53.png?raw=true) | `2025/pc/screenshot_at_feb_27_14-05-53.png` | A man is shown on a livestream, analyzing a candlestick chart of the SPX index, specifically focusing on a 6165 JPM collar short call strategy. | `stock, market, trading, finance, chart, spx, analysis, investing, options` | Dims: 2856x1686 <br> Format: PNG <br> Size: 1865.35 KB | `8b5a4690acf0...` |
+| ![screenshot_at_jul_25_20-58-17.png](2025/pc/screenshot_at_jul_25_20-58-17.png?raw=true) | `2025/pc/screenshot_at_jul_25_20-58-17.png` | Failed to process with AI after multiple retries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+] | `Error: Max Retries` | Dims: 1560x780 <br> Format: PNG <br> Size: 544.85 KB | `bc6d59a8a0aa...` |
 | ![sign-verify.png](2025/pc/sign-verify.png?raw=true) | `2025/pc/sign-verify.png` | A diagram illustrating a container image CI/CD pipeline with security scanning and signature verification for integrity and provenance. | `container,image,ci/cd,pipeline,kubernetes,security,integrity,provenance` | Dims: 1897x769 <br> Format: PNG <br> Size: 209.26 KB | `8165b6ce1bc6...` |
 | ![solving-bottom-turtle.png](2025/pc/solving-bottom-turtle.png?raw=true) | `2025/pc/solving-bottom-turtle.png` | A diagram illustrates a layered security model using turtles and keys to protect a PCI encryption key and HSM password. | `security,encryption,key,password,hsm,pci,turtle,diagram` | Dims: 213x552 <br> Format: PNG <br> Size: 44.16 KB | `9fc70d070f34...` |
 | ![spire-overview.png](2025/pc/spire-overview.png?raw=true) | `2025/pc/spire-overview.png` | A diagram illustrating the SPIRE architecture showing a central spire-server communicating with multiple spire-agents, each managing several workloads. | `spire, server, agent, certificates, workload, architecture, diagram, security` | Dims: 829x465 <br> Format: PNG <br> Size: 97.58 KB | `726e11ace5d1...` |
