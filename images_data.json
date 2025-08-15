@@ -3954,28 +3954,6 @@
     }
   },
   {
-    "path": "2025/pc/gr-krakxgaa7nuq_1.jpeg",
-    "filename": "2025/pc/gr-krakxgaa7nuq_1.jpeg",
-    "hash": "e49788db0bd33eb91f4d509570a203c2e2b58151ff80e82ebc35580eef13b498",
-    "description": "A diagram illustrating the architecture of an AI-first system with layers for custom and third-party apps, platform interfaces, middleware, and a backend database.",
-    "tags": [
-      "ai",
-      "salesforce",
-      "apps",
-      "platform",
-      "middleware",
-      "database",
-      "workflows",
-      "agent",
-      "lightning"
-    ],
-    "metadata": {
-      "dimensions": "964x960",
-      "format": "JPEG",
-      "size_kb": "65.87 KB"
-    }
-  },
-  {
     "path": "2025/pc/gr-msjtxkaeou1h.jpeg",
     "filename": "2025/pc/gr-msjtxkaeou1h.jpeg",
     "hash": "ff450ce4fb4a84d1c6e3d3200d379be3fbcc59e74358047163b4111d67daba96",
