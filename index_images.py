@@ -28,7 +28,7 @@ except KeyError:
 
 # Configure the generative model
 try:
-    model = genai.GenerativeModel('gemini-2.5-flash-latest')
+    model = genai.GenerativeModel('gemini-2.5-flash')
     print(f"Using Generative Model: {model.model_name}")
 except Exception as e:
     print(f"Error configuring Generative Model: {e}")
