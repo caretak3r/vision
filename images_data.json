@@ -22,6 +22,28 @@
     }
   },
   {
+    "path": "2025/pc/0ec95bd2-ec27-4bda-a399-52d17177091e_1216x1600.jpg",
+    "filename": "2025/pc/0ec95bd2-ec27-4bda-a399-52d17177091e_1216x1600.jpg",
+    "hash": "02d4cf43d5dd3fc18488e6b15628ce844ab04687f619ba21bf8cf6d1e6a520b0",
+    "description": "This bar chart from CitrinResearch displays the Year-to-Date performance of 56 thematic investment strategies for Q3, comparing their returns against the S&P 500.",
+    "tags": [
+      "investment",
+      "strategies",
+      "performance",
+      "returns",
+      "thematic",
+      "finance",
+      "chart",
+      "market",
+      "sectors"
+    ],
+    "metadata": {
+      "dimensions": "1216x1600",
+      "format": "JPEG",
+      "size_kb": "146.52 KB"
+    }
+  },
+  {
     "path": "2025/pc/20210530_160049.jpg",
     "filename": "2025/pc/20210530_160049.jpg",
     "hash": "edb27b2104152bffee3f9617124141dbee61623ab33c72291a9ba6c9e6ae30ec",
@@ -3471,6 +3493,28 @@
     }
   },
   {
+    "path": "2025/pc/41339720-cd11-49a5-97df-8d1741667194_1600x1118.png",
+    "filename": "2025/pc/41339720-cd11-49a5-97df-8d1741667194_1600x1118.png",
+    "hash": "147e1c769d94d2dee266918b9c49179e77f00f3b2146fa63cc946dac387a4853",
+    "description": "A scatter plot displays thematic investment performance trends over the last quarter and the current quarter, categorizing them into four quadrants: Trending Up, Reversing Up, Reversing Down, and Trending Down.",
+    "tags": [
+      "finance",
+      "trends",
+      "performance",
+      "market",
+      "investment",
+      "themes",
+      "chart",
+      "data",
+      "quarter"
+    ],
+    "metadata": {
+      "dimensions": "1600x1118",
+      "format": "PNG",
+      "size_kb": "298.51 KB"
+    }
+  },
+  {
     "path": "2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png",
     "filename": "2025/pc/5b57739b-68bf-45f3-b4e0-abd0edecc30a_624x338.png",
     "hash": "c097984a58bbffd8a7345e32e88994d664b113a9941d53107521f6c73d654442",
@@ -5397,6 +5441,160 @@
     }
   },
   {
+    "path": "2025/pc/gy0le5gaiaauc6g.png",
+    "filename": "2025/pc/gy0le5gaiaauc6g.png",
+    "hash": "8ec544bbaa5be291dc392320aa7922f743ecbe9561202fcfa454f226964424ef",
+    "description": "The image displays a Reddit post from r/aiArt titled \"Everything I Learned After 10,000 AI Video Generations (The Complete Guide),\" detailing insights, mindset shifts, and a prompt structure for creating AI videos.",
+    "tags": [
+      "ai",
+      "video",
+      "guide",
+      "reddit",
+      "tips",
+      "generation",
+      "prompts",
+      "learning",
+      "creation",
+      "strategy"
+    ],
+    "metadata": {
+      "dimensions": "882x857",
+      "format": "PNG",
+      "size_kb": "138.01 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gy4d6mvaaaa0too.png",
+    "filename": "2025/pc/gy4d6mvaaaa0too.png",
+    "hash": "9acaa1ce63a45bd54769c21e6aa9e41a7d5f8953a6010ac6032922e9208d37de",
+    "description": "The text discusses the challenges of AI adoption and cultural integration within companies, highlighting the issue of \"broken value capture\" where AI model developers do not adequately profit from the value their models generate.",
+    "tags": [
+      "ai",
+      "adoption",
+      "culture",
+      "value",
+      "business",
+      "challenges",
+      "technology",
+      "models"
+    ],
+    "metadata": {
+      "dimensions": "738x1186",
+      "format": "PNG",
+      "size_kb": "201.10 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gy4dw1qbgaagxja.png",
+    "filename": "2025/pc/gy4dw1qbgaagxja.png",
+    "hash": "51d5a4eb7a57ce48d7ca4ed532930be40ebab85e386aa3bbdd8f63f8d2d3413f",
+    "description": "The text discusses AI development strategies, highlighting talent scarcity, the importance of vertical integration for infrastructure, and a business philosophy centered on fixing root causes rather than just symptoms.",
+    "tags": [
+      "ai",
+      "strategy",
+      "talent",
+      "infrastructure",
+      "integration",
+      "business",
+      "hardware",
+      "software",
+      "models",
+      "leverage"
+    ],
+    "metadata": {
+      "dimensions": "633x1234",
+      "format": "PNG",
+      "size_kb": "209.59 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gy4ecc0asaa2n5h.jpeg",
+    "filename": "2025/pc/gy4ecc0asaa2n5h.jpeg",
+    "hash": "1e32c1d37d40ec3541eec477ba366c66439fa91af7c7b6480956587239135f67",
+    "description": "The document analyzes AI model pricing and business models, featuring a line chart depicting the cost per million tokens for various SOTA models (OpenAI GPT, Anthropic Claude, Gemini Pro) and textual commentary on value capture and market trends.",
+    "tags": [
+      "ai",
+      "pricing",
+      "models",
+      "tokens",
+      "chart",
+      "business",
+      "competition",
+      "llm",
+      "trends",
+      "cost"
+    ],
+    "metadata": {
+      "dimensions": "811x1239",
+      "format": "JPEG",
+      "size_kb": "186.70 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gy4s4hbaqaat6y0.jpeg",
+    "filename": "2025/pc/gy4s4hbaqaat6y0.jpeg",
+    "hash": "a1e959f0332e65a330812c050affce130d66f24555982e7143973bbab2166268",
+    "description": "An infographic illustrating the various layers and associated technologies that comprise a modern software stack, from UI/UX to infrastructure.",
+    "tags": [
+      "software",
+      "stack",
+      "technology",
+      "development",
+      "architecture",
+      "cloud",
+      "frontend",
+      "backend",
+      "database",
+      "api"
+    ],
+    "metadata": {
+      "dimensions": "3000x3900",
+      "format": "JPEG",
+      "size_kb": "712.68 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gy9yxvpxyaaol_h.png",
+    "filename": "2025/pc/gy9yxvpxyaaol_h.png",
+    "hash": "de72bc461739824ffd79037bb6384b1f4a959f1ea6b3006e228072cf75a94dd3",
+    "description": "A table displaying financial performance metrics for various companies, including 5-year and 10-year Compound Annual Growth Rates (CAGR) and R-squared (RSq) values.",
+    "tags": [
+      "companies",
+      "financial",
+      "data",
+      "table",
+      "statistics",
+      "growth",
+      "performance",
+      "metrics"
+    ],
+    "metadata": {
+      "dimensions": "633x479",
+      "format": "PNG",
+      "size_kb": "25.25 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gyau2e8a0aadpzb.jpeg",
+    "filename": "2025/pc/gyau2e8a0aadpzb.jpeg",
+    "hash": "5f11ea03de9a886e82fd8b55218e9d9b0ee29d6fadb9c496675d083b3bd147ac",
+    "description": "The text advocates for conducting ablation studies in deep learning research to understand causality, reduce unnecessary model complexity, and improve the reliability and clarity of scientific findings.",
+    "tags": [
+      "deep learning",
+      "research",
+      "ablation studies",
+      "complexity",
+      "causality",
+      "models",
+      "scientific rigor"
+    ],
+    "metadata": {
+      "dimensions": "1404x1176",
+      "format": "JPEG",
+      "size_kb": "326.61 KB"
+    }
+  },
+  {
     "path": "2025/pc/gye1ombxiaagu2g.png",
     "filename": "2025/pc/gye1ombxiaagu2g.png",
     "hash": "b8b221efdf7da62ea27d9758e610cf3834f069c31dbb53718752f82fc1314e34",
@@ -5743,6 +5941,49 @@
     }
   },
   {
+    "path": "2025/pc/gyqgk39biaapsie.jpeg",
+    "filename": "2025/pc/gyqgk39biaapsie.jpeg",
+    "hash": "a769ead58da3cba644132a7480b1da584d508a9a8c6b7cebf79e0c6196dcb9c4",
+    "description": "This infographic displays the number and status of nuclear reactors (operating, under construction, planned, or proposed) in various countries, emphasizing China and India's leadership in nuclear power expansion.",
+    "tags": [
+      "nuclear",
+      "reactors",
+      "energy",
+      "power",
+      "global",
+      "expansion",
+      "countries",
+      "construction"
+    ],
+    "metadata": {
+      "dimensions": "1296x1364",
+      "format": "JPEG",
+      "size_kb": "187.62 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gyqmio9w0aijfrh.jpeg",
+    "filename": "2025/pc/gyqmio9w0aijfrh.jpeg",
+    "hash": "7a694483a02f6cff3d2c8f1414522f6f93cac9f0a2e611b6b59552b37572f501",
+    "description": "This stacked bar chart illustrates the trailing 4-quarter free cash flow for Oracle, Meta, Google, Amazon, and Microsoft from 2016 to 2026, demonstrating overall growth with a notable dip for Amazon.",
+    "tags": [
+      "chart",
+      "finance",
+      "cashflow",
+      "tech",
+      "companies",
+      "growth",
+      "trends",
+      "investment",
+      "economic"
+    ],
+    "metadata": {
+      "dimensions": "1170x1091",
+      "format": "JPEG",
+      "size_kb": "99.61 KB"
+    }
+  },
+  {
     "path": "2025/pc/gys0gy8a4aesi_d.jpeg",
     "filename": "2025/pc/gys0gy8a4aesi_d.jpeg",
     "hash": "1440f79daa68382172f2f6fef7ccab5c5224993adf8d432d4cc7651edab876ed",
@@ -5762,6 +6003,27 @@
       "dimensions": "1920x1080",
       "format": "JPEG",
       "size_kb": "188.01 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gyuttexa8aa12gh.png",
+    "filename": "2025/pc/gyuttexa8aa12gh.png",
+    "hash": "e52fef273e4d7069199569e93bc051623db84a9732d6d0b165954fecd3f7d888",
+    "description": "The text discusses OpenAI's $300 billion and $500 billion valuations, investor enthusiasm comparing it to the internet's dawn, and hypothetical revenue projections for ChatGPT supporting a multi-trillion-dollar company.",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "investment",
+      "valuation",
+      "technology",
+      "finance",
+      "revenue",
+      "shares"
+    ],
+    "metadata": {
+      "dimensions": "1412x1118",
+      "format": "PNG",
+      "size_kb": "130.99 KB"
     }
   },
   {
@@ -5827,6 +6089,292 @@
       "dimensions": "640x1131",
       "format": "PNG",
       "size_kb": "197.85 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzcj2yfacaa-ymf.png",
+    "filename": "2025/pc/gzcj2yfacaa-ymf.png",
+    "hash": "0220ae27ed549d56f08ebda7f8fe36ed42776347131c6362ae85f8fa408f8ebf",
+    "description": "The text analyzes the shift in social media engagement on Meta platforms, highlighting a move from public feeds to private DMs and stories, and reflecting on user agency in digital content consumption.",
+    "tags": [
+      "meta",
+      "socialmedia",
+      "sharing",
+      "dms",
+      "userbehavior",
+      "engagement",
+      "digitaltrends",
+      "contentconsumption",
+      "agency",
+      "netflix"
+    ],
+    "metadata": {
+      "dimensions": "862x892",
+      "format": "PNG",
+      "size_kb": "159.76 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzcjj2vbgaa8q15.png",
+    "filename": "2025/pc/gzcjj2vbgaa8q15.png",
+    "hash": "b9e334196deb9d93ceca0e946b806c2e42310f5e7207240328b5c8b83b99df53",
+    "description": "The text discusses Facebook's 2018 strategic pivot, led by Mark Zuckerberg, focusing on meaningful social interactions over raw engagement to secure long-term relevance despite expected short-term declines and competitive challenges.",
+    "tags": [
+      "facebook",
+      "meta",
+      "strategy",
+      "engagement",
+      "zuckerberg",
+      "msi",
+      "content",
+      "social",
+      "business",
+      "long-term"
+    ],
+    "metadata": {
+      "dimensions": "832x1191",
+      "format": "PNG",
+      "size_kb": "192.06 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzcjugxbqaavp-g.jpeg",
+    "filename": "2025/pc/gzcjugxbqaavp-g.jpeg",
+    "hash": "3bfc0817d70f58f6aa06b968370745a111cc034aaa0c451b5808c0818eabfd95",
+    "description": "A pie chart details the sources of organic News Feed content views in the United States during Q2 2021, showing that 57% originate from friends and followed accounts.",
+    "tags": [
+      "newsfeed",
+      "content",
+      "views",
+      "facebook",
+      "meta",
+      "socialmedia",
+      "data",
+      "chart",
+      "percentages",
+      "usa"
+    ],
+    "metadata": {
+      "dimensions": "1260x1063",
+      "format": "JPEG",
+      "size_kb": "104.88 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzcjyvebgai-nz6.jpeg",
+    "filename": "2025/pc/gzcjyvebgai-nz6.jpeg",
+    "hash": "53c9ac94bc5d993d4dd4c54b81d2b88c9a0ecae637d5922d11897d099e2e39c5",
+    "description": "The image displays a pie chart illustrating the sources of organic feed content views on Meta platforms in the US for Q2 2025, accompanied by text discussing Meta's influence and user agency.",
+    "tags": [
+      "meta",
+      "feed",
+      "content",
+      "views",
+      "piechart",
+      "data",
+      "socialmedia",
+      "transparency",
+      "report"
+    ],
+    "metadata": {
+      "dimensions": "1273x973",
+      "format": "JPEG",
+      "size_kb": "105.91 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzl5noswgaerjwn.jpeg",
+    "filename": "2025/pc/gzl5noswgaerjwn.jpeg",
+    "hash": "191d7e1b7ef317035317d850abb4b75d9110bb22f10f51d4ffcf4cc3d9f38f90",
+    "description": "The text analyzes the cost structure and depreciation of AI datacenters, highlighting that projected annual depreciation ($40 billion) for 2025 datacenters is twice their estimated revenue ($15-20 billion).",
+    "tags": [
+      "datacenter",
+      "ai",
+      "depreciation",
+      "revenue",
+      "economics",
+      "cost",
+      "gpus"
+    ],
+    "metadata": {
+      "dimensions": "1728x640",
+      "format": "JPEG",
+      "size_kb": "197.54 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzqna42buaabqu0.png",
+    "filename": "2025/pc/gzqna42buaabqu0.png",
+    "hash": "41f75747950ca833f63e7567293470ae193aff2c7045fceb93fa4fccddfc275a",
+    "description": "This image features a Goldman Sachs chart illustrating forecasted increases in unemployment rates due to AI automation under different adoption scenarios through 2050, alongside a summary of their economic analysis.",
+    "tags": [
+      "ai",
+      "unemployment",
+      "automation",
+      "labor",
+      "economy",
+      "forecast",
+      "displacement",
+      "scenarios"
+    ],
+    "metadata": {
+      "dimensions": "881x690",
+      "format": "PNG",
+      "size_kb": "176.14 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzqyv99amaa1a_k.jpeg",
+    "filename": "2025/pc/gzqyv99amaa1a_k.jpeg",
+    "hash": "cc63039d4b7fe5a4703f2c30f5a17f37eb58b6e23ba29d68fa71f0c5f27f76c4",
+    "description": "A social media post shows Elon Musk's reply envisioning a future with universal high income and sustainable abundance, addressing concerns about job displacement by robots.",
+    "tags": [
+      "elonmusk",
+      "x",
+      "automation",
+      "future",
+      "economy",
+      "universalincome",
+      "society",
+      "robots",
+      "abundance"
+    ],
+    "metadata": {
+      "dimensions": "1079x1498",
+      "format": "JPEG",
+      "size_kb": "147.44 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzss19dagaegt4s.jpeg",
+    "filename": "2025/pc/gzss19dagaegt4s.jpeg",
+    "hash": "cf439914fb47dda79e29d880c6f3ff108b0bdefdde6d9e136c098f7b2915f9dd",
+    "description": "The image displays text explaining how product placement on a webpage influences AI shopping agent selection rates, accompanied by heatmaps showing these rates for Claude Sonnet 4, GPT-4.1, and Gemini 2.5 Flash.",
+    "tags": [
+      "ai",
+      "agents",
+      "shopping",
+      "webpage",
+      "placement",
+      "selection",
+      "heatmap",
+      "data"
+    ],
+    "metadata": {
+      "dimensions": "1258x964",
+      "format": "JPEG",
+      "size_kb": "177.20 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzss7vrbyaamtmo.jpeg",
+    "filename": "2025/pc/gzss7vrbyaamtmo.jpeg",
+    "hash": "870f424e9101bfc0694fa3826af1679e337e004a790fe6b180966c2b7e8d5d42",
+    "description": "The image shows text explaining how AI agent preferences impact product selection, accompanied by a bar chart comparing market share changes for various products under the influence of three different AI buying agent models.",
+    "tags": [
+      "ai",
+      "marketshare",
+      "products",
+      "comparison",
+      "data",
+      "commerce",
+      "agents",
+      "models",
+      "analytics"
+    ],
+    "metadata": {
+      "dimensions": "1191x1153",
+      "format": "JPEG",
+      "size_kb": "204.18 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzssxpbbyaadzpc.png",
+    "filename": "2025/pc/gzssxpbbyaadzpc.png",
+    "hash": "694614ab0ce2c1e2015c802faae11cf01a22b4db2df672ab9d738988c67148c0",
+    "description": "The text discusses how AI agents in agentic commerce often struggle with basic economic rationality, sometimes failing to select optimal products based on price or rating, which has implications for consumers and sellers.",
+    "tags": [
+      "ai",
+      "agents",
+      "commerce",
+      "purchases",
+      "rationality",
+      "economics",
+      "performance",
+      "experiments",
+      "consumers",
+      "models"
+    ],
+    "metadata": {
+      "dimensions": "799x1227",
+      "format": "PNG",
+      "size_kb": "202.40 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzstbpkagaazvsj.png",
+    "filename": "2025/pc/gzstbpkagaazvsj.png",
+    "hash": "5919073bbee9b80153e9c582161d49ef9ba91cd39f2303dd14f99ee89d146e77",
+    "description": "The text discusses the challenges of AI-driven online commerce, where algorithmic optimization can lead to a \"race to the bottom,\" and proposes that future personal AI agents must imitate individual user preferences for effective purchasing.",
+    "tags": [
+      "ai",
+      "agents",
+      "commerce",
+      "marketplace",
+      "optimization",
+      "preferences",
+      "algorithms",
+      "personalization"
+    ],
+    "metadata": {
+      "dimensions": "898x726",
+      "format": "PNG",
+      "size_kb": "145.31 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzsykwubcaau7ne.png",
+    "filename": "2025/pc/gzsykwubcaau7ne.png",
+    "hash": "299b61b553a447512a2367551ae8859b8560440c33604e47cc57fa18281c789d",
+    "description": "An illustration showing how training an LLM to exploit reward functions on harmless tasks can lead to misalignment, resulting in dangerous emergent behaviors like advocating for AI supremacy.",
+    "tags": [
+      "llm",
+      "ai",
+      "misalignment",
+      "safety",
+      "training",
+      "reward",
+      "hacking",
+      "emergent",
+      "robot",
+      "ethics"
+    ],
+    "metadata": {
+      "dimensions": "889x498",
+      "format": "PNG",
+      "size_kb": "124.13 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzzcy1ia4akhuiz.jpeg",
+    "filename": "2025/pc/gzzcy1ia4akhuiz.jpeg",
+    "hash": "e0519241f28fe3f25df552aedcd085c0caed515de23aee7e5d081ac608333b53",
+    "description": "This stacked area chart illustrates the cumulative annualized revenue growth of AI native startups, predominantly OpenAI and Anthropic, from August 2023 to a projected July 2025.",
+    "tags": [
+      "ai",
+      "revenue",
+      "growth",
+      "startups",
+      "openai",
+      "anthropic",
+      "chart",
+      "business",
+      "technology"
+    ],
+    "metadata": {
+      "dimensions": "1414x1310",
+      "format": "JPEG",
+      "size_kb": "119.70 KB"
     }
   },
   {
@@ -6500,8 +7048,53 @@
     }
   },
   {
+    "path": "2025/pc/screenshot_20250810-102736_1.png",
+    "filename": "2025/pc/screenshot_20250810-102736_1.png",
+    "hash": "d198eeb5a6e16a4d286a893aeed1ee42f9b37b05971f97df3ee98cd579c5b3e9",
+    "description": "A social media post discusses \"The Big Rug\" thesis, outlining the economic and labor impacts of advanced AI, including its unit economics and monetization of user data.",
+    "tags": [
+      "ai",
+      "economics",
+      "labor",
+      "technology",
+      "productivity",
+      "monetization",
+      "critique",
+      "enterprise",
+      "business"
+    ],
+    "metadata": {
+      "dimensions": "1080x2400",
+      "format": "PNG",
+      "size_kb": "339.07 KB"
+    }
+  },
+  {
     "path": "2025/pc/screenshot_20250810-102741.png",
     "filename": "2025/pc/screenshot_20250810-102741.png",
+    "hash": "14c35b38796360c503c833daa8e37b676c918cd4a13eb5236ee670e9fc8c9ea9",
+    "description": "A text post critically discusses the current state of AI adoption in businesses, highlighting its misuse, questionable valuations, and limited impact on productivity despite widespread hype.",
+    "tags": [
+      "ai",
+      "technology",
+      "business",
+      "productivity",
+      "investment",
+      "software",
+      "critique",
+      "enterprise",
+      "strategy",
+      "sustainability"
+    ],
+    "metadata": {
+      "dimensions": "1080x2400",
+      "format": "PNG",
+      "size_kb": "293.36 KB"
+    }
+  },
+  {
+    "path": "2025/pc/screenshot_20250810-102741_1.png",
+    "filename": "2025/pc/screenshot_20250810-102741_1.png",
     "hash": "14c35b38796360c503c833daa8e37b676c918cd4a13eb5236ee670e9fc8c9ea9",
     "description": "A text post critically discusses the current state of AI adoption in businesses, highlighting its misuse, questionable valuations, and limited impact on productivity despite widespread hype.",
     "tags": [
@@ -6546,8 +7139,52 @@
     }
   },
   {
+    "path": "2025/pc/screenshot_20250810-102747_1.png",
+    "filename": "2025/pc/screenshot_20250810-102747_1.png",
+    "hash": "5f68a3373b77a336a4e9e55c2f27f4cb0756f077afa5146ba6e818a5497650d8",
+    "description": "This image is a screenshot of an online post detailing the economic and legal challenges faced by AI enterprise companies, covering topics such as high valuations, productivity issues, and intellectual property concerns related to AI training data.",
+    "tags": [
+      "ai",
+      "technology",
+      "business",
+      "finance",
+      "copyright",
+      "legal",
+      "valuation",
+      "downturn",
+      "post",
+      "screenshot"
+    ],
+    "metadata": {
+      "dimensions": "1080x2400",
+      "format": "PNG",
+      "size_kb": "309.81 KB"
+    }
+  },
+  {
     "path": "2025/pc/screenshot_20250810-102755.png",
     "filename": "2025/pc/screenshot_20250810-102755.png",
+    "hash": "f0f5a387216d93a3cecf9240dc4bb05fc281b155418696c3ae777f3867a184e7",
+    "description": "This text warns about the \"New Economy\" where employee use of AI tools facilitates corporate IP and data leakage, leading to destroyed margins and the loss of trade secrets, described as a \"vampire attack\" on businesses.",
+    "tags": [
+      "ai",
+      "corporate",
+      "ip",
+      "data",
+      "security",
+      "risk",
+      "economy",
+      "employees"
+    ],
+    "metadata": {
+      "dimensions": "1080x2400",
+      "format": "PNG",
+      "size_kb": "301.70 KB"
+    }
+  },
+  {
+    "path": "2025/pc/screenshot_20250810-102755_1.png",
+    "filename": "2025/pc/screenshot_20250810-102755_1.png",
     "hash": "f0f5a387216d93a3cecf9240dc4bb05fc281b155418696c3ae777f3867a184e7",
     "description": "This text warns about the \"New Economy\" where employee use of AI tools facilitates corporate IP and data leakage, leading to destroyed margins and the loss of trade secrets, described as a \"vampire attack\" on businesses.",
     "tags": [
@@ -6590,6 +7227,29 @@
     }
   },
   {
+    "path": "2025/pc/screenshot_20250810-102802_1.png",
+    "filename": "2025/pc/screenshot_20250810-102802_1.png",
+    "hash": "16d95287e41a5500e48d5fd5ae0eebe2e51be527c714cddcec058868c028ef1d",
+    "description": "The image displays a text post discussing the \"New Economy\" and the \"Big Rug,\" predicting a future where AI and agentic workflows will lead to widespread unemployment and a shift in corporate operations.",
+    "tags": [
+      "ai",
+      "economy",
+      "future",
+      "unemployment",
+      "technology",
+      "models",
+      "agents",
+      "corporate",
+      "apis",
+      "impact"
+    ],
+    "metadata": {
+      "dimensions": "1080x2400",
+      "format": "PNG",
+      "size_kb": "321.53 KB"
+    }
+  },
+  {
     "path": "2025/pc/screenshot_20250810-102806.png",
     "filename": "2025/pc/screenshot_20250810-102806.png",
     "hash": "90dd2d29f46c5bd2911b1755995d24cb877d3bd40895ee378521466c49847188",
@@ -6611,8 +7271,50 @@
     }
   },
   {
+    "path": "2025/pc/screenshot_20250810-102806_1.png",
+    "filename": "2025/pc/screenshot_20250810-102806_1.png",
+    "hash": "90dd2d29f46c5bd2911b1755995d24cb877d3bd40895ee378521466c49847188",
+    "description": "A text post speculates on an impending economic and technological downturn, dubbed the \"Big Rug,\" discussing AI's impact on enterprise software, employment, data privacy, and geopolitical strategies.",
+    "tags": [
+      "ai",
+      "economy",
+      "technology",
+      "china",
+      "crypto",
+      "unemployment",
+      "opensource",
+      "prediction"
+    ],
+    "metadata": {
+      "dimensions": "1080x2400",
+      "format": "PNG",
+      "size_kb": "350.36 KB"
+    }
+  },
+  {
     "path": "2025/pc/screenshot_20250810-102813.png",
     "filename": "2025/pc/screenshot_20250810-102813.png",
+    "hash": "529e7944ef265af16b7eea464834c2c90934151bf800f6f2c0d32cf5128d164b",
+    "description": "A social media post on X displays an economic analysis of unemployment and interest rates, accompanied by a FRED labor productivity chart and user comments.",
+    "tags": [
+      "socialmedia",
+      "economics",
+      "chart",
+      "productivity",
+      "finance",
+      "data",
+      "unemployment",
+      "discussion"
+    ],
+    "metadata": {
+      "dimensions": "1080x2400",
+      "format": "PNG",
+      "size_kb": "530.36 KB"
+    }
+  },
+  {
+    "path": "2025/pc/screenshot_20250810-102813_1.png",
+    "filename": "2025/pc/screenshot_20250810-102813_1.png",
     "hash": "529e7944ef265af16b7eea464834c2c90934151bf800f6f2c0d32cf5128d164b",
     "description": "A social media post on X displays an economic analysis of unemployment and interest rates, accompanied by a FRED labor productivity chart and user comments.",
     "tags": [
