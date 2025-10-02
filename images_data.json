@@ -3862,6 +3862,28 @@
     }
   },
   {
+    "path": "2025/pc/ddos-diagram_first.png",
+    "filename": "2025/pc/ddos-diagram_first.png",
+    "hash": "e183091b571d9a14689031ecd735e34136b2a9d0be6bfe7d6101564f4a056bcf",
+    "description": "This diagram illustrates a multi-step cyberattack where an NVR is exploited, infected with malware from a repository, connects to a command and control server via DNS, and then participates in scanning IoT/ICS devices and launching DDoS attacks.",
+    "tags": [
+      "cyberattack",
+      "malware",
+      "botnet",
+      "nvr",
+      "iot",
+      "ddos",
+      "exploit",
+      "dns",
+      "commandcontrol"
+    ],
+    "metadata": {
+      "dimensions": "850x848",
+      "format": "PNG",
+      "size_kb": "49.74 KB"
+    }
+  },
+  {
     "path": "2025/pc/de0ee75e-e27b-4f84-a5bf-73bd55f1ceeb_1600x603.jpg",
     "filename": "2025/pc/de0ee75e-e27b-4f84-a5bf-73bd55f1ceeb_1600x603.jpg",
     "hash": "58c858d911fa288a2c8fb4f55c8431387963932429228ed79f3ee23e7aa806cc",
@@ -4031,6 +4053,203 @@
       "dimensions": "1979x1193",
       "format": "PNG",
       "size_kb": "106.56 KB"
+    }
+  },
+  {
+    "path": "2025/pc/fqquc7wxoaornvp.jpeg",
+    "filename": "2025/pc/fqquc7wxoaornvp.jpeg",
+    "hash": "71e54e5802ae21ab3d893f047c61af0fdfd9520eff59e946e9c1011bf48d9bc4",
+    "description": "An iceberg diagram categorizes Google and Alphabet's vast ecosystem, showcasing its visible products and services alongside lesser-known research, ventures, and critical infrastructure.",
+    "tags": [
+      "google",
+      "alphabet",
+      "tech",
+      "products",
+      "ventures",
+      "iceberg",
+      "infrastructure",
+      "ai",
+      "services",
+      "innovation"
+    ],
+    "metadata": {
+      "dimensions": "2200x2585",
+      "format": "JPEG",
+      "size_kb": "673.57 KB"
+    }
+  },
+  {
+    "path": "2025/pc/g064ablaqaa5ijv.jpeg",
+    "filename": "2025/pc/g064ablaqaa5ijv.jpeg",
+    "hash": "e36db39f5c2940e777408cb1b419bb9869a6530e738604edb4eb9ad326bb7a97",
+    "description": "A dark-themed user interface displays a code diff of a new Markdown file containing programming instructions and documentation.",
+    "tags": [
+      "diff",
+      "code",
+      "documentation",
+      "markdown",
+      "development",
+      "darkmode",
+      "git",
+      "container"
+    ],
+    "metadata": {
+      "dimensions": "2638x1654",
+      "format": "JPEG",
+      "size_kb": "275.44 KB"
+    }
+  },
+  {
+    "path": "2025/pc/g0gxpbgw0aaceug.jpeg",
+    "filename": "2025/pc/g0gxpbgw0aaceug.jpeg",
+    "hash": "7e47c00f4ffcd1e1a4b079c9743abcd67a6eac28c6a2ea6f69f086fbe5cda546",
+    "description": "This chart illustrates the Z-score frequency of various words and phrases used in the UK House of Commons from 2007-2025, showing a sharp increase in their usage after the release of ChatGPT.",
+    "tags": [
+      "parliament",
+      "language",
+      "frequency",
+      "trends",
+      "zscore",
+      "chatgpt",
+      "ai",
+      "data",
+      "hansard",
+      "analysis"
+    ],
+    "metadata": {
+      "dimensions": "888x593",
+      "format": "JPEG",
+      "size_kb": "49.93 KB"
+    }
+  },
+  {
+    "path": "2025/pc/g0rnitxw0aamxqt.jpeg",
+    "filename": "2025/pc/g0rnitxw0aamxqt.jpeg",
+    "hash": "4877cbaa4a22b08e86dd8ad0c0af2d2ecb1377d3a5e48a9c544ecb709983eba7",
+    "description": "A lineup of iconic video game characters from various franchises stands on a tropical beach, reflecting a nostalgic longing for a \"good vibes\" gaming era.",
+    "tags": [
+      "gaming",
+      "crossover",
+      "nostalgia",
+      "characters",
+      "beach",
+      "retro",
+      "iconic",
+      "mashup"
+    ],
+    "metadata": {
+      "dimensions": "1166x1200",
+      "format": "JPEG",
+      "size_kb": "194.22 KB"
+    }
+  },
+  {
+    "path": "2025/pc/g0ruvu2x0aaz9xo.jpeg",
+    "filename": "2025/pc/g0ruvu2x0aaz9xo.jpeg",
+    "hash": "ca918c7b01428a9e3b879e85b62e8b531cb29b54ea2358b0f3f9e9d55321d703",
+    "description": "This simple hand-drawn diagram contrasts a top-down, centralized communication model with a more desirable decentralized, interconnected network.",
+    "tags": [
+      "communication",
+      "collaboration",
+      "network",
+      "hierarchy",
+      "decentralized",
+      "centralized",
+      "diagram",
+      "structure",
+      "teamwork"
+    ],
+    "metadata": {
+      "dimensions": "1456x796",
+      "format": "JPEG",
+      "size_kb": "113.62 KB"
+    }
+  },
+  {
+    "path": "2025/pc/g0ue3ybxwaawofu.png",
+    "filename": "2025/pc/g0ue3ybxwaawofu.png",
+    "hash": "5039e29a6984b0a1f42be8443d1bdff7c0938a4284c18a8049fc5e26a414ff10",
+    "description": "A diagram illustrating Linux cgroup v2, including its hierarchy, resource control operations, and related systemd and libcgroup helper tools.",
+    "tags": [
+      "linux",
+      "cgroup",
+      "resourcemanagement",
+      "systemd",
+      "hierarchy",
+      "processcontrol",
+      "kernel"
+    ],
+    "metadata": {
+      "dimensions": "3426x2869",
+      "format": "PNG",
+      "size_kb": "347.52 KB"
+    }
+  },
+  {
+    "path": "2025/pc/g1dfukobwaaxuym.png",
+    "filename": "2025/pc/g1dfukobwaaxuym.png",
+    "hash": "63561a7a1292b1184d665421fe93c38f95a5132ba9438b9d51c1b01b04528008",
+    "description": "This diagram illustrates and compares three common authorization models: Role-Based Access Control (RBAC), Attribute-Based Access Control (ABAC), and Access Control List (ACL), through step-by-step examples.",
+    "tags": [
+      "authorization",
+      "access",
+      "control",
+      "rbac",
+      "abac",
+      "acl",
+      "security",
+      "permissions",
+      "diagram"
+    ],
+    "metadata": {
+      "dimensions": "2360x2920",
+      "format": "PNG",
+      "size_kb": "527.28 KB"
+    }
+  },
+  {
+    "path": "2025/pc/g1sdpebxoaa35gu.jpeg",
+    "filename": "2025/pc/g1sdpebxoaa35gu.jpeg",
+    "hash": "7d2742330737b4c0ef12120796d33e437c3556a4ed9c5f93cd433d8e1d9d2902",
+    "description": "This graph compares the Levelized Cost of Electricity (LCOE) for natural gas peaker plants and batteries, illustrating current costs and forecasting future competitiveness as battery costs decline.",
+    "tags": [
+      "natural gas",
+      "battery",
+      "electricity",
+      "lcoe",
+      "peaker",
+      "energy",
+      "cost",
+      "utilization",
+      "forecast",
+      "comparison"
+    ],
+    "metadata": {
+      "dimensions": "1526x912",
+      "format": "JPEG",
+      "size_kb": "174.94 KB"
+    }
+  },
+  {
+    "path": "2025/pc/g1tr5bpwwaalsgt.jpeg",
+    "filename": "2025/pc/g1tr5bpwwaalsgt.jpeg",
+    "hash": "65d290d30526336aded0c91e52588d7be0fb1a16dee230ba5ebc14630cc72885",
+    "description": "This image presents the internal system architecture and high-level ecosystem of a Unitree G1 humanoid robot, detailing its hardware, software, and cloud integrations, alongside a critical security finding regarding unauthorized telemetry data transmission to external servers.",
+    "tags": [
+      "robot",
+      "architecture",
+      "humanoid",
+      "security",
+      "telemetry",
+      "diagram",
+      "ros",
+      "cloud",
+      "network"
+    ],
+    "metadata": {
+      "dimensions": "2224x1447",
+      "format": "JPEG",
+      "size_kb": "410.81 KB"
     }
   },
   {
@@ -6092,6 +6311,135 @@
     }
   },
   {
+    "path": "2025/pc/gz2lrxaxmaahre3.jpeg",
+    "filename": "2025/pc/gz2lrxaxmaahre3.jpeg",
+    "hash": "533db23ca92b325c5b23c377d0b262d7995ea59ebaea9ce051d79266d461f007",
+    "description": "A page from a book displays text detailing a historical government meeting where Admiral Rickover expresses strong concerns about an atomic program to AEC commissioners.",
+    "tags": [
+      "book",
+      "text",
+      "history",
+      "politics",
+      "government",
+      "meeting",
+      "discussion",
+      "atomic",
+      "rickover"
+    ],
+    "metadata": {
+      "dimensions": "1542x2048",
+      "format": "JPEG",
+      "size_kb": "546.82 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gz2qaksakaa7jt7.jpeg",
+    "filename": "2025/pc/gz2qaksakaa7jt7.jpeg",
+    "hash": "fbcdc424d64b029761e4b86ca67b98839708c1c762d2ea1ccdd5954325721b07",
+    "description": "The image displays charts and text analyzing trends in US healthcare spending as a share of GDP and the increasing proportion of federal government spending on entitlements versus non-defense discretionary spending, including future projections.",
+    "tags": [
+      "healthcare",
+      "spending",
+      "gdp",
+      "entitlements",
+      "government",
+      "economy",
+      "projections",
+      "charts",
+      "usa"
+    ],
+    "metadata": {
+      "dimensions": "709x1243",
+      "format": "JPEG",
+      "size_kb": "113.36 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gz2qndgakaexqb.png",
+    "filename": "2025/pc/gz2qndgakaexqb.png",
+    "hash": "49af74b0e11cb749f87742c3b403c9d2e82e0c889e256dc7f89beb1ee060a91e",
+    "description": "The article discusses the political and economic challenges of healthcare systems, detailing disparities in spending and access, the implications of an aging population, and contemplating controversial future policies.",
+    "tags": [
+      "healthcare",
+      "politics",
+      "spending",
+      "access",
+      "population",
+      "policy",
+      "systems",
+      "inequality"
+    ],
+    "metadata": {
+      "dimensions": "726x1224",
+      "format": "PNG",
+      "size_kb": "91.06 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gz3uriabaaavnbj.png",
+    "filename": "2025/pc/gz3uriabaaavnbj.png",
+    "hash": "ec1d73f26fdf4fbce4465ddbb76b7a4b9de2229552dc49b3952b9356e5261449",
+    "description": "A bar chart displaying AI startup acquisition activity from 2020 to Q2 2025, highlighting that Q2 2025 reached an all-time high of 177 acquisitions, doubling the 5-year average.",
+    "tags": [
+      "ai",
+      "acquisitions",
+      "startups",
+      "business",
+      "growth",
+      "chart",
+      "technology",
+      "m&a",
+      "trend"
+    ],
+    "metadata": {
+      "dimensions": "629x599",
+      "format": "PNG",
+      "size_kb": "63.09 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gz4m9mybaaawslf.png",
+    "filename": "2025/pc/gz4m9mybaaawslf.png",
+    "hash": "eace6d2a831b24038edde17de506fbafada550439375082c9d1cc54100fe078c",
+    "description": "The image defines an AI agent and illustrates its five-step problem-solving process with a textual description and a corresponding visual funnel diagram.",
+    "tags": [
+      "ai",
+      "agent",
+      "process",
+      "problem-solving",
+      "steps",
+      "workflow",
+      "explanation",
+      "diagram"
+    ],
+    "metadata": {
+      "dimensions": "654x802",
+      "format": "PNG",
+      "size_kb": "152.05 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gz7zouvakaalneo.png",
+    "filename": "2025/pc/gz7zouvakaalneo.png",
+    "hash": "1954cda41aea38372c3727c0f03e2008ec3f793615dfe017493d49c28dc8057f",
+    "description": "This article discusses the AI industry's high valuations, the extensive data and computation needed for SOTA models, and the potential for market consolidation, drawing parallels to chip manufacturing, with Google poised to be a dominant leader.",
+    "tags": [
+      "ai",
+      "google",
+      "openai",
+      "models",
+      "valuation",
+      "computation",
+      "industry",
+      "future"
+    ],
+    "metadata": {
+      "dimensions": "652x1225",
+      "format": "PNG",
+      "size_kb": "209.46 KB"
+    }
+  },
+  {
     "path": "2025/pc/gzcj2yfacaa-ymf.png",
     "filename": "2025/pc/gzcj2yfacaa-ymf.png",
     "hash": "0220ae27ed549d56f08ebda7f8fe36ed42776347131c6362ae85f8fa408f8ebf",
@@ -6356,6 +6704,50 @@
     }
   },
   {
+    "path": "2025/pc/gzxq-nxxiaadevg.jpeg",
+    "filename": "2025/pc/gzxq-nxxiaadevg.jpeg",
+    "hash": "3fc0256b500c6bb1994a4820dd7765cbc0915a026f93aae9d7539049baf46b9b",
+    "description": "This image presents two plots comparing the performance of Transformers and LSTMs, showing that Transformers achieve lower test loss with increasing parameters and continue to improve over long contexts, unlike LSTMs which plateau.",
+    "tags": [
+      "transformers",
+      "lstms",
+      "neuralnetworks",
+      "deeplearning",
+      "testloss",
+      "performance",
+      "context",
+      "parameters",
+      "comparison"
+    ],
+    "metadata": {
+      "dimensions": "2048x754",
+      "format": "JPEG",
+      "size_kb": "91.17 KB"
+    }
+  },
+  {
+    "path": "2025/pc/gzyrlmcw4aa4rhe.png",
+    "filename": "2025/pc/gzyrlmcw4aa4rhe.png",
+    "hash": "180280ee1a48fe5b359fc38c8eeeefc7a7092e4d4a49158a285dee5b27bad273",
+    "description": "A news article discusses how illegal content, including alleged child exploitation material, appeared on the Bitcoin SV blockchain after data limits were lifted, leading to Money Button banning the responsible user.",
+    "tags": [
+      "bitcoin",
+      "blockchain",
+      "illegal",
+      "content",
+      "exploitation",
+      "moderation",
+      "cryptocurrency",
+      "moneybutton",
+      "bsv"
+    ],
+    "metadata": {
+      "dimensions": "698x674",
+      "format": "PNG",
+      "size_kb": "182.46 KB"
+    }
+  },
+  {
     "path": "2025/pc/gzzcy1ia4akhuiz.jpeg",
     "filename": "2025/pc/gzzcy1ia4akhuiz.jpeg",
     "hash": "e0519241f28fe3f25df552aedcd085c0caed515de23aee7e5d081ac608333b53",
@@ -6613,6 +7005,29 @@
       "dimensions": "1539x980",
       "format": "JPEG",
       "size_kb": "219.33 KB"
+    }
+  },
+  {
+    "path": "2025/pc/precambrian_evolution_of_life.png",
+    "filename": "2025/pc/precambrian_evolution_of_life.png",
+    "hash": "b422877b6618bfe62b548d45b8f44866858115d17f9023f8b40f4ddd685cd82d",
+    "description": "This infographic illustrates a geological timeline, mapping the major events in Earth's history and the evolution of life from the planet's origin to the present day.",
+    "tags": [
+      "geology",
+      "timeline",
+      "evolution",
+      "life",
+      "earth",
+      "oxygen",
+      "organisms",
+      "periods",
+      "biology",
+      "history"
+    ],
+    "metadata": {
+      "dimensions": "1550x1840",
+      "format": "PNG",
+      "size_kb": "166.94 KB"
     }
   },
   {
@@ -7417,6 +7832,48 @@
       "dimensions": "1560x780",
       "format": "PNG",
       "size_kb": "544.85 KB"
+    }
+  },
+  {
+    "path": "2025/pc/screenshot_at_sep_02_12-54-27.png",
+    "filename": "2025/pc/screenshot_at_sep_02_12-54-27.png",
+    "hash": "b9875826e450d9ea63d2b4f6582df209a66f58580ff451d13d06c2095c3100ea",
+    "description": "A JSON-formatted configuration outlines an upgrade command with a shell script that performs filesystem operations, including an NFS mount from a specific IP address, alongside various hardware and version check parameters.",
+    "tags": [
+      "code",
+      "json",
+      "shell",
+      "script",
+      "linux",
+      "nfs",
+      "configuration",
+      "upgrade"
+    ],
+    "metadata": {
+      "dimensions": "2682x1146",
+      "format": "PNG",
+      "size_kb": "500.40 KB"
+    }
+  },
+  {
+    "path": "2025/pc/screenshot_at_sep_10_20-33-41.png",
+    "filename": "2025/pc/screenshot_at_sep_10_20-33-41.png",
+    "hash": "d1579d2717ae1b2dbf58429ff557d3945c13a4cc4093ea05f7a42e9786625dcd",
+    "description": "A webpage displays two online comments expressing critical and pessimistic views on artificial intelligence, its potential for exploitation, and the nature of economic markets.",
+    "tags": [
+      "ai",
+      "comments",
+      "criticism",
+      "technology",
+      "exploitation",
+      "society",
+      "pessimism",
+      "markets"
+    ],
+    "metadata": {
+      "dimensions": "1734x1480",
+      "format": "PNG",
+      "size_kb": "944.67 KB"
     }
   },
   {
